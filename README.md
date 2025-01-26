@@ -27,6 +27,9 @@ Launching :
 
 roslaunch rexrov2_gazebo start_demo_pid_controller.launch
 
+(PID control)
+
 roslaunch uuv_control_utils send_waypoints_file.launch uuv_name:=rexrov2 interpolator:=lipb
+
 
 
