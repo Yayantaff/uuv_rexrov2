@@ -2,21 +2,21 @@
 
 Robot Descriptions Generic Format :
 '''
-<ROBOT_NAME>_description
-|-- launch
-    |-- upload.launch
-|-- meshes
-    |-- README.md
-|-- robots
-    |-- default.xacro
-|-- urdf
-    |-- actuators.xacro
-    |-- base.xacro
-    |-- gazebo.xacro
-    |-- sensors.xacro
-    |-- snippets.xacro
-`-- CMakeLists.txt
-`-- package.xml
+<ROBOT_NAME>_description  
+|-- launch  
+    --|-- upload.launch  
+|-- meshes  
+    --|-- README.md  
+|-- robots  
+    --|-- default.xacro  
+|-- urdf  
+    --|-- actuators.xacro  
+    --|-- base.xacro  
+    --|-- gazebo.xacro  
+    --|-- sensors.xacro  
+    --|-- snippets.xacro  
+`-- CMakeLists.txt  
+`-- package.xml  
 '''
 This is the ROS workspace for simulating a UUV model RexROV2 for demontration purposes.
 Location : src/RexROV2/RexROV2_description
