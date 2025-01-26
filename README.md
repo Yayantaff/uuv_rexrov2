@@ -1,7 +1,7 @@
 # uuv_rexrov2
 
 Robot Descriptions Generic Format :
-'''
+
 <ROBOT_NAME>_description  
 |-- launch  
     --|-- upload.launch  
@@ -17,7 +17,7 @@ Robot Descriptions Generic Format :
     --|-- snippets.xacro  
 `-- CMakeLists.txt  
 `-- package.xml  
-'''
+
 This is the ROS workspace for simulating a UUV model RexROV2 for demontration purposes.
 Location : src/RexROV2/RexROV2_description
 
