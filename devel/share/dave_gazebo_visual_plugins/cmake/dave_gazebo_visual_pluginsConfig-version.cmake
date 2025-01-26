@@ -1,0 +1,1 @@
+/home/constance/uuv_ws/devel/.private/dave_gazebo_visual_plugins/share/dave_gazebo_visual_plugins/cmake/dave_gazebo_visual_pluginsConfig-version.cmake

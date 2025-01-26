@@ -1,0 +1,310 @@
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_CriticalProcess
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_VoidCmd
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_ClockOffset
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_StringStamped
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_KeyBool
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_RawData
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_IoCommandList
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_KeyInt
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_CountdownMonitor
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_StringCmd
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_Countdown
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_Abort
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_IoCommand
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_Diag
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_IoSMcommand
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_DsHeader
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_ParamUpdate
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_Status
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_KeyFloat
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_KeyDouble
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_ParamDescription
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_ByteSequence
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_IoSMQueues
+[  0%] Built target _ds_core_msgs_generate_messages_check_deps_KeyString
+[ 20%] Built target ds_core_msgs_generate_messages_py
+[ 20%] Built target std_msgs_generate_messages_cpp
+[ 39%] Built target ds_core_msgs_generate_messages_cpp
+[ 39%] Built target std_msgs_generate_messages_nodejs
+[ 60%] Built target ds_core_msgs_generate_messages_nodejs
+[ 60%] Built target std_msgs_generate_messages_lisp
+[ 79%] Built target ds_core_msgs_generate_messages_lisp
+[ 79%] Built target std_msgs_generate_messages_eus
+[100%] Built target ds_core_msgs_generate_messages_eus
+[100%] Built target ds_core_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Up-to-date: /home/constance/uuv_ws/install/_setup_util.py
+-- Up-to-date: /home/constance/uuv_ws/install/env.sh
+-- Up-to-date: /home/constance/uuv_ws/install/setup.bash
+-- Up-to-date: /home/constance/uuv_ws/install/local_setup.bash
+-- Up-to-date: /home/constance/uuv_ws/install/setup.sh
+-- Up-to-date: /home/constance/uuv_ws/install/local_setup.sh
+-- Up-to-date: /home/constance/uuv_ws/install/setup.zsh
+-- Up-to-date: /home/constance/uuv_ws/install/local_setup.zsh
+-- Up-to-date: /home/constance/uuv_ws/install/.rosinstall
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/msg/Abort.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/msg/Diag.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/msg/DsHeader.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/msg/KeyBool.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/msg/KeyInt.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/msg/KeyFloat.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/msg/KeyDouble.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/msg/KeyString.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/msg/ParamDescription.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/msg/ParamUpdate.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/msg/Status.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/msg/RawData.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/msg/ByteSequence.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/msg/IoCommand.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/msg/IoCommandList.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/msg/IoSMQueues.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/msg/CriticalProcess.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/msg/Countdown.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/msg/CountdownMonitor.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/msg/StringStamped.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/msg/ClockOffset.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/srv/VoidCmd.srv
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/srv/IoSMcommand.srv
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/srv/StringCmd.srv
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/cmake/ds_core_msgs-msg-paths.cmake
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/StringCmd.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/DsHeader.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/IoCommandList.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/VoidCmdResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/StringCmdRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/StringStamped.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/KeyBool.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/IoSMcommandRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/ClockOffset.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/ParamDescription.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/ByteSequence.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/Abort.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/Countdown.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/VoidCmdRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/Diag.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/KeyString.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/Status.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/IoSMcommand.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/CriticalProcess.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/IoCommand.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/KeyDouble.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/IoSMcommandResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/IoSMQueues.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/ParamUpdate.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/StringCmdResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/CountdownMonitor.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/VoidCmd.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/KeyFloat.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/RawData.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_core_msgs/KeyInt.h
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/srv/StringCmd.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/srv/VoidCmd.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/srv/IoSMcommand.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/manifest.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg/ParamDescription.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg/IoSMQueues.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg/Status.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg/StringStamped.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg/RawData.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg/KeyString.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg/ClockOffset.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg/ByteSequence.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg/KeyBool.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg/CountdownMonitor.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg/IoCommandList.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg/KeyDouble.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg/ParamUpdate.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg/DsHeader.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg/CriticalProcess.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg/Diag.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg/IoCommand.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg/KeyInt.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg/KeyFloat.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg/Abort.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_core_msgs/msg/Countdown.l
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/srv/StringCmd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/srv/_package.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/srv/_package_IoSMcommand.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/srv/IoSMcommand.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/srv/_package_VoidCmd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/srv/ds_core_msgs-srv.asd
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/srv/_package_StringCmd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/srv/VoidCmd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/KeyInt.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/RawData.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package_KeyFloat.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/Status.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/ds_core_msgs-msg.asd
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/KeyString.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/Diag.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package_Diag.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package_ByteSequence.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/KeyBool.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package_RawData.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/ParamDescription.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package_CriticalProcess.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package_Countdown.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/ByteSequence.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package_Status.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/IoCommandList.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/DsHeader.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package_ParamUpdate.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/KeyFloat.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/IoCommand.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package_IoSMQueues.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/CountdownMonitor.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package_Abort.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package_DsHeader.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package_CountdownMonitor.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package_StringStamped.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/ParamUpdate.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package_KeyBool.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/IoSMQueues.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/CriticalProcess.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package_IoCommandList.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/Countdown.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package_KeyDouble.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/Abort.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package_KeyString.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package_ParamDescription.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/StringStamped.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/ClockOffset.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/KeyDouble.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package_ClockOffset.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package_KeyInt.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_core_msgs/msg/_package_IoCommand.lisp
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/srv/StringCmd.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/srv/IoSMcommand.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/srv/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/srv/VoidCmd.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/KeyBool.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/IoSMQueues.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/ParamUpdate.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/KeyFloat.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/IoCommandList.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/RawData.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/StringStamped.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/CountdownMonitor.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/Status.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/IoCommand.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/KeyString.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/KeyInt.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/ByteSequence.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/ParamDescription.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/Countdown.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/DsHeader.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/Abort.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/CriticalProcess.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/ClockOffset.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/Diag.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_core_msgs/msg/KeyDouble.js
+Listing '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/__init__.py'...
+Listing '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/_Abort.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/_ByteSequence.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/_ClockOffset.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/_Countdown.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/_CountdownMonitor.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/_CriticalProcess.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/_Diag.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/_DsHeader.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/_IoCommand.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/_IoCommandList.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/_IoSMQueues.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/_KeyBool.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/_KeyDouble.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/_KeyFloat.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/_KeyInt.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/_KeyString.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/_ParamDescription.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/_ParamUpdate.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/_RawData.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/_Status.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/_StringStamped.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/msg/__init__.py'...
+Listing '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/srv'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/srv/_IoSMcommand.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/srv/_StringCmd.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/srv/_VoidCmd.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_core_msgs/lib/python3/dist-packages/ds_core_msgs/srv/__init__.py'...
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/srv/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/srv/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/srv/__pycache__/_IoSMcommand.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/srv/__pycache__/_VoidCmd.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/srv/__pycache__/_StringCmd.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/srv/_VoidCmd.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/srv/_StringCmd.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/srv/_IoSMcommand.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/srv/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/_KeyInt.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/_StringStamped.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/_KeyFloat.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/_RawData.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/_KeyBool.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/_IoCommand.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/_ByteSequence.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/_ParamUpdate.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/_DsHeader.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/_Countdown.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/_KeyDouble.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/_CountdownMonitor.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/_IoCommandList.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/_ParamDescription.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/_KeyBool.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/_Diag.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/_ParamDescription.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/_ClockOffset.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/_IoCommand.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/_KeyString.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/_RawData.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/_Abort.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/_CountdownMonitor.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/_StringStamped.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/_IoCommandList.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/_KeyInt.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/_ByteSequence.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/_KeyFloat.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/_Countdown.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/_Status.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/_IoSMQueues.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/_DsHeader.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/_ParamUpdate.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/_CriticalProcess.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__pycache__/_KeyDouble.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/_IoSMQueues.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/_ClockOffset.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/_KeyString.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/_Abort.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/_Diag.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/_Status.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/msg/_CriticalProcess.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_core_msgs/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/pkgconfig/ds_core_msgs.pc
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/cmake/ds_core_msgs-msg-extras.cmake
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/cmake/ds_core_msgsConfig.cmake
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/cmake/ds_core_msgsConfig-version.cmake
+-- Installing: /home/constance/uuv_ws/install/share/ds_core_msgs/package.xml

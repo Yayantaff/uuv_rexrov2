@@ -1,0 +1,5 @@
+dave/urdf/sensors/nortek_dvl1000_4000_uuvsim_description
+/home/constance/uuv_ws/devel/.private/nortek_dvl1000_4000_uuvsim_description/cmake.lock /home/constance/uuv_ws/devel/./cmake.lock
+/home/constance/uuv_ws/devel/.private/nortek_dvl1000_4000_uuvsim_description/share/nortek_dvl1000_4000_uuvsim_description/cmake/nortek_dvl1000_4000_uuvsim_descriptionConfig-version.cmake /home/constance/uuv_ws/devel/share/nortek_dvl1000_4000_uuvsim_description/cmake/nortek_dvl1000_4000_uuvsim_descriptionConfig-version.cmake
+/home/constance/uuv_ws/devel/.private/nortek_dvl1000_4000_uuvsim_description/share/nortek_dvl1000_4000_uuvsim_description/cmake/nortek_dvl1000_4000_uuvsim_descriptionConfig.cmake /home/constance/uuv_ws/devel/share/nortek_dvl1000_4000_uuvsim_description/cmake/nortek_dvl1000_4000_uuvsim_descriptionConfig.cmake
+/home/constance/uuv_ws/devel/.private/nortek_dvl1000_4000_uuvsim_description/lib/pkgconfig/nortek_dvl1000_4000_uuvsim_description.pc /home/constance/uuv_ws/devel/lib/pkgconfig/nortek_dvl1000_4000_uuvsim_description.pc

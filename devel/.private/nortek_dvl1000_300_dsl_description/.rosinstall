@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/constance/uuv_ws/devel/.private/nortek_dvl1000_300_dsl_description/setup.sh

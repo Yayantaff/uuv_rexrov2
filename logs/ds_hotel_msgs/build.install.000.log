@@ -1,0 +1,345 @@
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_ClioBattery
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_Charge
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_TriggerChannelConfig
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_PwrSwitchDeviceCmd
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_PowerCmd
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_HTPGL
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_ClioChgCmd
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_A2D2
+[  0%] Built target ds_core_msgs_generate_messages_nodejs
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_BatteryCmd
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_PwrSwitchDeviceStatus
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_HTP
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_PwrSwitch
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_ClioBatteryPack
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_PowerSupply
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_PWRdevice
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_XR
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_XrSimState
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_AbortCmd
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_PowerSupplyCommand
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_PwrSwitchCmd
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_ChargeCmd
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_PwrSwitchDevices
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_TrigPrmCtrlCmd
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_BatMan
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_PWR
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_Battery
+[ 19%] Built target ds_hotel_msgs_generate_messages_nodejs
+[ 19%] Built target std_msgs_generate_messages_py
+[ 19%] Built target ds_core_msgs_generate_messages_py
+[ 40%] Built target ds_hotel_msgs_generate_messages_py
+[ 40%] Built target ds_core_msgs_generate_messages_lisp
+[ 40%] Built target std_msgs_generate_messages_lisp
+[ 60%] Built target ds_hotel_msgs_generate_messages_lisp
+[ 60%] Built target ds_core_msgs_generate_messages_cpp
+[ 60%] Built target std_msgs_generate_messages_cpp
+[ 79%] Built target ds_hotel_msgs_generate_messages_cpp
+[ 79%] Built target ds_core_msgs_generate_messages_eus
+[ 79%] Built target std_msgs_generate_messages_eus
+[100%] Built target ds_hotel_msgs_generate_messages_eus
+[100%] Built target ds_hotel_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/constance/uuv_ws/install/_setup_util.py
+-- Installing: /home/constance/uuv_ws/install/env.sh
+-- Installing: /home/constance/uuv_ws/install/setup.bash
+-- Installing: /home/constance/uuv_ws/install/local_setup.bash
+-- Installing: /home/constance/uuv_ws/install/setup.sh
+-- Installing: /home/constance/uuv_ws/install/local_setup.sh
+-- Installing: /home/constance/uuv_ws/install/setup.zsh
+-- Installing: /home/constance/uuv_ws/install/local_setup.zsh
+-- Installing: /home/constance/uuv_ws/install/.rosinstall
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/Charge.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/PowerSupply.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/HTP.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/HTPGL.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/BatMan.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/Battery.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/ClioBattery.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/ClioBatteryPack.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/PWRdevice.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/PWR.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/PwrSwitch.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/PwrSwitchDevices.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/PwrSwitchDeviceStatus.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/TriggerChannelConfig.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/PwrSwitchDeviceCmd.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/XR.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/XrSimState.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/A2D2.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/srv/AbortCmd.srv
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/srv/BatteryCmd.srv
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/srv/PowerCmd.srv
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/srv/PowerSupplyCommand.srv
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/srv/PwrSwitchCmd.srv
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/srv/ChargeCmd.srv
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/srv/ClioChgCmd.srv
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/srv/TrigPrmCtrlCmd.srv
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/cmake/ds_hotel_msgs-msg-paths.cmake
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PowerCmdResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/ClioBattery.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/ClioChgCmdResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/ClioChgCmdRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PwrSwitchDeviceStatus.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/ChargeCmdResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PowerSupplyCommandResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/AbortCmdResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/HTPGL.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PwrSwitchCmd.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/A2D2.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/Charge.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/TrigPrmCtrlCmdResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/XR.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/BatteryCmdResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PowerSupply.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PWR.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PWRdevice.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PwrSwitchCmdResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/ClioBatteryPack.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/ChargeCmd.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/TrigPrmCtrlCmdRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PowerCmdRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/AbortCmd.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/TriggerChannelConfig.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PowerSupplyCommand.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PwrSwitchDevices.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/BatMan.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PowerCmd.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/BatteryCmd.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PwrSwitch.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/HTP.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/TrigPrmCtrlCmd.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PowerSupplyCommandRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/ClioChgCmd.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PwrSwitchDeviceCmd.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/Battery.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/ChargeCmdRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/AbortCmdRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/BatteryCmdRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PwrSwitchCmdRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_hotel_msgs/XrSimState.h
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/srv/PowerCmd.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/srv/TrigPrmCtrlCmd.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/srv/PowerSupplyCommand.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/srv/ChargeCmd.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/srv/BatteryCmd.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/srv/PwrSwitchCmd.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/srv/ClioChgCmd.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/srv/AbortCmd.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/manifest.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/XR.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/PowerSupply.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/XrSimState.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/HTP.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/BatMan.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/PwrSwitchDeviceStatus.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/ClioBattery.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/TriggerChannelConfig.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/PwrSwitchDeviceCmd.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/PwrSwitchDevices.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/HTPGL.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/PwrSwitch.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/PWR.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/PWRdevice.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/Battery.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/Charge.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/A2D2.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/ClioBatteryPack.l
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/BatteryCmd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/_package_PwrSwitchCmd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/_package_PowerSupplyCommand.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/ClioChgCmd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/_package.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/_package_AbortCmd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/_package_BatteryCmd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/_package_ChargeCmd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/ds_hotel_msgs-srv.asd
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/PowerCmd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/_package_ClioChgCmd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/PwrSwitchCmd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/PowerSupplyCommand.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/_package_PowerCmd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/ChargeCmd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/TrigPrmCtrlCmd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/_package_TrigPrmCtrlCmd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/AbortCmd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_ClioBattery.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_PWRdevice.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/PwrSwitchDeviceCmd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/PwrSwitch.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/XrSimState.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/HTPGL.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_TriggerChannelConfig.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_ClioBatteryPack.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_PwrSwitchDevices.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/PWR.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_HTP.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/ds_hotel_msgs-msg.asd
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_Charge.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/A2D2.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/PwrSwitchDeviceStatus.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/PWRdevice.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_Battery.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/BatMan.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/XR.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_PwrSwitchDeviceCmd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_PwrSwitchDeviceStatus.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_PWR.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/ClioBattery.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_A2D2.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/PowerSupply.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/PwrSwitchDevices.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_XR.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_PowerSupply.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_HTPGL.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_BatMan.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/TriggerChannelConfig.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/Battery.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/HTP.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_XrSimState.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/ClioBatteryPack.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_PwrSwitch.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/Charge.lisp
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/srv/TrigPrmCtrlCmd.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/srv/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/srv/PowerCmd.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/srv/BatteryCmd.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/srv/PwrSwitchCmd.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/srv/ChargeCmd.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/srv/PowerSupplyCommand.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/srv/AbortCmd.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/srv/ClioChgCmd.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/PWR.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/PWRdevice.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/TriggerChannelConfig.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/Charge.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/A2D2.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/HTP.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/XrSimState.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/PowerSupply.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/PwrSwitch.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/BatMan.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/PwrSwitchDevices.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/HTPGL.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/ClioBattery.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/XR.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/PwrSwitchDeviceCmd.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/ClioBatteryPack.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/PwrSwitchDeviceStatus.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/Battery.js
+Listing '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/__init__.py'...
+Listing '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/msg'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/msg/_A2D2.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/msg/_BatMan.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/msg/_Battery.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/msg/_Charge.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/msg/_ClioBattery.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/msg/_ClioBatteryPack.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/msg/_HTP.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/msg/_HTPGL.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/msg/_PWR.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/msg/_PWRdevice.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/msg/_PowerSupply.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/msg/_PwrSwitch.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/msg/_PwrSwitchDeviceCmd.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/msg/_PwrSwitchDeviceStatus.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/msg/_PwrSwitchDevices.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/msg/_TriggerChannelConfig.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/msg/_XR.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/msg/_XrSimState.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/msg/__init__.py'...
+Listing '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/srv'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/srv/_AbortCmd.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/srv/_BatteryCmd.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/srv/_ChargeCmd.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/srv/_ClioChgCmd.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/srv/_PowerCmd.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/srv/_PowerSupplyCommand.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/srv/_PwrSwitchCmd.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/srv/_TrigPrmCtrlCmd.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/srv/__init__.py'...
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/_TrigPrmCtrlCmd.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__pycache__/_PwrSwitchCmd.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__pycache__/_PowerSupplyCommand.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__pycache__/_PowerCmd.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__pycache__/_ClioChgCmd.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__pycache__/_AbortCmd.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__pycache__/_TrigPrmCtrlCmd.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__pycache__/_BatteryCmd.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__pycache__/_ChargeCmd.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/_AbortCmd.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/_ClioChgCmd.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/_BatteryCmd.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/_PowerSupplyCommand.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/_PowerCmd.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/_ChargeCmd.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/_PwrSwitchCmd.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_ClioBattery.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_ClioBatteryPack.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_Charge.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_PwrSwitchDeviceCmd.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_PWR.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_XrSimState.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_Battery.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_TriggerChannelConfig.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_HTPGL.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_PwrSwitchDevices.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_Charge.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_XrSimState.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_A2D2.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_ClioBattery.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_BatMan.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_ClioBatteryPack.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_XR.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_HTP.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_Battery.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_PWR.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_PowerSupply.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_PWRdevice.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_PwrSwitchDeviceStatus.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_PwrSwitchDeviceCmd.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_PwrSwitch.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_PwrSwitch.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_PwrSwitchDeviceStatus.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_PWRdevice.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_TriggerChannelConfig.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_HTPGL.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_PwrSwitchDevices.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_HTP.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_XR.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_BatMan.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_PowerSupply.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_A2D2.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/pkgconfig/ds_hotel_msgs.pc
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/cmake/ds_hotel_msgs-msg-extras.cmake
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/cmake/ds_hotel_msgsConfig.cmake
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/cmake/ds_hotel_msgsConfig-version.cmake
+-- Installing: /home/constance/uuv_ws/install/share/ds_hotel_msgs/package.xml

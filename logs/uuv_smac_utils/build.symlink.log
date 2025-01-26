@@ -1,0 +1,13 @@
+Symlinking /home/constance/uuv_ws/devel/share/uuv_smac_utils/cmake/uuv_smac_utilsConfig-version.cmake
+Symlinking /home/constance/uuv_ws/devel/share/uuv_smac_utils/cmake/uuv_smac_utilsConfig.cmake
+Symlinking /home/constance/uuv_ws/devel/lib/uuv_smac_utils/create_results_folder
+Symlinking /home/constance/uuv_ws/devel/lib/uuv_smac_utils/sync_smac_files
+Symlinking /home/constance/uuv_ws/devel/lib/uuv_smac_utils/run_smac
+Symlinking /home/constance/uuv_ws/devel/lib/uuv_smac_utils/cmake.lock
+Symlinking /home/constance/uuv_ws/devel/lib/uuv_smac_utils/evaluate_smac_best_results
+Symlinking /home/constance/uuv_ws/devel/lib/uuv_smac_utils/generate_motion_primitives
+Symlinking /home/constance/uuv_ws/devel/lib/uuv_smac_utils/create_smac_config_files
+Symlinking /home/constance/uuv_ws/devel/lib/uuv_smac_utils/smac
+Symlinking /home/constance/uuv_ws/devel/lib/uuv_smac_utils/smac_wrapper
+Symlinking /home/constance/uuv_ws/devel/lib/python3/dist-packages/uuv_smac_utils/__init__.py
+Symlinking /home/constance/uuv_ws/devel/lib/pkgconfig/uuv_smac_utils.pc

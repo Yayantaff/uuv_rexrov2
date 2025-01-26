@@ -1,0 +1,1 @@
+/home/constance/uuv_ws/devel/.private/oberon4_description/lib/pkgconfig/oberon4_description.pc

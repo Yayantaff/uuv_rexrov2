@@ -1,0 +1,57 @@
+[  0%] Built target ds_core_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target ds_sensor_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target ds_sensor_msgs_generate_messages_eus
+[  0%] Built target ds_sensor_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target ds_sensor_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target ds_core_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target ds_core_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target ds_sensor_msgs_generate_messages_lisp
+[  0%] Built target ds_sensor_msgs_gencfg
+[  0%] Built target ds_core_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target ds_core_msgs_generate_messages_lisp
+[100%] Built target ds_sensor_parsers
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/constance/uuv_ws/install/_setup_util.py
+-- Installing: /home/constance/uuv_ws/install/env.sh
+-- Installing: /home/constance/uuv_ws/install/setup.bash
+-- Installing: /home/constance/uuv_ws/install/local_setup.bash
+-- Installing: /home/constance/uuv_ws/install/setup.sh
+-- Installing: /home/constance/uuv_ws/install/local_setup.sh
+-- Installing: /home/constance/uuv_ws/install/setup.zsh
+-- Installing: /home/constance/uuv_ws/install/local_setup.zsh
+-- Installing: /home/constance/uuv_ws/install/.rosinstall
+-- Installing: /home/constance/uuv_ws/install/lib/pkgconfig/ds_sensor_parsers.pc
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_parsers/cmake/ds_sensor_parsersConfig.cmake
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_parsers/cmake/ds_sensor_parsersConfig-version.cmake
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_parsers/package.xml
+-- Installing: /home/constance/uuv_ws/install/lib/libds_sensor_parsers.so
+-- Set runtime path of "/home/constance/uuv_ws/install/lib/libds_sensor_parsers.so" to ""
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_parsers
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_parsers/SimradEM.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_parsers/SeapathBinary11.h

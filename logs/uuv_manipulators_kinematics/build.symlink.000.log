@@ -1,0 +1,8 @@
+Symlinking /home/constance/uuv_ws/devel/share/uuv_manipulators_kinematics/cmake/uuv_manipulators_kinematicsConfig-version.cmake
+Symlinking /home/constance/uuv_ws/devel/share/uuv_manipulators_kinematics/cmake/uuv_manipulators_kinematicsConfig.cmake
+Symlinking /home/constance/uuv_ws/devel/lib/python3/dist-packages/uuv_kinematics_utils/__init__.py
+Symlinking /home/constance/uuv_ws/devel/lib/python3/dist-packages/uuv_manipulator_nodes/__init__.py
+Symlinking /home/constance/uuv_ws/devel/lib/python3/dist-packages/uuv_manipulator_interfaces/__init__.py
+Symlinking /home/constance/uuv_ws/devel/lib/pkgconfig/uuv_manipulators_kinematics.pc
+Symlinking /home/constance/uuv_ws/devel/lib/uuv_manipulators_kinematics/cmake.lock
+Symlinking /home/constance/uuv_ws/devel/lib/uuv_manipulators_kinematics/kinematics_service.py

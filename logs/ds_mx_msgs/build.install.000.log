@@ -1,0 +1,166 @@
+[  0%] Built target _ds_mx_msgs_generate_messages_check_deps_MissionDisplay
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _ds_mx_msgs_generate_messages_check_deps_MissionElementDisplay
+[  0%] Built target ds_core_msgs_generate_messages_eus
+[  0%] Built target _ds_mx_msgs_generate_messages_check_deps_MxTaskStatus
+[  0%] Built target _ds_mx_msgs_generate_messages_check_deps_StdPayloadCommand
+[  0%] Built target _ds_mx_msgs_generate_messages_check_deps_MxUpdateSharedParams
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target _ds_mx_msgs_generate_messages_check_deps_MxEvent
+[  0%] Built target _ds_mx_msgs_generate_messages_check_deps_MxMissionStatus
+[  0%] Built target _ds_mx_msgs_generate_messages_check_deps_MxEventLog
+[  0%] Built target _ds_mx_msgs_generate_messages_check_deps_MxSharedParams
+[ 20%] Built target ds_mx_msgs_generate_messages_eus
+[ 20%] Built target ds_core_msgs_generate_messages_nodejs
+[ 20%] Built target geometry_msgs_generate_messages_nodejs
+[ 20%] Built target std_msgs_generate_messages_nodejs
+[ 39%] Built target ds_mx_msgs_generate_messages_nodejs
+[ 39%] Built target geometry_msgs_generate_messages_lisp
+[ 39%] Built target ds_core_msgs_generate_messages_lisp
+[ 39%] Built target std_msgs_generate_messages_lisp
+[ 58%] Built target ds_mx_msgs_generate_messages_lisp
+[ 58%] Built target geometry_msgs_generate_messages_py
+[ 58%] Built target ds_core_msgs_generate_messages_py
+[ 58%] Built target std_msgs_generate_messages_py
+[ 81%] Built target ds_mx_msgs_generate_messages_py
+[ 81%] Built target std_msgs_generate_messages_cpp
+[ 81%] Built target ds_core_msgs_generate_messages_cpp
+[ 81%] Built target geometry_msgs_generate_messages_cpp
+[100%] Built target ds_mx_msgs_generate_messages_cpp
+[100%] Built target ds_mx_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/constance/uuv_ws/install/_setup_util.py
+-- Installing: /home/constance/uuv_ws/install/env.sh
+-- Installing: /home/constance/uuv_ws/install/setup.bash
+-- Installing: /home/constance/uuv_ws/install/local_setup.bash
+-- Installing: /home/constance/uuv_ws/install/setup.sh
+-- Installing: /home/constance/uuv_ws/install/local_setup.sh
+-- Installing: /home/constance/uuv_ws/install/setup.zsh
+-- Installing: /home/constance/uuv_ws/install/local_setup.zsh
+-- Installing: /home/constance/uuv_ws/install/.rosinstall
+-- Installing: /home/constance/uuv_ws/install/share/ds_mx_msgs/msg/StdPayloadCommand.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_mx_msgs/msg/MxEvent.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_mx_msgs/msg/MxEventLog.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_mx_msgs/msg/MxTaskStatus.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_mx_msgs/msg/MxMissionStatus.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_mx_msgs/msg/MxSharedParams.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_mx_msgs/msg/MissionDisplay.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_mx_msgs/msg/MissionElementDisplay.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_mx_msgs/srv/MxUpdateSharedParams.srv
+-- Installing: /home/constance/uuv_ws/install/share/ds_mx_msgs/cmake/ds_mx_msgs-msg-paths.cmake
+-- Installing: /home/constance/uuv_ws/install/include/ds_mx_msgs
+-- Installing: /home/constance/uuv_ws/install/include/ds_mx_msgs/MissionDisplay.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_mx_msgs/MxEvent.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_mx_msgs/MxMissionStatus.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_mx_msgs/StdPayloadCommand.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_mx_msgs/MissionElementDisplay.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_mx_msgs/MxUpdateSharedParams.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_mx_msgs/MxTaskStatus.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_mx_msgs/MxUpdateSharedParamsResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_mx_msgs/MxEventLog.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_mx_msgs/MxUpdateSharedParamsRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_mx_msgs/MxSharedParams.h
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_mx_msgs
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_mx_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_mx_msgs/srv/MxUpdateSharedParams.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_mx_msgs/manifest.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_mx_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_mx_msgs/msg/MxSharedParams.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_mx_msgs/msg/MissionDisplay.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_mx_msgs/msg/MxTaskStatus.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_mx_msgs/msg/MxMissionStatus.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_mx_msgs/msg/MxEvent.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_mx_msgs/msg/StdPayloadCommand.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_mx_msgs/msg/MxEventLog.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_mx_msgs/msg/MissionElementDisplay.l
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/srv/ds_mx_msgs-srv.asd
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/srv/_package.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/srv/MxUpdateSharedParams.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/srv/_package_MxUpdateSharedParams.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/msg/_package_MxEventLog.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/msg/MissionElementDisplay.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/msg/MxSharedParams.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/msg/MxEventLog.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/msg/MxTaskStatus.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/msg/_package.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/msg/ds_mx_msgs-msg.asd
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/msg/_package_MissionDisplay.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/msg/MxEvent.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/msg/_package_MxTaskStatus.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/msg/MissionDisplay.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/msg/StdPayloadCommand.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/msg/_package_MxSharedParams.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/msg/MxMissionStatus.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/msg/_package_StdPayloadCommand.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/msg/_package_MissionElementDisplay.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/msg/_package_MxEvent.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_mx_msgs/msg/_package_MxMissionStatus.lisp
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_mx_msgs
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_mx_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_mx_msgs/srv/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_mx_msgs/srv/MxUpdateSharedParams.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_mx_msgs/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_mx_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_mx_msgs/msg/StdPayloadCommand.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_mx_msgs/msg/MxEvent.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_mx_msgs/msg/MxTaskStatus.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_mx_msgs/msg/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_mx_msgs/msg/MissionDisplay.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_mx_msgs/msg/MxSharedParams.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_mx_msgs/msg/MxEventLog.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_mx_msgs/msg/MissionElementDisplay.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_mx_msgs/msg/MxMissionStatus.js
+Listing '/home/constance/uuv_ws/devel/.private/ds_mx_msgs/lib/python3/dist-packages/ds_mx_msgs'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_mx_msgs/lib/python3/dist-packages/ds_mx_msgs/__init__.py'...
+Listing '/home/constance/uuv_ws/devel/.private/ds_mx_msgs/lib/python3/dist-packages/ds_mx_msgs/msg'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_mx_msgs/lib/python3/dist-packages/ds_mx_msgs/msg/_MissionDisplay.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_mx_msgs/lib/python3/dist-packages/ds_mx_msgs/msg/_MissionElementDisplay.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_mx_msgs/lib/python3/dist-packages/ds_mx_msgs/msg/_MxEvent.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_mx_msgs/lib/python3/dist-packages/ds_mx_msgs/msg/_MxEventLog.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_mx_msgs/lib/python3/dist-packages/ds_mx_msgs/msg/_MxMissionStatus.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_mx_msgs/lib/python3/dist-packages/ds_mx_msgs/msg/_MxSharedParams.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_mx_msgs/lib/python3/dist-packages/ds_mx_msgs/msg/_MxTaskStatus.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_mx_msgs/lib/python3/dist-packages/ds_mx_msgs/msg/_StdPayloadCommand.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_mx_msgs/lib/python3/dist-packages/ds_mx_msgs/msg/__init__.py'...
+Listing '/home/constance/uuv_ws/devel/.private/ds_mx_msgs/lib/python3/dist-packages/ds_mx_msgs/srv'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_mx_msgs/lib/python3/dist-packages/ds_mx_msgs/srv/_MxUpdateSharedParams.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_mx_msgs/lib/python3/dist-packages/ds_mx_msgs/srv/__init__.py'...
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/srv/_MxUpdateSharedParams.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/srv/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/srv/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/srv/__pycache__/_MxUpdateSharedParams.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/srv/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/msg/_MxTaskStatus.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/msg/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/msg/__pycache__/_MxEvent.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/msg/__pycache__/_MxMissionStatus.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/msg/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/msg/__pycache__/_StdPayloadCommand.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/msg/__pycache__/_MxTaskStatus.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/msg/__pycache__/_MissionDisplay.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/msg/__pycache__/_MxEventLog.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/msg/__pycache__/_MissionElementDisplay.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/msg/__pycache__/_MxSharedParams.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/msg/_MxEvent.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/msg/_MxEventLog.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/msg/_MissionDisplay.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/msg/_MxMissionStatus.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/msg/_MxSharedParams.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/msg/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/msg/_StdPayloadCommand.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/msg/_MissionElementDisplay.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_mx_msgs/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/pkgconfig/ds_mx_msgs.pc
+-- Installing: /home/constance/uuv_ws/install/share/ds_mx_msgs/cmake/ds_mx_msgs-msg-extras.cmake
+-- Installing: /home/constance/uuv_ws/install/share/ds_mx_msgs/cmake/ds_mx_msgsConfig.cmake
+-- Installing: /home/constance/uuv_ws/install/share/ds_mx_msgs/cmake/ds_mx_msgsConfig-version.cmake
+-- Installing: /home/constance/uuv_ws/install/share/ds_mx_msgs/package.xml

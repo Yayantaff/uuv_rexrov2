@@ -1,0 +1,166 @@
+[  0%] Built target _ds_ocomms_msgs_generate_messages_check_deps_QueryCmd
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target ds_core_msgs_generate_messages_cpp
+[  0%] Built target _ds_ocomms_msgs_generate_messages_check_deps_EmitterStatus
+[  0%] Built target _ds_ocomms_msgs_generate_messages_check_deps_EnvStatus
+[  0%] Built target _ds_ocomms_msgs_generate_messages_check_deps_PingCmd
+[  0%] Built target _ds_ocomms_msgs_generate_messages_check_deps_TransferCmd
+[  0%] Built target _ds_ocomms_msgs_generate_messages_check_deps_ModemSettings
+[  0%] Built target _ds_ocomms_msgs_generate_messages_check_deps_ModemStatus
+[  0%] Built target _ds_ocomms_msgs_generate_messages_check_deps_PwrCmd
+[  0%] Built target _ds_ocomms_msgs_generate_messages_check_deps_XfrStatus
+[  0%] Built target _ds_ocomms_msgs_generate_messages_check_deps_SettingsCmd
+[ 18%] Built target ds_ocomms_msgs_generate_messages_cpp
+[ 18%] Built target ds_core_msgs_generate_messages_py
+[ 18%] Built target std_msgs_generate_messages_py
+[ 41%] Built target ds_ocomms_msgs_generate_messages_py
+[ 41%] Built target ds_core_msgs_generate_messages_lisp
+[ 41%] Built target std_msgs_generate_messages_lisp
+[ 60%] Built target ds_ocomms_msgs_generate_messages_lisp
+[ 60%] Built target std_msgs_generate_messages_eus
+[ 60%] Built target ds_core_msgs_generate_messages_eus
+[ 81%] Built target ds_ocomms_msgs_generate_messages_eus
+[ 81%] Built target ds_core_msgs_generate_messages_nodejs
+[ 81%] Built target std_msgs_generate_messages_nodejs
+[100%] Built target ds_ocomms_msgs_generate_messages_nodejs
+[100%] Built target ds_ocomms_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/constance/uuv_ws/install/_setup_util.py
+-- Installing: /home/constance/uuv_ws/install/env.sh
+-- Installing: /home/constance/uuv_ws/install/setup.bash
+-- Installing: /home/constance/uuv_ws/install/local_setup.bash
+-- Installing: /home/constance/uuv_ws/install/setup.sh
+-- Installing: /home/constance/uuv_ws/install/local_setup.sh
+-- Installing: /home/constance/uuv_ws/install/setup.zsh
+-- Installing: /home/constance/uuv_ws/install/local_setup.zsh
+-- Installing: /home/constance/uuv_ws/install/.rosinstall
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_ocomms_msgs/msg/EmitterStatus.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_ocomms_msgs/msg/EnvStatus.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_ocomms_msgs/msg/ModemSettings.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_ocomms_msgs/msg/ModemStatus.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_ocomms_msgs/msg/XfrStatus.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_ocomms_msgs/srv/PingCmd.srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_ocomms_msgs/srv/PwrCmd.srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_ocomms_msgs/srv/QueryCmd.srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_ocomms_msgs/srv/SettingsCmd.srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_ocomms_msgs/srv/TransferCmd.srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_ocomms_msgs/cmake/ds_ocomms_msgs-msg-paths.cmake
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_ocomms_msgs
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_ocomms_msgs/PwrCmdRequest.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_ocomms_msgs/PingCmdResponse.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_ocomms_msgs/TransferCmdResponse.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_ocomms_msgs/PingCmdRequest.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_ocomms_msgs/SettingsCmdRequest.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_ocomms_msgs/ModemStatus.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_ocomms_msgs/PwrCmd.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_ocomms_msgs/SettingsCmdResponse.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_ocomms_msgs/SettingsCmd.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_ocomms_msgs/QueryCmd.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_ocomms_msgs/XfrStatus.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_ocomms_msgs/TransferCmd.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_ocomms_msgs/EmitterStatus.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_ocomms_msgs/TransferCmdRequest.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_ocomms_msgs/PwrCmdResponse.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_ocomms_msgs/EnvStatus.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_ocomms_msgs/PingCmd.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_ocomms_msgs/ModemSettings.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_ocomms_msgs/QueryCmdResponse.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_ocomms_msgs/QueryCmdRequest.h
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_ocomms_msgs
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_ocomms_msgs/srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_ocomms_msgs/srv/TransferCmd.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_ocomms_msgs/srv/QueryCmd.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_ocomms_msgs/srv/PingCmd.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_ocomms_msgs/srv/PwrCmd.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_ocomms_msgs/srv/SettingsCmd.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_ocomms_msgs/manifest.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_ocomms_msgs/msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_ocomms_msgs/msg/EmitterStatus.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_ocomms_msgs/msg/EnvStatus.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_ocomms_msgs/msg/XfrStatus.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_ocomms_msgs/msg/ModemStatus.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_ocomms_msgs/msg/ModemSettings.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/srv/_package_PingCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/srv/_package_TransferCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/srv/PwrCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/srv/PingCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/srv/QueryCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/srv/_package.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/srv/ds_ocomms_msgs-srv.asd
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/srv/_package_SettingsCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/srv/_package_QueryCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/srv/SettingsCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/srv/_package_PwrCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/srv/TransferCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/msg/EmitterStatus.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/msg/_package_EmitterStatus.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/msg/ModemStatus.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/msg/_package.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/msg/ModemSettings.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/msg/XfrStatus.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/msg/_package_ModemStatus.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/msg/ds_ocomms_msgs-msg.asd
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/msg/EnvStatus.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/msg/_package_EnvStatus.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/msg/_package_XfrStatus.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_ocomms_msgs/msg/_package_ModemSettings.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_ocomms_msgs
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_ocomms_msgs/srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_ocomms_msgs/srv/TransferCmd.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_ocomms_msgs/srv/QueryCmd.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_ocomms_msgs/srv/PwrCmd.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_ocomms_msgs/srv/PingCmd.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_ocomms_msgs/srv/_index.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_ocomms_msgs/srv/SettingsCmd.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_ocomms_msgs/_index.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_ocomms_msgs/msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_ocomms_msgs/msg/XfrStatus.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_ocomms_msgs/msg/_index.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_ocomms_msgs/msg/ModemSettings.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_ocomms_msgs/msg/ModemStatus.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_ocomms_msgs/msg/EnvStatus.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_ocomms_msgs/msg/EmitterStatus.js
+Listing '/home/constance/uuv_ws/devel/.private/ds_ocomms_msgs/lib/python3/dist-packages/ds_ocomms_msgs'...
+Listing '/home/constance/uuv_ws/devel/.private/ds_ocomms_msgs/lib/python3/dist-packages/ds_ocomms_msgs/msg'...
+Listing '/home/constance/uuv_ws/devel/.private/ds_ocomms_msgs/lib/python3/dist-packages/ds_ocomms_msgs/srv'...
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/srv
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/srv/_SettingsCmd.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/srv/_PingCmd.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/srv/__pycache__
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/srv/__pycache__/__init__.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/srv/__pycache__/_SettingsCmd.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/srv/__pycache__/_TransferCmd.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/srv/__pycache__/_PwrCmd.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/srv/__pycache__/_PingCmd.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/srv/__pycache__/_QueryCmd.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/srv/_PwrCmd.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/srv/__init__.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/srv/_QueryCmd.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/srv/_TransferCmd.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/__pycache__
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/__pycache__/__init__.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/msg
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/msg/_EnvStatus.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/msg/_ModemSettings.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/msg/_ModemStatus.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/msg/__pycache__
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/msg/__pycache__/__init__.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/msg/__pycache__/_XfrStatus.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/msg/__pycache__/_EnvStatus.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/msg/__pycache__/_ModemStatus.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/msg/__pycache__/_EmitterStatus.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/msg/__pycache__/_ModemSettings.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/msg/_EmitterStatus.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/msg/_XfrStatus.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/msg/__init__.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_ocomms_msgs/__init__.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/pkgconfig/ds_ocomms_msgs.pc
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_ocomms_msgs/cmake/ds_ocomms_msgs-msg-extras.cmake
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_ocomms_msgs/cmake/ds_ocomms_msgsConfig.cmake
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_ocomms_msgs/cmake/ds_ocomms_msgsConfig-version.cmake
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_ocomms_msgs/package.xml

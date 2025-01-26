@@ -1,0 +1,17 @@
+/home/constance/uuv_ws/install/_setup_util.py
+/home/constance/uuv_ws/install/env.sh
+/home/constance/uuv_ws/install/setup.bash
+/home/constance/uuv_ws/install/local_setup.bash
+/home/constance/uuv_ws/install/setup.sh
+/home/constance/uuv_ws/install/local_setup.sh
+/home/constance/uuv_ws/install/setup.zsh
+/home/constance/uuv_ws/install/local_setup.zsh
+/home/constance/uuv_ws/install/.rosinstall
+/home/constance/uuv_ws/install/lib/pkgconfig/uuv_manipulators_control.pc
+/home/constance/uuv_ws/install/share/uuv_manipulators_control/cmake/uuv_manipulators_controlConfig.cmake
+/home/constance/uuv_ws/install/share/uuv_manipulators_control/cmake/uuv_manipulators_controlConfig-version.cmake
+/home/constance/uuv_ws/install/share/uuv_manipulators_control/package.xml
+/home/constance/uuv_ws/install/lib/uuv_manipulators_control/set_joint_config.py
+/home/constance/uuv_ws/install/lib/uuv_manipulators_control/jt_cartesian_controller.py
+/home/constance/uuv_ws/install/lib/uuv_manipulators_control/gripper_controller.py
+/home/constance/uuv_ws/install/lib/uuv_manipulators_control/joint_position_controller.py

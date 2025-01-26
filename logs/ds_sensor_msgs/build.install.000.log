@@ -1,0 +1,402 @@
+[  0%] Built target ds_sensor_msgs_gencfg
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_NortekVectorSystem
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_UbloxSurveyIn
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_UbloxSatellites
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_UbloxSatellite
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_UbloxSignals
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_UbloxSignal
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_UbloxNav
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_PhinsStatus
+[  0%] Built target ds_nmea_msgs_generate_messages_eus
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_RdiPD0
+[  0%] Built target ds_core_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_Dvl
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_WaterCurrentProfile
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_Ins
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_PhinsStdbin3
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_OxygenConcentration
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_RdiPD5
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_AcousticCurrentProfile
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_Adcp
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_Compass
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_DepthPressure
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_Gyro
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_Frequency
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_MemsImu
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_NortekDF21
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_Ranges3D
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_Ctd
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_PhinsStandard
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_SoundSpeed
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_VectorMagneticField
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_Range3D
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_ForwardLookingStatus
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_Velocity3D
+[ 20%] Built target ds_sensor_msgs_generate_messages_eus
+[ 20%] Built target ds_core_msgs_generate_messages_py
+[ 20%] Built target geometry_msgs_generate_messages_py
+[ 20%] Built target std_msgs_generate_messages_py
+[ 20%] Built target ds_nmea_msgs_generate_messages_py
+[ 20%] Built target sensor_msgs_generate_messages_py
+[ 41%] Built target ds_sensor_msgs_generate_messages_py
+[ 41%] Built target ds_core_msgs_generate_messages_nodejs
+[ 41%] Built target sensor_msgs_generate_messages_nodejs
+[ 41%] Built target geometry_msgs_generate_messages_nodejs
+[ 41%] Built target std_msgs_generate_messages_nodejs
+[ 41%] Built target ds_nmea_msgs_generate_messages_nodejs
+[ 60%] Built target ds_sensor_msgs_generate_messages_nodejs
+[ 60%] Built target std_msgs_generate_messages_lisp
+[ 60%] Built target ds_core_msgs_generate_messages_lisp
+[ 60%] Built target ds_nmea_msgs_generate_messages_lisp
+[ 60%] Built target geometry_msgs_generate_messages_lisp
+[ 60%] Built target sensor_msgs_generate_messages_lisp
+[ 80%] Built target ds_sensor_msgs_generate_messages_lisp
+[ 80%] Built target ds_nmea_msgs_generate_messages_cpp
+[ 80%] Built target ds_core_msgs_generate_messages_cpp
+[ 80%] Built target geometry_msgs_generate_messages_cpp
+[ 80%] Built target std_msgs_generate_messages_cpp
+[ 80%] Built target sensor_msgs_generate_messages_cpp
+[100%] Built target ds_sensor_msgs_generate_messages_cpp
+[100%] Built target ds_sensor_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/constance/uuv_ws/install/_setup_util.py
+-- Installing: /home/constance/uuv_ws/install/env.sh
+-- Installing: /home/constance/uuv_ws/install/setup.bash
+-- Installing: /home/constance/uuv_ws/install/local_setup.bash
+-- Installing: /home/constance/uuv_ws/install/setup.sh
+-- Installing: /home/constance/uuv_ws/install/local_setup.sh
+-- Installing: /home/constance/uuv_ws/install/setup.zsh
+-- Installing: /home/constance/uuv_ws/install/local_setup.zsh
+-- Installing: /home/constance/uuv_ws/install/.rosinstall
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/AcousticCurrentProfile.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/Adcp.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/Compass.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/Ctd.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/DepthPressure.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/Dvl.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/Gyro.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/Ins.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/MemsImu.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/NortekDF21.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/OxygenConcentration.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/PhinsStandard.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/RdiPD0.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/SoundSpeed.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/VectorMagneticField.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/Range3D.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/Ranges3D.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/ForwardLookingStatus.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/Velocity3D.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/NortekVectorSystem.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/Frequency.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/PhinsStatus.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/PhinsStdbin3.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/UbloxNav.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/UbloxSignal.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/UbloxSignals.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/UbloxSatellite.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/UbloxSatellites.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/UbloxSurveyIn.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/RdiPD5.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/msg/WaterCurrentProfile.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/cmake/ds_sensor_msgs-msg-paths.cmake
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/PhinsConfigConfig.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/Velocity3D.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/DepthPressure.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/AcousticCurrentProfile.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/UbloxSignal.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/Range3D.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/Adcp.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/ForwardLookingStatus.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/PhinsStdbin3.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/Gyro.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/Frequency.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/PhinsStandard.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/WaterCurrentProfile.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/VectorMagneticField.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/OxygenConcentration.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/PhinsStatus.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/Ins.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/Dvl.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/RdiPD0.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/MemsImu.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/UbloxSurveyIn.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/UbloxNav.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/SoundSpeed.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/UbloxSatellite.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/NortekVectorSystem.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/RdiPD5.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/Ranges3D.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/UbloxSignals.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/Compass.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/UbloxSatellites.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/NortekDF21.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_sensor_msgs/Ctd.h
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/manifest.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/AcousticCurrentProfile.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/Dvl.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/SoundSpeed.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/Ctd.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/Adcp.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/Gyro.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/Velocity3D.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/UbloxSurveyIn.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/PhinsStandard.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/Range3D.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/NortekVectorSystem.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/Frequency.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/ForwardLookingStatus.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/WaterCurrentProfile.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/UbloxSatellites.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/Ins.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/RdiPD0.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/DepthPressure.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/Ranges3D.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/MemsImu.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/UbloxSignals.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/NortekDF21.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/UbloxSignal.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/PhinsStatus.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/UbloxNav.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/Compass.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/UbloxSatellite.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/VectorMagneticField.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/RdiPD5.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/PhinsStdbin3.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_sensor_msgs/msg/OxygenConcentration.l
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/NortekDF21.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_ForwardLookingStatus.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/RdiPD0.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/Adcp.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/UbloxSignals.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/DepthPressure.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/Ins.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/Compass.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/UbloxSatellites.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_RdiPD0.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_Compass.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_RdiPD5.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/UbloxSatellite.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_Frequency.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_PhinsStdbin3.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/WaterCurrentProfile.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_OxygenConcentration.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_NortekVectorSystem.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_NortekDF21.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_WaterCurrentProfile.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_Adcp.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_MemsImu.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_Dvl.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/UbloxSurveyIn.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/OxygenConcentration.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_UbloxSurveyIn.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/UbloxSignal.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_Ctd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_UbloxSatellite.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/PhinsStdbin3.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/PhinsStandard.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_Ranges3D.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/Gyro.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/Ranges3D.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/PhinsStatus.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_AcousticCurrentProfile.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_Gyro.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/SoundSpeed.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_SoundSpeed.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/Range3D.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_PhinsStatus.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_UbloxNav.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_VectorMagneticField.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_UbloxSignal.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/MemsImu.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/AcousticCurrentProfile.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_UbloxSignals.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/Dvl.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/ds_sensor_msgs-msg.asd
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_Ins.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/VectorMagneticField.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_Velocity3D.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/UbloxNav.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_PhinsStandard.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/Ctd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/ForwardLookingStatus.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/Velocity3D.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/Frequency.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_Range3D.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/RdiPD5.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/NortekVectorSystem.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_UbloxSatellites.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_sensor_msgs/msg/_package_DepthPressure.lisp
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/NortekDF21.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/UbloxSurveyIn.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/PhinsStdbin3.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/Compass.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/Gyro.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/VectorMagneticField.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/OxygenConcentration.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/UbloxSatellite.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/WaterCurrentProfile.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/Ins.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/Dvl.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/NortekVectorSystem.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/ForwardLookingStatus.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/RdiPD0.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/Ctd.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/SoundSpeed.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/PhinsStandard.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/UbloxNav.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/AcousticCurrentProfile.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/Frequency.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/Ranges3D.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/Velocity3D.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/UbloxSignal.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/Adcp.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/Range3D.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/UbloxSatellites.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/MemsImu.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/DepthPressure.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/PhinsStatus.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/RdiPD5.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_sensor_msgs/msg/UbloxSignals.js
+Listing '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/__init__.py'...
+Listing '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/cfg'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/cfg/PhinsConfigConfig.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/cfg/__init__.py'...
+Listing '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_AcousticCurrentProfile.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_Adcp.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_Compass.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_Ctd.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_DepthPressure.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_Dvl.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_ForwardLookingStatus.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_Frequency.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_Gyro.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_Ins.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_MemsImu.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_NortekDF21.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_NortekVectorSystem.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_OxygenConcentration.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_PhinsStandard.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_PhinsStatus.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_PhinsStdbin3.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_Range3D.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_Ranges3D.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_RdiPD0.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_RdiPD5.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_SoundSpeed.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_UbloxNav.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_UbloxSatellite.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_UbloxSatellites.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_UbloxSignal.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_UbloxSignals.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_UbloxSurveyIn.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_VectorMagneticField.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_Velocity3D.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_WaterCurrentProfile.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/__init__.py'...
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/cfg
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/cfg/PhinsConfigConfig.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/cfg/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/cfg/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/cfg/__pycache__/PhinsConfigConfig.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/cfg/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_Frequency.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_Ranges3D.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_Velocity3D.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_VectorMagneticField.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_Ins.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_PhinsStdbin3.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_AcousticCurrentProfile.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_SoundSpeed.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_OxygenConcentration.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_UbloxNav.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_DepthPressure.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_Ctd.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_Compass.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_WaterCurrentProfile.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_DepthPressure.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_MemsImu.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_UbloxSatellites.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_Ranges3D.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_RdiPD5.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_PhinsStdbin3.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_AcousticCurrentProfile.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_Compass.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_Adcp.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_Ctd.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_UbloxSurveyIn.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_UbloxNav.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_Range3D.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_Dvl.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_UbloxSignals.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_PhinsStandard.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_VectorMagneticField.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_UbloxSignal.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_SoundSpeed.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_Ins.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_RdiPD0.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_NortekDF21.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_WaterCurrentProfile.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_ForwardLookingStatus.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_Frequency.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_OxygenConcentration.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_Velocity3D.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_UbloxSatellite.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_NortekVectorSystem.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_Gyro.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__pycache__/_PhinsStatus.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_ForwardLookingStatus.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_Range3D.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_RdiPD5.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_PhinsStatus.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_UbloxSurveyIn.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_UbloxSignal.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_NortekDF21.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_Gyro.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_Dvl.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_RdiPD0.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_UbloxSignals.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_NortekVectorSystem.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_Adcp.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_UbloxSatellite.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_MemsImu.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_UbloxSatellites.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/msg/_PhinsStandard.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/__init__.py
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_sensor_msgs/PhinsConfigConfig.h
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/__init__.py
+Listing '/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/cfg'...
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/cfg
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/cfg/PhinsConfigConfig.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/cfg/__pycache__
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/cfg/__pycache__/__init__.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/cfg/__pycache__/PhinsConfigConfig.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_sensor_msgs/cfg/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/pkgconfig/ds_sensor_msgs.pc
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/cmake/ds_sensor_msgs-msg-extras.cmake
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/cmake/ds_sensor_msgsConfig.cmake
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/cmake/ds_sensor_msgsConfig-version.cmake
+-- Installing: /home/constance/uuv_ws/install/share/ds_sensor_msgs/package.xml

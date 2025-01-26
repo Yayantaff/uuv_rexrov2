@@ -1,0 +1,20 @@
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/constance/uuv_ws/install/_setup_util.py
+-- Installing: /home/constance/uuv_ws/install/env.sh
+-- Installing: /home/constance/uuv_ws/install/setup.bash
+-- Installing: /home/constance/uuv_ws/install/local_setup.bash
+-- Installing: /home/constance/uuv_ws/install/setup.sh
+-- Installing: /home/constance/uuv_ws/install/local_setup.sh
+-- Installing: /home/constance/uuv_ws/install/setup.zsh
+-- Installing: /home/constance/uuv_ws/install/local_setup.zsh
+-- Installing: /home/constance/uuv_ws/install/.rosinstall
+-- Up-to-date: /home/constance/uuv_ws/install/lib/pkgconfig/oberon7_control.pc
+-- Up-to-date: /home/constance/uuv_ws/install/share/oberon7_control/cmake/oberon7_controlConfig.cmake
+-- Up-to-date: /home/constance/uuv_ws/install/share/oberon7_control/cmake/oberon7_controlConfig-version.cmake
+-- Up-to-date: /home/constance/uuv_ws/install/share/oberon7_control/package.xml
+-- Up-to-date: /home/constance/uuv_ws/install/share/oberon7_control/launch
+-- Up-to-date: /home/constance/uuv_ws/install/share/oberon7_control/launch/joint_control.launch
+-- Up-to-date: /home/constance/uuv_ws/install/share/oberon7_control/launch/gripper_controllers.launch
+-- Up-to-date: /home/constance/uuv_ws/install/share/oberon7_control/launch/joint_effort_controllers.launch
+-- Up-to-date: /home/constance/uuv_ws/install/share/oberon7_control/launch/jt_cartesian_controller.launch

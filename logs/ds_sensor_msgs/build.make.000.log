@@ -1,0 +1,287 @@
+[35m[1mScanning dependencies of target ds_sensor_msgs_gencfg[0m
+[  0%] [34m[1mGenerating dynamic reconfigure files from cfg/PhinsConfig.cfg: /home/constance/uuv_ws/devel/.private/ds_sensor_msgs/include/ds_sensor_msgs/PhinsConfigConfig.h /home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/cfg/PhinsConfigConfig.py[0m
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_NortekVectorSystem[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_NortekVectorSystem
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_UbloxSurveyIn[0m
+the rosdep view is empty: call 'sudo rosdep init' and 'rosdep update'
+Generating reconfiguration files for PhinsConfig in ds_sensor_msgs
+Wrote header file in /home/constance/uuv_ws/devel/.private/ds_sensor_msgs/include/ds_sensor_msgs/PhinsConfigConfig.h
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_UbloxSurveyIn
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_UbloxSatellites[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_UbloxSatellites
+[  0%] Built target ds_sensor_msgs_gencfg
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_UbloxSignals[0m
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_UbloxSatellite[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_UbloxSatellite
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_UbloxSignals
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_UbloxSignal[0m
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_UbloxNav[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_UbloxNav
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_PhinsStatus[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_UbloxSignal
+[35m[1mScanning dependencies of target ds_nmea_msgs_generate_messages_eus[0m
+[  0%] Built target ds_nmea_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_RdiPD0[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_PhinsStatus
+[35m[1mScanning dependencies of target ds_core_msgs_generate_messages_eus[0m
+[  0%] Built target ds_core_msgs_generate_messages_eus
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_RdiPD0
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_Dvl[0m
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_WaterCurrentProfile[0m
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_Ins[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_Dvl
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_WaterCurrentProfile
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_Ins
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_PhinsStdbin3[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_OxygenConcentration[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_RdiPD5[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_PhinsStdbin3
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_OxygenConcentration
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_AcousticCurrentProfile[0m
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_Adcp[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_RdiPD5
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_Compass[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_AcousticCurrentProfile
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_DepthPressure[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_Adcp
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_Gyro[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_Compass
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_Frequency[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_DepthPressure
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_MemsImu[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_Gyro
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_NortekDF21[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_Frequency
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_Ranges3D[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_MemsImu
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_Ctd[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_NortekDF21
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_PhinsStandard[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_Ranges3D
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_SoundSpeed[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_Ctd
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_VectorMagneticField[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_PhinsStandard
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_Range3D[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_SoundSpeed
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_VectorMagneticField
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_ForwardLookingStatus[0m
+[35m[1mScanning dependencies of target _ds_sensor_msgs_generate_messages_check_deps_Velocity3D[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_Range3D
+[35m[1mScanning dependencies of target ds_core_msgs_generate_messages_py[0m
+[  0%] Built target ds_core_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_ForwardLookingStatus
+[  0%] Built target _ds_sensor_msgs_generate_messages_check_deps_Velocity3D
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target ds_nmea_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target ds_nmea_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target ds_core_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target ds_core_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target ds_nmea_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target ds_nmea_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target ds_nmea_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target ds_core_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target ds_nmea_msgs_generate_messages_lisp
+[  0%] Built target ds_core_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target ds_nmea_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target ds_core_msgs_generate_messages_cpp[0m
+[  0%] Built target ds_nmea_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target ds_core_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target ds_sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target ds_sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target ds_sensor_msgs_generate_messages_nodejs[0m
+[  1%] [34m[1mGenerating Python from MSG ds_sensor_msgs/AcousticCurrentProfile[0m
+[  1%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/AcousticCurrentProfile.msg[0m
+[  1%] [34m[1mGenerating Javascript code from ds_sensor_msgs/AcousticCurrentProfile.msg[0m
+[  2%] [34m[1mGenerating Javascript code from ds_sensor_msgs/Adcp.msg[0m
+[  3%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/Adcp.msg[0m
+[  4%] [34m[1mGenerating Javascript code from ds_sensor_msgs/Compass.msg[0m
+[  5%] [34m[1mGenerating Javascript code from ds_sensor_msgs/Ctd.msg[0m
+[  5%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/Compass.msg[0m
+[  6%] [34m[1mGenerating Python from MSG ds_sensor_msgs/Adcp[0m
+[  7%] [34m[1mGenerating Javascript code from ds_sensor_msgs/DepthPressure.msg[0m
+[  7%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/Ctd.msg[0m
+[  7%] [34m[1mGenerating Javascript code from ds_sensor_msgs/Dvl.msg[0m
+[  8%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/DepthPressure.msg[0m
+[  9%] [34m[1mGenerating Javascript code from ds_sensor_msgs/Gyro.msg[0m
+[  9%] [34m[1mGenerating Python from MSG ds_sensor_msgs/Compass[0m
+[ 10%] [34m[1mGenerating Javascript code from ds_sensor_msgs/Ins.msg[0m
+[ 10%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/Dvl.msg[0m
+[ 10%] [34m[1mGenerating Javascript code from ds_sensor_msgs/MemsImu.msg[0m
+[ 11%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/Gyro.msg[0m
+[ 12%] [34m[1mGenerating Javascript code from ds_sensor_msgs/NortekDF21.msg[0m
+[ 13%] [34m[1mGenerating Python from MSG ds_sensor_msgs/Ctd[0m
+[ 13%] [34m[1mGenerating Javascript code from ds_sensor_msgs/OxygenConcentration.msg[0m
+[ 14%] [34m[1mGenerating Javascript code from ds_sensor_msgs/PhinsStandard.msg[0m
+[ 15%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/Ins.msg[0m
+[ 16%] [34m[1mGenerating Javascript code from ds_sensor_msgs/RdiPD0.msg[0m
+[ 16%] [34m[1mGenerating Python from MSG ds_sensor_msgs/DepthPressure[0m
+[ 16%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/MemsImu.msg[0m
+[ 16%] [34m[1mGenerating Javascript code from ds_sensor_msgs/SoundSpeed.msg[0m
+[ 17%] [34m[1mGenerating Python from MSG ds_sensor_msgs/Dvl[0m
+[ 18%] [34m[1mGenerating Javascript code from ds_sensor_msgs/VectorMagneticField.msg[0m
+[ 20%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/NortekDF21.msg[0m
+[ 20%] [34m[1mGenerating Javascript code from ds_sensor_msgs/Range3D.msg[0m
+[ 21%] [34m[1mGenerating Javascript code from ds_sensor_msgs/Ranges3D.msg[0m
+[ 21%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/OxygenConcentration.msg[0m
+[ 22%] [34m[1mGenerating Javascript code from ds_sensor_msgs/ForwardLookingStatus.msg[0m
+[ 22%] [34m[1mGenerating Javascript code from ds_sensor_msgs/Velocity3D.msg[0m
+[ 23%] [34m[1mGenerating Python from MSG ds_sensor_msgs/Gyro[0m
+[ 24%] [34m[1mGenerating Javascript code from ds_sensor_msgs/NortekVectorSystem.msg[0m
+[ 24%] [34m[1mGenerating Javascript code from ds_sensor_msgs/Frequency.msg[0m
+[ 25%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/PhinsStandard.msg[0m
+[ 26%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/RdiPD0.msg[0m
+[ 27%] [34m[1mGenerating Javascript code from ds_sensor_msgs/PhinsStatus.msg[0m
+[ 28%] [34m[1mGenerating Javascript code from ds_sensor_msgs/PhinsStdbin3.msg[0m
+[ 28%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/SoundSpeed.msg[0m
+[ 28%] [34m[1mGenerating Javascript code from ds_sensor_msgs/UbloxNav.msg[0m
+[ 29%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/VectorMagneticField.msg[0m
+[ 29%] [34m[1mGenerating Python from MSG ds_sensor_msgs/Ins[0m
+[ 30%] [34m[1mGenerating Javascript code from ds_sensor_msgs/UbloxSignal.msg[0m
+[ 30%] [34m[1mGenerating Javascript code from ds_sensor_msgs/UbloxSignals.msg[0m
+[ 30%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/Range3D.msg[0m
+[ 31%] [34m[1mGenerating Javascript code from ds_sensor_msgs/UbloxSatellite.msg[0m
+[ 32%] [34m[1mGenerating Javascript code from ds_sensor_msgs/UbloxSatellites.msg[0m
+[ 32%] [34m[1mGenerating Javascript code from ds_sensor_msgs/UbloxSurveyIn.msg[0m
+[ 33%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/Ranges3D.msg[0m
+[ 34%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/ForwardLookingStatus.msg[0m
+[ 35%] [34m[1mGenerating Python from MSG ds_sensor_msgs/MemsImu[0m
+[ 36%] [34m[1mGenerating Javascript code from ds_sensor_msgs/RdiPD5.msg[0m
+[ 36%] [34m[1mGenerating Javascript code from ds_sensor_msgs/WaterCurrentProfile.msg[0m
+[ 36%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/Velocity3D.msg[0m
+[35m[1mScanning dependencies of target ds_sensor_msgs_generate_messages_lisp[0m
+[ 37%] [34m[1mGenerating Lisp code from ds_sensor_msgs/AcousticCurrentProfile.msg[0m
+[ 37%] Built target ds_sensor_msgs_generate_messages_nodejs
+[ 37%] [34m[1mGenerating Lisp code from ds_sensor_msgs/Adcp.msg[0m
+[35m[1mScanning dependencies of target ds_sensor_msgs_generate_messages_cpp[0m
+[ 38%] [34m[1mGenerating C++ code from ds_sensor_msgs/AcousticCurrentProfile.msg[0m
+[ 40%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/NortekVectorSystem.msg[0m
+[ 40%] [34m[1mGenerating Python from MSG ds_sensor_msgs/NortekDF21[0m
+[ 41%] [34m[1mGenerating Lisp code from ds_sensor_msgs/Compass.msg[0m
+[ 41%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/Frequency.msg[0m
+[ 41%] [34m[1mGenerating Lisp code from ds_sensor_msgs/Ctd.msg[0m
+[ 41%] [34m[1mGenerating C++ code from ds_sensor_msgs/Adcp.msg[0m
+[ 42%] [34m[1mGenerating Lisp code from ds_sensor_msgs/DepthPressure.msg[0m
+[ 43%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/PhinsStatus.msg[0m
+[ 44%] [34m[1mGenerating Lisp code from ds_sensor_msgs/Dvl.msg[0m
+[ 45%] [34m[1mGenerating Python from MSG ds_sensor_msgs/OxygenConcentration[0m
+[ 46%] [34m[1mGenerating C++ code from ds_sensor_msgs/Compass.msg[0m
+[ 46%] [34m[1mGenerating Lisp code from ds_sensor_msgs/Gyro.msg[0m
+[ 47%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/PhinsStdbin3.msg[0m
+[ 48%] [34m[1mGenerating Lisp code from ds_sensor_msgs/Ins.msg[0m
+[ 48%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/UbloxNav.msg[0m
+[ 48%] [34m[1mGenerating Lisp code from ds_sensor_msgs/MemsImu.msg[0m
+[ 49%] [34m[1mGenerating C++ code from ds_sensor_msgs/Ctd.msg[0m
+[ 50%] [34m[1mGenerating Python from MSG ds_sensor_msgs/PhinsStandard[0m
+[ 51%] [34m[1mGenerating Lisp code from ds_sensor_msgs/NortekDF21.msg[0m
+[ 52%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/UbloxSignal.msg[0m
+[ 53%] [34m[1mGenerating Lisp code from ds_sensor_msgs/OxygenConcentration.msg[0m
+[ 53%] [34m[1mGenerating C++ code from ds_sensor_msgs/DepthPressure.msg[0m
+[ 53%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/UbloxSignals.msg[0m
+[ 53%] [34m[1mGenerating Lisp code from ds_sensor_msgs/PhinsStandard.msg[0m
+[ 54%] [34m[1mGenerating Lisp code from ds_sensor_msgs/RdiPD0.msg[0m
+[ 54%] [34m[1mGenerating Python from MSG ds_sensor_msgs/RdiPD0[0m
+[ 55%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/UbloxSatellite.msg[0m
+[ 56%] [34m[1mGenerating C++ code from ds_sensor_msgs/Dvl.msg[0m
+[ 56%] [34m[1mGenerating Lisp code from ds_sensor_msgs/SoundSpeed.msg[0m
+[ 57%] [34m[1mGenerating Lisp code from ds_sensor_msgs/VectorMagneticField.msg[0m
+[ 58%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/UbloxSatellites.msg[0m
+[ 60%] [34m[1mGenerating Lisp code from ds_sensor_msgs/Range3D.msg[0m
+[ 60%] [34m[1mGenerating C++ code from ds_sensor_msgs/Gyro.msg[0m
+[ 61%] [34m[1mGenerating Python from MSG ds_sensor_msgs/SoundSpeed[0m
+[ 61%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/UbloxSurveyIn.msg[0m
+[ 61%] [34m[1mGenerating Lisp code from ds_sensor_msgs/Ranges3D.msg[0m
+[ 62%] [34m[1mGenerating Lisp code from ds_sensor_msgs/ForwardLookingStatus.msg[0m
+[ 63%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/RdiPD5.msg[0m
+[ 64%] [34m[1mGenerating C++ code from ds_sensor_msgs/Ins.msg[0m
+[ 65%] [34m[1mGenerating Lisp code from ds_sensor_msgs/Velocity3D.msg[0m
+[ 65%] [34m[1mGenerating Lisp code from ds_sensor_msgs/NortekVectorSystem.msg[0m
+[ 65%] [34m[1mGenerating Python from MSG ds_sensor_msgs/VectorMagneticField[0m
+[ 65%] [34m[1mGenerating EusLisp code from ds_sensor_msgs/WaterCurrentProfile.msg[0m
+[ 66%] [34m[1mGenerating Lisp code from ds_sensor_msgs/Frequency.msg[0m
+[ 67%] [34m[1mGenerating C++ code from ds_sensor_msgs/MemsImu.msg[0m
+[ 67%] [34m[1mGenerating Lisp code from ds_sensor_msgs/PhinsStatus.msg[0m
+[ 68%] [34m[1mGenerating EusLisp manifest code for ds_sensor_msgs[0m
+[ 69%] [34m[1mGenerating Lisp code from ds_sensor_msgs/PhinsStdbin3.msg[0m
+[ 70%] [34m[1mGenerating Python from MSG ds_sensor_msgs/Range3D[0m
+[ 70%] [34m[1mGenerating C++ code from ds_sensor_msgs/NortekDF21.msg[0m
+[ 71%] [34m[1mGenerating Lisp code from ds_sensor_msgs/UbloxNav.msg[0m
+[ 71%] [34m[1mGenerating Lisp code from ds_sensor_msgs/UbloxSignal.msg[0m
+[ 72%] [34m[1mGenerating C++ code from ds_sensor_msgs/OxygenConcentration.msg[0m
+[ 73%] [34m[1mGenerating Python from MSG ds_sensor_msgs/Ranges3D[0m
+[ 74%] [34m[1mGenerating Lisp code from ds_sensor_msgs/UbloxSignals.msg[0m
+[ 74%] [34m[1mGenerating Lisp code from ds_sensor_msgs/UbloxSatellite.msg[0m
+[ 74%] [34m[1mGenerating C++ code from ds_sensor_msgs/PhinsStandard.msg[0m
+[ 75%] [34m[1mGenerating Lisp code from ds_sensor_msgs/UbloxSatellites.msg[0m
+[ 76%] [34m[1mGenerating Lisp code from ds_sensor_msgs/UbloxSurveyIn.msg[0m
+[ 77%] [34m[1mGenerating C++ code from ds_sensor_msgs/RdiPD0.msg[0m
+[ 77%] [34m[1mGenerating Python from MSG ds_sensor_msgs/ForwardLookingStatus[0m
+[ 77%] [34m[1mGenerating Lisp code from ds_sensor_msgs/RdiPD5.msg[0m
+[ 77%] Built target ds_sensor_msgs_generate_messages_eus
+[ 78%] [34m[1mGenerating Lisp code from ds_sensor_msgs/WaterCurrentProfile.msg[0m
+[ 80%] [34m[1mGenerating Python from MSG ds_sensor_msgs/Velocity3D[0m
+[ 81%] [34m[1mGenerating C++ code from ds_sensor_msgs/SoundSpeed.msg[0m
+[ 81%] Built target ds_sensor_msgs_generate_messages_lisp
+[ 81%] [34m[1mGenerating C++ code from ds_sensor_msgs/VectorMagneticField.msg[0m
+[ 81%] [34m[1mGenerating Python from MSG ds_sensor_msgs/NortekVectorSystem[0m
+[ 82%] [34m[1mGenerating C++ code from ds_sensor_msgs/Range3D.msg[0m
+[ 83%] [34m[1mGenerating Python from MSG ds_sensor_msgs/Frequency[0m
+[ 83%] [34m[1mGenerating C++ code from ds_sensor_msgs/Ranges3D.msg[0m
+[ 84%] [34m[1mGenerating Python from MSG ds_sensor_msgs/PhinsStatus[0m
+[ 85%] [34m[1mGenerating C++ code from ds_sensor_msgs/ForwardLookingStatus.msg[0m
+[ 86%] [34m[1mGenerating C++ code from ds_sensor_msgs/Velocity3D.msg[0m
+[ 86%] [34m[1mGenerating Python from MSG ds_sensor_msgs/PhinsStdbin3[0m
+[ 86%] [34m[1mGenerating C++ code from ds_sensor_msgs/NortekVectorSystem.msg[0m
+[ 87%] [34m[1mGenerating C++ code from ds_sensor_msgs/Frequency.msg[0m
+[ 88%] [34m[1mGenerating Python from MSG ds_sensor_msgs/UbloxNav[0m
+[ 88%] [34m[1mGenerating Python from MSG ds_sensor_msgs/UbloxSignal[0m
+[ 88%] [34m[1mGenerating C++ code from ds_sensor_msgs/PhinsStatus.msg[0m
+[ 89%] [34m[1mGenerating C++ code from ds_sensor_msgs/PhinsStdbin3.msg[0m
+[ 90%] [34m[1mGenerating Python from MSG ds_sensor_msgs/UbloxSignals[0m
+[ 91%] [34m[1mGenerating C++ code from ds_sensor_msgs/UbloxNav.msg[0m
+[ 91%] [34m[1mGenerating C++ code from ds_sensor_msgs/UbloxSignal.msg[0m
+[ 92%] [34m[1mGenerating Python from MSG ds_sensor_msgs/UbloxSatellite[0m
+[ 93%] [34m[1mGenerating C++ code from ds_sensor_msgs/UbloxSignals.msg[0m
+[ 94%] [34m[1mGenerating C++ code from ds_sensor_msgs/UbloxSatellite.msg[0m
+[ 94%] [34m[1mGenerating C++ code from ds_sensor_msgs/UbloxSatellites.msg[0m
+[ 94%] [34m[1mGenerating Python from MSG ds_sensor_msgs/UbloxSatellites[0m
+[ 95%] [34m[1mGenerating C++ code from ds_sensor_msgs/UbloxSurveyIn.msg[0m
+[ 95%] [34m[1mGenerating C++ code from ds_sensor_msgs/RdiPD5.msg[0m
+[ 96%] [34m[1mGenerating C++ code from ds_sensor_msgs/WaterCurrentProfile.msg[0m
+[ 97%] [34m[1mGenerating Python from MSG ds_sensor_msgs/UbloxSurveyIn[0m
+[ 97%] [34m[1mGenerating Python from MSG ds_sensor_msgs/RdiPD5[0m
+[ 98%] [34m[1mGenerating Python from MSG ds_sensor_msgs/WaterCurrentProfile[0m
+[ 98%] Built target ds_sensor_msgs_generate_messages_cpp
+[100%] [34m[1mGenerating Python msg __init__.py for ds_sensor_msgs[0m
+[100%] Built target ds_sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target ds_sensor_msgs_generate_messages[0m
+[100%] Built target ds_sensor_msgs_generate_messages

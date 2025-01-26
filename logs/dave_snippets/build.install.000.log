@@ -1,0 +1,18 @@
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Up-to-date: /home/constance/uuv_ws/install/_setup_util.py
+-- Up-to-date: /home/constance/uuv_ws/install/env.sh
+-- Up-to-date: /home/constance/uuv_ws/install/setup.bash
+-- Up-to-date: /home/constance/uuv_ws/install/local_setup.bash
+-- Up-to-date: /home/constance/uuv_ws/install/setup.sh
+-- Up-to-date: /home/constance/uuv_ws/install/local_setup.sh
+-- Up-to-date: /home/constance/uuv_ws/install/setup.zsh
+-- Up-to-date: /home/constance/uuv_ws/install/local_setup.zsh
+-- Up-to-date: /home/constance/uuv_ws/install/.rosinstall
+-- Installing: /home/constance/uuv_ws/install/lib/pkgconfig/dave_snippets.pc
+-- Installing: /home/constance/uuv_ws/install/share/dave_snippets/cmake/dave_snippetsConfig.cmake
+-- Installing: /home/constance/uuv_ws/install/share/dave_snippets/cmake/dave_snippetsConfig-version.cmake
+-- Installing: /home/constance/uuv_ws/install/share/dave_snippets/package.xml
+-- Installing: /home/constance/uuv_ws/install/share/dave_snippets/urdf
+-- Installing: /home/constance/uuv_ws/install/share/dave_snippets/urdf/sensor_snippets.xacro
+-- Installing: /home/constance/uuv_ws/install/share/dave_snippets/urdf/sonar_snippets.xacro

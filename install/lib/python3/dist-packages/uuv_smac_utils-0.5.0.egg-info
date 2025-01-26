@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: uuv_smac_utils
+Version: 0.5.0
+Summary: Utility scripts and configuration for the SMAC optimization
+Home-page: UNKNOWN
+Author: Musa Morena Marcusso Manhaes
+Author-email: musa.marcusso@de.bosch.com
+License: Apache-2.0
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: rospy

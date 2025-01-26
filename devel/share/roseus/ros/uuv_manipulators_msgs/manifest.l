@@ -1,0 +1,1 @@
+/home/constance/uuv_ws/devel/.private/uuv_manipulators_msgs/share/roseus/ros/uuv_manipulators_msgs/manifest.l

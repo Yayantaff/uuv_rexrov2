@@ -1,0 +1,1 @@
+/home/constance/uuv_ws/devel/.private/predator_description/share/predator_description/cmake/predator_descriptionConfig-version.cmake

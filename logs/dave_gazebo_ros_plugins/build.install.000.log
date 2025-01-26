@@ -1,0 +1,281 @@
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_gencfg
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[  0%] Built target gazebo_msgs_generate_messages_nodejs
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target gazebo_msgs_generate_messages_cpp
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target gazebo_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target gazebo_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[  0%] Built target gazebo_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target gazebo_ros_gencfg
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target trajectory_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  2%] Built target dave_pulse_lidar_plugin
+[  2%] Built target _dave_gazebo_ros_plugins_generate_messages_check_deps_TransformFromSphericalCoord
+[  2%] Built target _dave_gazebo_ros_plugins_generate_messages_check_deps_TransformToSphericalCoord
+[  2%] Built target _dave_gazebo_ros_plugins_generate_messages_check_deps_GetOriginSphericalCoord
+[  2%] Built target _dave_gazebo_ros_plugins_generate_messages_check_deps_SetStratifiedCurrentDirection
+[  2%] Built target _dave_gazebo_ros_plugins_generate_messages_check_deps_SetStratifiedCurrentVelocity
+[  2%] Built target _dave_gazebo_ros_plugins_generate_messages_check_deps_SetCurrentDirection
+[  2%] Built target _dave_gazebo_ros_plugins_generate_messages_check_deps_SetCurrentVelocity
+[  2%] Built target _dave_gazebo_ros_plugins_generate_messages_check_deps_GetCurrentModel
+[  2%] Built target _dave_gazebo_ros_plugins_generate_messages_check_deps_SetCurrentModel
+[  2%] Built target _dave_gazebo_ros_plugins_generate_messages_check_deps_StratifiedCurrentVelocity
+[  2%] Built target _dave_gazebo_ros_plugins_generate_messages_check_deps_SetOriginSphericalCoord
+[  2%] Built target _dave_gazebo_ros_plugins_generate_messages_check_deps_StratifiedCurrentDatabase
+[ 21%] Built target dave_gazebo_ros_plugins_generate_messages_eus
+[ 42%] Built target dave_gazebo_ros_plugins_generate_messages_py
+[ 59%] Built target dave_gazebo_ros_plugins_generate_messages_nodejs
+[ 76%] Built target dave_gazebo_ros_plugins_generate_messages_cpp
+[ 94%] Built target dave_gazebo_ros_plugins_generate_messages_lisp
+[ 94%] Built target dave_gazebo_ros_plugins_generate_messages
+[ 97%] Built target dave_ocean_current_plugin
+[100%] Built target dave_sc_coordinates_interface
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/constance/uuv_ws/install/_setup_util.py
+-- Installing: /home/constance/uuv_ws/install/env.sh
+-- Installing: /home/constance/uuv_ws/install/setup.bash
+-- Installing: /home/constance/uuv_ws/install/local_setup.bash
+-- Installing: /home/constance/uuv_ws/install/setup.sh
+-- Installing: /home/constance/uuv_ws/install/local_setup.sh
+-- Installing: /home/constance/uuv_ws/install/setup.zsh
+-- Installing: /home/constance/uuv_ws/install/local_setup.zsh
+-- Installing: /home/constance/uuv_ws/install/.rosinstall
+-- Installing: /home/constance/uuv_ws/install/share/dave_gazebo_ros_plugins/srv/SetCurrentModel.srv
+-- Installing: /home/constance/uuv_ws/install/share/dave_gazebo_ros_plugins/srv/GetCurrentModel.srv
+-- Installing: /home/constance/uuv_ws/install/share/dave_gazebo_ros_plugins/srv/SetCurrentVelocity.srv
+-- Installing: /home/constance/uuv_ws/install/share/dave_gazebo_ros_plugins/srv/SetCurrentDirection.srv
+-- Installing: /home/constance/uuv_ws/install/share/dave_gazebo_ros_plugins/srv/SetStratifiedCurrentVelocity.srv
+-- Installing: /home/constance/uuv_ws/install/share/dave_gazebo_ros_plugins/srv/SetStratifiedCurrentDirection.srv
+-- Installing: /home/constance/uuv_ws/install/share/dave_gazebo_ros_plugins/srv/SetOriginSphericalCoord.srv
+-- Installing: /home/constance/uuv_ws/install/share/dave_gazebo_ros_plugins/srv/GetOriginSphericalCoord.srv
+-- Installing: /home/constance/uuv_ws/install/share/dave_gazebo_ros_plugins/srv/TransformToSphericalCoord.srv
+-- Installing: /home/constance/uuv_ws/install/share/dave_gazebo_ros_plugins/srv/TransformFromSphericalCoord.srv
+-- Installing: /home/constance/uuv_ws/install/share/dave_gazebo_ros_plugins/msg/StratifiedCurrentDatabase.msg
+-- Installing: /home/constance/uuv_ws/install/share/dave_gazebo_ros_plugins/msg/StratifiedCurrentVelocity.msg
+-- Installing: /home/constance/uuv_ws/install/share/dave_gazebo_ros_plugins/cmake/dave_gazebo_ros_plugins-msg-paths.cmake
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/TransformToSphericalCoord.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/SetCurrentModelResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/SetCurrentVelocityResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/TransformToSphericalCoordRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/SetCurrentDirectionResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/StratifiedCurrentVelocity.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/SetCurrentVelocity.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/TransformToSphericalCoordResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/SetCurrentModel.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/GetCurrentModelRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/TransformFromSphericalCoordResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/SetStratifiedCurrentVelocityResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/GetCurrentModel.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/GetCurrentModelResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/SetStratifiedCurrentVelocity.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/SetStratifiedCurrentDirection.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/SetStratifiedCurrentDirectionResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/SetOriginSphericalCoordResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/GetOriginSphericalCoord.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/GetOriginSphericalCoordRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/SetOriginSphericalCoord.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/TransformFromSphericalCoordRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/TransformFromSphericalCoord.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/SetOriginSphericalCoordRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/SetStratifiedCurrentDirectionRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/GetOriginSphericalCoordResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/SetCurrentVelocityRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/StratifiedCurrentDatabase.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/SetCurrentDirection.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/SetCurrentModelRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/SetCurrentDirectionRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/SetStratifiedCurrentVelocityRequest.h
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/dave_gazebo_ros_plugins
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/dave_gazebo_ros_plugins/srv
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/dave_gazebo_ros_plugins/srv/SetStratifiedCurrentVelocity.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/dave_gazebo_ros_plugins/srv/SetCurrentModel.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/dave_gazebo_ros_plugins/srv/TransformToSphericalCoord.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/dave_gazebo_ros_plugins/srv/SetCurrentVelocity.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/dave_gazebo_ros_plugins/srv/GetCurrentModel.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/dave_gazebo_ros_plugins/srv/SetOriginSphericalCoord.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/dave_gazebo_ros_plugins/srv/SetCurrentDirection.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/dave_gazebo_ros_plugins/srv/TransformFromSphericalCoord.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/dave_gazebo_ros_plugins/srv/SetStratifiedCurrentDirection.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/dave_gazebo_ros_plugins/srv/GetOriginSphericalCoord.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/dave_gazebo_ros_plugins/manifest.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/dave_gazebo_ros_plugins/msg
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/dave_gazebo_ros_plugins/msg/StratifiedCurrentDatabase.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/dave_gazebo_ros_plugins/msg/StratifiedCurrentVelocity.l
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/_package_SetOriginSphericalCoord.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/GetCurrentModel.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/_package.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/_package_SetStratifiedCurrentDirection.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/_package_SetCurrentModel.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/_package_SetCurrentVelocity.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/SetOriginSphericalCoord.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/_package_TransformToSphericalCoord.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/_package_GetOriginSphericalCoord.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/TransformToSphericalCoord.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/GetOriginSphericalCoord.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/SetStratifiedCurrentDirection.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/SetStratifiedCurrentVelocity.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/_package_SetCurrentDirection.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/TransformFromSphericalCoord.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/_package_GetCurrentModel.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/SetCurrentDirection.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/dave_gazebo_ros_plugins-srv.asd
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/SetCurrentModel.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/_package_SetStratifiedCurrentVelocity.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/_package_TransformFromSphericalCoord.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/srv/SetCurrentVelocity.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/msg
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/msg/StratifiedCurrentDatabase.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/msg/_package.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/msg/_package_StratifiedCurrentDatabase.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/msg/_package_StratifiedCurrentVelocity.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/msg/StratifiedCurrentVelocity.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/dave_gazebo_ros_plugins/msg/dave_gazebo_ros_plugins-msg.asd
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/dave_gazebo_ros_plugins
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/dave_gazebo_ros_plugins/srv
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/dave_gazebo_ros_plugins/srv/SetCurrentDirection.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/dave_gazebo_ros_plugins/srv/SetStratifiedCurrentVelocity.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/dave_gazebo_ros_plugins/srv/GetCurrentModel.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/dave_gazebo_ros_plugins/srv/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/dave_gazebo_ros_plugins/srv/TransformToSphericalCoord.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/dave_gazebo_ros_plugins/srv/SetCurrentVelocity.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/dave_gazebo_ros_plugins/srv/SetStratifiedCurrentDirection.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/dave_gazebo_ros_plugins/srv/SetCurrentModel.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/dave_gazebo_ros_plugins/srv/SetOriginSphericalCoord.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/dave_gazebo_ros_plugins/srv/TransformFromSphericalCoord.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/dave_gazebo_ros_plugins/srv/GetOriginSphericalCoord.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/dave_gazebo_ros_plugins/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/dave_gazebo_ros_plugins/msg
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/dave_gazebo_ros_plugins/msg/StratifiedCurrentVelocity.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/dave_gazebo_ros_plugins/msg/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/dave_gazebo_ros_plugins/msg/StratifiedCurrentDatabase.js
+Listing '/home/constance/uuv_ws/devel/.private/dave_gazebo_ros_plugins/lib/python3/dist-packages/dave_gazebo_ros_plugins'...
+Compiling '/home/constance/uuv_ws/devel/.private/dave_gazebo_ros_plugins/lib/python3/dist-packages/dave_gazebo_ros_plugins/__init__.py'...
+Listing '/home/constance/uuv_ws/devel/.private/dave_gazebo_ros_plugins/lib/python3/dist-packages/dave_gazebo_ros_plugins/msg'...
+Compiling '/home/constance/uuv_ws/devel/.private/dave_gazebo_ros_plugins/lib/python3/dist-packages/dave_gazebo_ros_plugins/msg/_StratifiedCurrentDatabase.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/dave_gazebo_ros_plugins/lib/python3/dist-packages/dave_gazebo_ros_plugins/msg/_StratifiedCurrentVelocity.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/dave_gazebo_ros_plugins/lib/python3/dist-packages/dave_gazebo_ros_plugins/msg/__init__.py'...
+Listing '/home/constance/uuv_ws/devel/.private/dave_gazebo_ros_plugins/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv'...
+Compiling '/home/constance/uuv_ws/devel/.private/dave_gazebo_ros_plugins/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/_GetCurrentModel.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/dave_gazebo_ros_plugins/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/_GetOriginSphericalCoord.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/dave_gazebo_ros_plugins/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/_SetCurrentDirection.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/dave_gazebo_ros_plugins/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/_SetCurrentModel.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/dave_gazebo_ros_plugins/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/_SetCurrentVelocity.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/dave_gazebo_ros_plugins/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/_SetOriginSphericalCoord.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/dave_gazebo_ros_plugins/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/_SetStratifiedCurrentDirection.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/dave_gazebo_ros_plugins/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/_SetStratifiedCurrentVelocity.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/dave_gazebo_ros_plugins/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/_TransformFromSphericalCoord.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/dave_gazebo_ros_plugins/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/_TransformToSphericalCoord.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/dave_gazebo_ros_plugins/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/__init__.py'...
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/_SetCurrentModel.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/_GetOriginSphericalCoord.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/_TransformFromSphericalCoord.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/_SetCurrentDirection.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/_SetOriginSphericalCoord.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/_GetCurrentModel.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/__pycache__/_GetCurrentModel.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/__pycache__/_GetOriginSphericalCoord.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/__pycache__/_TransformFromSphericalCoord.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/__pycache__/_SetStratifiedCurrentVelocity.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/__pycache__/_SetStratifiedCurrentDirection.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/__pycache__/_SetCurrentVelocity.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/__pycache__/_SetCurrentModel.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/__pycache__/_SetOriginSphericalCoord.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/__pycache__/_TransformToSphericalCoord.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/__pycache__/_SetCurrentDirection.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/_SetCurrentVelocity.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/_SetStratifiedCurrentVelocity.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/_TransformToSphericalCoord.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/srv/_SetStratifiedCurrentDirection.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/msg
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/msg/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/msg/__pycache__/_StratifiedCurrentVelocity.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/msg/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/msg/__pycache__/_StratifiedCurrentDatabase.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/msg/_StratifiedCurrentVelocity.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/msg/_StratifiedCurrentDatabase.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/msg/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/dave_gazebo_ros_plugins/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/pkgconfig/dave_gazebo_ros_plugins.pc
+-- Installing: /home/constance/uuv_ws/install/share/dave_gazebo_ros_plugins/cmake/dave_gazebo_ros_plugins-msg-extras.cmake
+-- Installing: /home/constance/uuv_ws/install/share/dave_gazebo_ros_plugins/cmake/dave_gazebo_ros_pluginsConfig.cmake
+-- Installing: /home/constance/uuv_ws/install/share/dave_gazebo_ros_plugins/cmake/dave_gazebo_ros_pluginsConfig-version.cmake
+-- Installing: /home/constance/uuv_ws/install/share/dave_gazebo_ros_plugins/package.xml
+-- Installing: /home/constance/uuv_ws/install/lib/libdave_ocean_current_plugin.so
+-- Set runtime path of "/home/constance/uuv_ws/install/lib/libdave_ocean_current_plugin.so" to ""
+-- Installing: /home/constance/uuv_ws/install/lib/libdave_pulse_lidar_plugin.so
+-- Set runtime path of "/home/constance/uuv_ws/install/lib/libdave_pulse_lidar_plugin.so" to ""
+-- Installing: /home/constance/uuv_ws/install/lib/libdave_sc_coordinates_interface.so
+-- Set runtime path of "/home/constance/uuv_ws/install/lib/libdave_sc_coordinates_interface.so" to ""
+-- Up-to-date: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/spherical_coordinates_interface.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/ocean_current_plugin.h
+-- Installing: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins/pulse_lidar_plugin.h
+-- Up-to-date: /home/constance/uuv_ws/install/include
+-- Up-to-date: /home/constance/uuv_ws/install/include/dave_gazebo_ros_plugins

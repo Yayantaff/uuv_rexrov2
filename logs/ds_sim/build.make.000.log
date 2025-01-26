@@ -1,0 +1,250 @@
+[35m[1mScanning dependencies of target gazebo_ros_gencfg[0m
+[  0%] Built target gazebo_ros_gencfg
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_nodejs[0m
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_lisp[0m
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_cpp[0m
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_py[0m
+[  0%] Built target gazebo_msgs_generate_messages_py
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_nodejs[0m
+[  0%] Built target gazebo_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_cpp[0m
+[  0%] Built target gazebo_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[  0%] Built target dynamic_reconfigure_gencfg
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_lisp[0m
+[  0%] Built target gazebo_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[  0%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[  0%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[  0%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  0%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[  0%] Built target tf_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[  0%] Built target tf_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[  0%] Built target tf_generate_messages_cpp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[  0%] Built target std_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[  0%] Built target std_srvs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[  0%] Built target std_srvs_generate_messages_eus
+[35m[1mScanning dependencies of target ds_sensor_msgs_generate_messages_py[0m
+[  0%] Built target ds_sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_eus[0m
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target ds_sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target ds_sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target ds_nav_msgs_generate_messages_lisp[0m
+[  0%] Built target ds_nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target ds_actuator_msgs_generate_messages_lisp[0m
+[  0%] Built target ds_actuator_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target ds_actuator_msgs_generate_messages_nodejs[0m
+[  0%] Built target ds_actuator_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target ds_actuator_msgs_generate_messages_py[0m
+[  0%] Built target ds_actuator_msgs_generate_messages_py
+[35m[1mScanning dependencies of target ds_core_msgs_generate_messages_eus[0m
+[  0%] Built target ds_core_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[  0%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target ds_nav_msgs_generate_messages_py[0m
+[  0%] Built target ds_nav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[  0%] Built target _catkin_empty_exported_target
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target ds_actuator_msgs_generate_messages_eus[0m
+[  0%] Built target ds_actuator_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target ds_core_msgs_generate_messages_py[0m
+[  0%] Built target ds_core_msgs_generate_messages_py
+[35m[1mScanning dependencies of target ds_core_msgs_generate_messages_lisp[0m
+[  0%] Built target ds_core_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target ds_core_msgs_generate_messages_nodejs[0m
+[  0%] Built target ds_core_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[  0%] Built target tf_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target ds_core_msgs_generate_messages_cpp[0m
+[  0%] Built target ds_core_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[  0%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target ds_sensor_msgs_generate_messages_eus[0m
+[  0%] Built target ds_sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target ds_sensor_msgs_gencfg[0m
+[  0%] Built target ds_sensor_msgs_gencfg
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[  0%] Built target std_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target ds_actuator_msgs_generate_messages_cpp[0m
+[  0%] Built target ds_actuator_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_eus[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[  0%] Built target gazebo_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target ds_nav_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target ds_nav_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target ds_nav_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target ds_sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target ds_nav_msgs_generate_messages_eus
+[  0%] Built target ds_sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target ds_nav_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target ds_sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target ds_nav_msgs_generate_messages_nodejs
+[  0%] Built target ds_sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target ds_multibeam_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target ds_multibeam_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target ds_multibeam_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target ds_multibeam_msgs_generate_messages_lisp[0m
+[  0%] Built target ds_multibeam_msgs_generate_messages_eus
+[  0%] Built target ds_multibeam_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target ds_multibeam_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  0%] Built target ds_multibeam_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target trajectory_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[35m[1mScanning dependencies of target ds_multibeam_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target ds_multibeam_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  2%] [34m[1mRunning cpp protocol buffer compiler on /usr/include/gazebo-11/gazebo/msgs/proto/time.proto[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  5%] [34m[1mRunning cpp protocol buffer compiler on gazebo_msgs/SensorDepth.proto[0m
+[  5%] Built target geometry_msgs_generate_messages_py
+[libprotobuf WARNING google/protobuf/compiler/parser.cc:562] No syntax specified for the proto file: SensorDepth.proto. Please use 'syntax = "proto2";' or 'syntax = "proto3";' to specify a syntax version. (Defaulted to proto2 syntax.)
+[  7%] [34m[1mRunning cpp protocol buffer compiler on gazebo_msgs/SensorDvl.proto[0m
+[35m[1mScanning dependencies of target dsros_ros_gps[0m
+[ 10%] [34m[1mRunning cpp protocol buffer compiler on gazebo_msgs/SensorIns.proto[0m
+[35m[1mScanning dependencies of target dsros_navstate_publisher[0m
+[ 12%] [34m[1mRunning cpp protocol buffer compiler on /usr/include/gazebo-11/gazebo/msgs/proto/quaternion.proto[0m
+[ 15%] [34m[1mRunning cpp protocol buffer compiler on /usr/include/gazebo-11/gazebo/msgs/proto/vector3d.proto[0m
+[ 17%] [34m[1mRunning cpp protocol buffer compiler on /usr/include/gazebo-11/gazebo/msgs/proto/header.proto[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/dsros_ros_gps.dir/src/dsros_gps_plugin.cc.o[0m
+[35m[1mScanning dependencies of target ds_sim_gazebo_msgs[0m
+[ 23%] [32mBuilding CXX object CMakeFiles/dsros_navstate_publisher.dir/src/dsros_navstate_publisher.cc.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/ds_sim_gazebo_msgs.dir/SensorDepth.pb.cc.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/ds_sim_gazebo_msgs.dir/SensorDvl.pb.cc.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/ds_sim_gazebo_msgs.dir/SensorIns.pb.cc.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/ds_sim_gazebo_msgs.dir/quaternion.pb.cc.o[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/ds_sim_gazebo_msgs.dir/vector3d.pb.cc.o[0m
+[ 38%] [32mBuilding CXX object CMakeFiles/ds_sim_gazebo_msgs.dir/header.pb.cc.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/ds_sim_gazebo_msgs.dir/time.pb.cc.o[0m
+[35m[1mScanning dependencies of target dsros_jointstate_publisher[0m
+[ 43%] [32mBuilding CXX object CMakeFiles/dsros_jointstate_publisher.dir/src/dsros_jointstate_publisher.cc.o[0m
+[ 46%] [32m[1mLinking CXX shared library /home/constance/uuv_ws/devel/.private/ds_sim/lib/libds_sim_gazebo_msgs.so[0m
+[ 46%] Built target ds_sim_gazebo_msgs
+[35m[1mScanning dependencies of target dsros_ros_thruster[0m
+[ 48%] [32mBuilding CXX object CMakeFiles/dsros_ros_thruster.dir/gazebo_src/dsros_thruster.cc.o[0m
+[ 51%] [32m[1mLinking CXX shared library /home/constance/uuv_ws/devel/.private/ds_sim/lib/libdsros_ros_gps.so[0m
+[ 51%] Built target dsros_ros_gps
+[35m[1mScanning dependencies of target dsros_sensors[0m
+[ 53%] [32mBuilding CXX object CMakeFiles/dsros_sensors.dir/gazebo_src/depth_util.cc.o[0m
+[ 56%] [32mBuilding CXX object CMakeFiles/dsros_sensors.dir/gazebo_src/dsros_depth.cc.o[0m
+[ 58%] [32m[1mLinking CXX shared library /home/constance/uuv_ws/devel/.private/ds_sim/lib/libdsros_navstate_publisher.so[0m
+[ 58%] Built target dsros_navstate_publisher
+[35m[1mScanning dependencies of target dsros_ros_reson[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/dsros_ros_reson.dir/src/dsros_reson_plugin.cc.o[0m
+[ 64%] [32m[1mLinking CXX shared library /home/constance/uuv_ws/devel/.private/ds_sim/lib/libdsros_jointstate_publisher.so[0m
+[ 64%] Built target dsros_jointstate_publisher
+[35m[1mScanning dependencies of target dsros_hydro[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/dsros_hydro.dir/gazebo_src/dsros_hydro.cc.o[0m
+[ 69%] [32m[1mLinking CXX shared library /home/constance/uuv_ws/devel/.private/ds_sim/lib/libdsros_ros_thruster.so[0m
+[ 69%] Built target dsros_ros_thruster
+[ 71%] [32mBuilding CXX object CMakeFiles/dsros_sensors.dir/gazebo_src/dsros_ins.cc.o[0m
+[ 74%] [32mBuilding CXX object CMakeFiles/dsros_sensors.dir/gazebo_src/dsros_dvl.cc.o[0m
+[ 76%] [32m[1mLinking CXX shared library /home/constance/uuv_ws/devel/.private/ds_sim/lib/libdsros_ros_reson.so[0m
+[ 76%] Built target dsros_ros_reson
+[ 79%] [32mBuilding CXX object CMakeFiles/dsros_sensors.dir/gazebo_src/dsros_sensors.cc.o[0m
+[ 82%] [32m[1mLinking CXX shared library /home/constance/uuv_ws/devel/.private/ds_sim/lib/libdsros_hydro.so[0m
+[ 82%] Built target dsros_hydro
+[ 84%] [32m[1mLinking CXX shared library /home/constance/uuv_ws/devel/.private/ds_sim/lib/libdsros_sensors.so[0m
+[ 84%] Built target dsros_sensors
+[35m[1mScanning dependencies of target dsros_ros_dvl[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/dsros_ros_dvl.dir/src/dsros_dvl_plugin.cc.o[0m
+[35m[1mScanning dependencies of target dsros_ros_depth[0m
+[ 89%] [32mBuilding CXX object CMakeFiles/dsros_ros_depth.dir/src/dsros_depth_plugin.cc.o[0m
+[ 92%] [32m[1mLinking CXX shared library /home/constance/uuv_ws/devel/.private/ds_sim/lib/libdsros_ros_dvl.so[0m
+[ 92%] Built target dsros_ros_dvl
+[35m[1mScanning dependencies of target dsros_ros_ins[0m
+[ 94%] [32mBuilding CXX object CMakeFiles/dsros_ros_ins.dir/src/dsros_ins_plugin.cc.o[0m
+[ 97%] [32m[1mLinking CXX shared library /home/constance/uuv_ws/devel/.private/ds_sim/lib/libdsros_ros_depth.so[0m
+[ 97%] Built target dsros_ros_depth
+[100%] [32m[1mLinking CXX shared library /home/constance/uuv_ws/devel/.private/ds_sim/lib/libdsros_ros_ins.so[0m
+[100%] Built target dsros_ros_ins

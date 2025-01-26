@@ -1,0 +1,218 @@
+[  0%] Built target _ds_control_msgs_generate_messages_check_deps_RovAutoCommand
+[  0%] Built target ds_nav_msgs_generate_messages_cpp
+[  0%] Built target control_msgs_generate_messages_cpp
+[  0%] Built target _ds_control_msgs_generate_messages_check_deps_GoalLegState
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _ds_control_msgs_generate_messages_check_deps_PidSettings
+[  0%] Built target _ds_control_msgs_generate_messages_check_deps_ExternalBottomFollowTimedOverride
+[  0%] Built target ds_core_msgs_generate_messages_cpp
+[  0%] Built target _ds_control_msgs_generate_messages_check_deps_RovControlGoal
+[  0%] Built target _ds_control_msgs_generate_messages_check_deps_ActuatorInputs
+[  0%] Built target _ds_control_msgs_generate_messages_check_deps_BottomFollow1D
+[  0%] Built target _ds_control_msgs_generate_messages_check_deps_RovSwitchState
+[  0%] Built target _ds_control_msgs_generate_messages_check_deps_RovAllocationEnum
+[  0%] Built target _ds_control_msgs_generate_messages_check_deps_GoalLegLatLon
+[  0%] Built target _ds_control_msgs_generate_messages_check_deps_ExternalBottomFollowAlarm
+[  0%] Built target _ds_control_msgs_generate_messages_check_deps_RovAutoState
+[  0%] Built target _ds_control_msgs_generate_messages_check_deps_RovControllerState
+[  0%] Built target _ds_control_msgs_generate_messages_check_deps_ControllerEnum
+[  0%] Built target _ds_control_msgs_generate_messages_check_deps_JoystickEnum
+[ 19%] Built target ds_control_msgs_generate_messages_cpp
+[ 19%] Built target geometry_msgs_generate_messages_py
+[ 19%] Built target control_msgs_generate_messages_py
+[ 19%] Built target ds_nav_msgs_generate_messages_py
+[ 19%] Built target ds_core_msgs_generate_messages_py
+[ 19%] Built target std_msgs_generate_messages_py
+[ 41%] Built target ds_control_msgs_generate_messages_py
+[ 41%] Built target std_msgs_generate_messages_nodejs
+[ 41%] Built target ds_core_msgs_generate_messages_nodejs
+[ 41%] Built target geometry_msgs_generate_messages_nodejs
+[ 41%] Built target control_msgs_generate_messages_nodejs
+[ 41%] Built target ds_nav_msgs_generate_messages_nodejs
+[ 60%] Built target ds_control_msgs_generate_messages_nodejs
+[ 60%] Built target ds_core_msgs_generate_messages_lisp
+[ 60%] Built target control_msgs_generate_messages_lisp
+[ 60%] Built target std_msgs_generate_messages_lisp
+[ 60%] Built target ds_nav_msgs_generate_messages_lisp
+[ 60%] Built target geometry_msgs_generate_messages_lisp
+[ 79%] Built target ds_control_msgs_generate_messages_lisp
+[ 79%] Built target control_msgs_generate_messages_eus
+[ 79%] Built target ds_core_msgs_generate_messages_eus
+[ 79%] Built target geometry_msgs_generate_messages_eus
+[ 79%] Built target std_msgs_generate_messages_eus
+[ 79%] Built target ds_nav_msgs_generate_messages_eus
+[100%] Built target ds_control_msgs_generate_messages_eus
+[100%] Built target ds_control_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/constance/uuv_ws/install/_setup_util.py
+-- Installing: /home/constance/uuv_ws/install/env.sh
+-- Installing: /home/constance/uuv_ws/install/setup.bash
+-- Installing: /home/constance/uuv_ws/install/local_setup.bash
+-- Installing: /home/constance/uuv_ws/install/setup.sh
+-- Installing: /home/constance/uuv_ws/install/local_setup.sh
+-- Installing: /home/constance/uuv_ws/install/setup.zsh
+-- Installing: /home/constance/uuv_ws/install/local_setup.zsh
+-- Installing: /home/constance/uuv_ws/install/.rosinstall
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_control_msgs/msg/BottomFollow1D.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_control_msgs/msg/GoalLegState.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_control_msgs/msg/GoalLegLatLon.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_control_msgs/msg/ExternalBottomFollowAlarm.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_control_msgs/msg/ExternalBottomFollowTimedOverride.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_control_msgs/msg/RovAutoState.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_control_msgs/msg/RovControllerState.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_control_msgs/msg/RovControlGoal.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_control_msgs/msg/ActuatorInputs.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_control_msgs/msg/ControllerEnum.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_control_msgs/msg/JoystickEnum.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_control_msgs/msg/PidSettings.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_control_msgs/msg/RovAllocationEnum.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_control_msgs/msg/RovSwitchState.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_control_msgs/srv/RovAutoCommand.srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_control_msgs/cmake/ds_control_msgs-msg-paths.cmake
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_control_msgs
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_control_msgs/JoystickEnum.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_control_msgs/RovAutoState.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_control_msgs/RovAutoCommandRequest.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_control_msgs/ActuatorInputs.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_control_msgs/GoalLegState.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_control_msgs/ControllerEnum.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_control_msgs/RovControllerState.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_control_msgs/GoalLegLatLon.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_control_msgs/PidSettings.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_control_msgs/RovSwitchState.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_control_msgs/RovAutoCommand.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_control_msgs/ExternalBottomFollowTimedOverride.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_control_msgs/RovControlGoal.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_control_msgs/RovAllocationEnum.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_control_msgs/RovAutoCommandResponse.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_control_msgs/ExternalBottomFollowAlarm.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_control_msgs/BottomFollow1D.h
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_control_msgs
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_control_msgs/srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_control_msgs/srv/RovAutoCommand.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_control_msgs/manifest.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_control_msgs/msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_control_msgs/msg/RovAllocationEnum.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_control_msgs/msg/GoalLegState.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_control_msgs/msg/ControllerEnum.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_control_msgs/msg/RovControllerState.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_control_msgs/msg/PidSettings.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_control_msgs/msg/RovControlGoal.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_control_msgs/msg/JoystickEnum.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_control_msgs/msg/BottomFollow1D.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_control_msgs/msg/GoalLegLatLon.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_control_msgs/msg/RovAutoState.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_control_msgs/msg/ActuatorInputs.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_control_msgs/msg/RovSwitchState.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_control_msgs/msg/ExternalBottomFollowAlarm.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_control_msgs/msg/ExternalBottomFollowTimedOverride.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/srv/_package_RovAutoCommand.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/srv/ds_control_msgs-srv.asd
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/srv/_package.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/srv/RovAutoCommand.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/_package_RovControllerState.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/_package_JoystickEnum.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/RovControlGoal.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/RovAutoState.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/PidSettings.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/_package_ActuatorInputs.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/_package.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/BottomFollow1D.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/JoystickEnum.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/_package_ExternalBottomFollowAlarm.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/GoalLegState.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/RovAllocationEnum.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/_package_BottomFollow1D.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/_package_PidSettings.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/RovSwitchState.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/ControllerEnum.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/RovControllerState.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/ExternalBottomFollowAlarm.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/_package_RovSwitchState.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/_package_GoalLegState.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/_package_RovAutoState.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/ExternalBottomFollowTimedOverride.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/GoalLegLatLon.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/_package_ExternalBottomFollowTimedOverride.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/_package_ControllerEnum.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/ActuatorInputs.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/_package_RovControlGoal.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/_package_RovAllocationEnum.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/_package_GoalLegLatLon.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_control_msgs/msg/ds_control_msgs-msg.asd
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_control_msgs
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_control_msgs/srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_control_msgs/srv/RovAutoCommand.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_control_msgs/srv/_index.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_control_msgs/_index.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_control_msgs/msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_control_msgs/msg/ExternalBottomFollowTimedOverride.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_control_msgs/msg/ActuatorInputs.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_control_msgs/msg/RovControlGoal.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_control_msgs/msg/_index.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_control_msgs/msg/RovAllocationEnum.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_control_msgs/msg/RovControllerState.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_control_msgs/msg/RovSwitchState.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_control_msgs/msg/GoalLegLatLon.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_control_msgs/msg/JoystickEnum.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_control_msgs/msg/RovAutoState.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_control_msgs/msg/BottomFollow1D.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_control_msgs/msg/ControllerEnum.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_control_msgs/msg/GoalLegState.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_control_msgs/msg/PidSettings.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_control_msgs/msg/ExternalBottomFollowAlarm.js
+Listing '/home/constance/uuv_ws/devel/.private/ds_control_msgs/lib/python3/dist-packages/ds_control_msgs'...
+Listing '/home/constance/uuv_ws/devel/.private/ds_control_msgs/lib/python3/dist-packages/ds_control_msgs/msg'...
+Listing '/home/constance/uuv_ws/devel/.private/ds_control_msgs/lib/python3/dist-packages/ds_control_msgs/srv'...
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/srv
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/srv/__pycache__
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/srv/__pycache__/__init__.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/srv/__pycache__/_RovAutoCommand.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/srv/_RovAutoCommand.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/srv/__init__.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/__pycache__
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/__pycache__/__init__.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/_RovControlGoal.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/_BottomFollow1D.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/_RovAutoState.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/_GoalLegLatLon.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/__pycache__
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/__pycache__/_ExternalBottomFollowTimedOverride.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/__pycache__/_PidSettings.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/__pycache__/_BottomFollow1D.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/__pycache__/__init__.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/__pycache__/_GoalLegState.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/__pycache__/_RovAllocationEnum.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/__pycache__/_JoystickEnum.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/__pycache__/_GoalLegLatLon.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/__pycache__/_ActuatorInputs.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/__pycache__/_RovAutoState.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/__pycache__/_RovSwitchState.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/__pycache__/_RovControllerState.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/__pycache__/_RovControlGoal.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/__pycache__/_ControllerEnum.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/__pycache__/_ExternalBottomFollowAlarm.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/_RovControllerState.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/_ExternalBottomFollowAlarm.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/_RovSwitchState.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/_GoalLegState.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/_ControllerEnum.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/_ExternalBottomFollowTimedOverride.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/_JoystickEnum.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/_ActuatorInputs.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/_RovAllocationEnum.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/_PidSettings.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/msg/__init__.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_control_msgs/__init__.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/pkgconfig/ds_control_msgs.pc
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_control_msgs/cmake/ds_control_msgs-msg-extras.cmake
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_control_msgs/cmake/ds_control_msgsConfig.cmake
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_control_msgs/cmake/ds_control_msgsConfig-version.cmake
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_control_msgs/package.xml

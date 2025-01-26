@@ -1,0 +1,316 @@
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_ClioBattery
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_Charge
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_TriggerChannelConfig
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_PwrSwitchDeviceCmd
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_PowerCmd
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_HTPGL
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_ClioChgCmd
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_A2D2
+[  0%] Built target ds_core_msgs_generate_messages_nodejs
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_BatteryCmd
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_PwrSwitchDeviceStatus
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_HTP
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_PwrSwitch
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_ClioBatteryPack
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_PowerSupply
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_PWRdevice
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_XR
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_XrSimState
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_AbortCmd
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_PowerSupplyCommand
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_PwrSwitchCmd
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_ChargeCmd
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_PwrSwitchDevices
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_TrigPrmCtrlCmd
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_BatMan
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_PWR
+[  0%] Built target _ds_hotel_msgs_generate_messages_check_deps_Battery
+[ 19%] Built target ds_hotel_msgs_generate_messages_nodejs
+[ 19%] Built target std_msgs_generate_messages_py
+[ 19%] Built target ds_core_msgs_generate_messages_py
+[ 40%] Built target ds_hotel_msgs_generate_messages_py
+[ 40%] Built target ds_core_msgs_generate_messages_lisp
+[ 40%] Built target std_msgs_generate_messages_lisp
+[ 60%] Built target ds_hotel_msgs_generate_messages_lisp
+[ 60%] Built target ds_core_msgs_generate_messages_cpp
+[ 60%] Built target std_msgs_generate_messages_cpp
+[ 79%] Built target ds_hotel_msgs_generate_messages_cpp
+[ 79%] Built target ds_core_msgs_generate_messages_eus
+[ 79%] Built target std_msgs_generate_messages_eus
+[100%] Built target ds_hotel_msgs_generate_messages_eus
+[100%] Built target ds_hotel_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/constance/uuv_ws/install/_setup_util.py
+-- Installing: /home/constance/uuv_ws/install/env.sh
+-- Installing: /home/constance/uuv_ws/install/setup.bash
+-- Installing: /home/constance/uuv_ws/install/local_setup.bash
+-- Installing: /home/constance/uuv_ws/install/setup.sh
+-- Installing: /home/constance/uuv_ws/install/local_setup.sh
+-- Installing: /home/constance/uuv_ws/install/setup.zsh
+-- Installing: /home/constance/uuv_ws/install/local_setup.zsh
+-- Installing: /home/constance/uuv_ws/install/.rosinstall
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/Charge.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/PowerSupply.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/HTP.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/HTPGL.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/BatMan.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/Battery.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/ClioBattery.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/ClioBatteryPack.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/PWRdevice.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/PWR.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/PwrSwitch.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/PwrSwitchDevices.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/PwrSwitchDeviceStatus.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/TriggerChannelConfig.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/PwrSwitchDeviceCmd.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/XR.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/XrSimState.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/msg/A2D2.msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/srv/AbortCmd.srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/srv/BatteryCmd.srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/srv/PowerCmd.srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/srv/PowerSupplyCommand.srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/srv/PwrSwitchCmd.srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/srv/ChargeCmd.srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/srv/ClioChgCmd.srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/srv/TrigPrmCtrlCmd.srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/cmake/ds_hotel_msgs-msg-paths.cmake
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PowerCmdResponse.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/ClioBattery.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/ClioChgCmdResponse.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/ClioChgCmdRequest.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PwrSwitchDeviceStatus.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/ChargeCmdResponse.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PowerSupplyCommandResponse.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/AbortCmdResponse.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/HTPGL.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PwrSwitchCmd.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/A2D2.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/Charge.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/TrigPrmCtrlCmdResponse.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/XR.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/BatteryCmdResponse.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PowerSupply.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PWR.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PWRdevice.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PwrSwitchCmdResponse.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/ClioBatteryPack.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/ChargeCmd.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/TrigPrmCtrlCmdRequest.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PowerCmdRequest.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/AbortCmd.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/TriggerChannelConfig.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PowerSupplyCommand.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PwrSwitchDevices.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/BatMan.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PowerCmd.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/BatteryCmd.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PwrSwitch.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/HTP.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/TrigPrmCtrlCmd.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PowerSupplyCommandRequest.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/ClioChgCmd.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PwrSwitchDeviceCmd.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/Battery.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/ChargeCmdRequest.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/AbortCmdRequest.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/BatteryCmdRequest.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/PwrSwitchCmdRequest.h
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_hotel_msgs/XrSimState.h
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/srv/PowerCmd.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/srv/TrigPrmCtrlCmd.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/srv/PowerSupplyCommand.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/srv/ChargeCmd.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/srv/BatteryCmd.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/srv/PwrSwitchCmd.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/srv/ClioChgCmd.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/srv/AbortCmd.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/manifest.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/XR.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/PowerSupply.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/XrSimState.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/HTP.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/BatMan.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/PwrSwitchDeviceStatus.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/ClioBattery.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/TriggerChannelConfig.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/PwrSwitchDeviceCmd.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/PwrSwitchDevices.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/HTPGL.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/PwrSwitch.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/PWR.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/PWRdevice.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/Battery.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/Charge.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/A2D2.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/roseus/ros/ds_hotel_msgs/msg/ClioBatteryPack.l
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/BatteryCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/_package_PwrSwitchCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/_package_PowerSupplyCommand.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/ClioChgCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/_package.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/_package_AbortCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/_package_BatteryCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/_package_ChargeCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/ds_hotel_msgs-srv.asd
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/PowerCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/_package_ClioChgCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/PwrSwitchCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/PowerSupplyCommand.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/_package_PowerCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/ChargeCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/TrigPrmCtrlCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/_package_TrigPrmCtrlCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/srv/AbortCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_ClioBattery.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_PWRdevice.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/PwrSwitchDeviceCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/PwrSwitch.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/XrSimState.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/HTPGL.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_TriggerChannelConfig.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_ClioBatteryPack.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_PwrSwitchDevices.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/PWR.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_HTP.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/ds_hotel_msgs-msg.asd
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_Charge.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/A2D2.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/PwrSwitchDeviceStatus.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/PWRdevice.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_Battery.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/BatMan.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/XR.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_PwrSwitchDeviceCmd.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_PwrSwitchDeviceStatus.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_PWR.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/ClioBattery.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_A2D2.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/PowerSupply.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/PwrSwitchDevices.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_XR.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_PowerSupply.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_HTPGL.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_BatMan.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/TriggerChannelConfig.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/Battery.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/HTP.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_XrSimState.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/ClioBatteryPack.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/_package_PwrSwitch.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_hotel_msgs/msg/Charge.lisp
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/srv
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/srv/TrigPrmCtrlCmd.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/srv/_index.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/srv/PowerCmd.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/srv/BatteryCmd.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/srv/PwrSwitchCmd.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/srv/ChargeCmd.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/srv/PowerSupplyCommand.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/srv/AbortCmd.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/srv/ClioChgCmd.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/_index.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/PWR.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/PWRdevice.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/TriggerChannelConfig.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/Charge.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/A2D2.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/_index.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/HTP.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/XrSimState.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/PowerSupply.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/PwrSwitch.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/BatMan.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/PwrSwitchDevices.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/HTPGL.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/ClioBattery.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/XR.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/PwrSwitchDeviceCmd.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/ClioBatteryPack.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/PwrSwitchDeviceStatus.js
+-- Up-to-date: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_hotel_msgs/msg/Battery.js
+Listing '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs'...
+Listing '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/msg'...
+Listing '/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/lib/python3/dist-packages/ds_hotel_msgs/srv'...
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/_TrigPrmCtrlCmd.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__pycache__
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__pycache__/__init__.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__pycache__/_PwrSwitchCmd.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__pycache__/_PowerSupplyCommand.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__pycache__/_PowerCmd.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__pycache__/_ClioChgCmd.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__pycache__/_AbortCmd.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__pycache__/_TrigPrmCtrlCmd.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__pycache__/_BatteryCmd.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__pycache__/_ChargeCmd.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/_AbortCmd.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/_ClioChgCmd.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/_BatteryCmd.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/_PowerSupplyCommand.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/_PowerCmd.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/_ChargeCmd.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/_PwrSwitchCmd.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/srv/__init__.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/__pycache__
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/__pycache__/__init__.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_ClioBattery.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_ClioBatteryPack.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_Charge.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_PwrSwitchDeviceCmd.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_PWR.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_XrSimState.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_Battery.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_TriggerChannelConfig.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/__init__.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_HTPGL.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_PwrSwitchDevices.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_Charge.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_XrSimState.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_A2D2.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_ClioBattery.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_BatMan.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_ClioBatteryPack.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_XR.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_HTP.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_Battery.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_PWR.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_PowerSupply.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_PWRdevice.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_PwrSwitchDeviceStatus.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_PwrSwitchDeviceCmd.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__pycache__/_PwrSwitch.cpython-38.pyc
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_PwrSwitch.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_PwrSwitchDeviceStatus.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_PWRdevice.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_TriggerChannelConfig.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_HTPGL.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_PwrSwitchDevices.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_HTP.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_XR.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_BatMan.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_PowerSupply.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/__init__.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/msg/_A2D2.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_hotel_msgs/__init__.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/pkgconfig/ds_hotel_msgs.pc
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/cmake/ds_hotel_msgs-msg-extras.cmake
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/cmake/ds_hotel_msgsConfig.cmake
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/cmake/ds_hotel_msgsConfig-version.cmake
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_hotel_msgs/package.xml

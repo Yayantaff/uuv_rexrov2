@@ -1,0 +1,1 @@
+/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/share/gennodejs/ros/ds_nmea_msgs/msg/PixseStatus.js

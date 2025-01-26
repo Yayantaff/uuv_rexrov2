@@ -1,0 +1,5 @@
+dave/gazebo/dave_gazebo_visual_plugins
+/home/constance/uuv_ws/devel/.private/dave_gazebo_visual_plugins/cmake.lock /home/constance/uuv_ws/devel/./cmake.lock
+/home/constance/uuv_ws/devel/.private/dave_gazebo_visual_plugins/share/dave_gazebo_visual_plugins/cmake/dave_gazebo_visual_pluginsConfig.cmake /home/constance/uuv_ws/devel/share/dave_gazebo_visual_plugins/cmake/dave_gazebo_visual_pluginsConfig.cmake
+/home/constance/uuv_ws/devel/.private/dave_gazebo_visual_plugins/share/dave_gazebo_visual_plugins/cmake/dave_gazebo_visual_pluginsConfig-version.cmake /home/constance/uuv_ws/devel/share/dave_gazebo_visual_plugins/cmake/dave_gazebo_visual_pluginsConfig-version.cmake
+/home/constance/uuv_ws/devel/.private/dave_gazebo_visual_plugins/lib/pkgconfig/dave_gazebo_visual_plugins.pc /home/constance/uuv_ws/devel/lib/pkgconfig/dave_gazebo_visual_plugins.pc

@@ -1,0 +1,1 @@
+/home/constance/uuv_ws/devel/.private/ds_hotel_msgs/share/gennodejs/ros/ds_hotel_msgs/msg/_index.js

@@ -1,0 +1,8 @@
+Symlinking /home/constance/uuv_ws/devel/share/uuv_simulation_evaluation/cmake/uuv_simulation_evaluationConfig.cmake
+Symlinking /home/constance/uuv_ws/devel/share/uuv_simulation_evaluation/cmake/uuv_simulation_evaluationConfig-version.cmake
+Symlinking /home/constance/uuv_ws/devel/lib/uuv_simulation_evaluation/cmake.lock
+Symlinking /home/constance/uuv_ws/devel/lib/uuv_simulation_evaluation/evaluate_bag
+Symlinking /home/constance/uuv_ws/devel/lib/uuv_simulation_evaluation/run_best_worst_comparison
+Symlinking /home/constance/uuv_ws/devel/lib/python3/dist-packages/uuv_bag_evaluation/__init__.py
+Symlinking /home/constance/uuv_ws/devel/lib/python3/dist-packages/uuv_cost_function/__init__.py
+Symlinking /home/constance/uuv_ws/devel/lib/pkgconfig/uuv_simulation_evaluation.pc

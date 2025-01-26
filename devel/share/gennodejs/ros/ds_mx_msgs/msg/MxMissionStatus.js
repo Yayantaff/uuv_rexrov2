@@ -1,0 +1,1 @@
+/home/constance/uuv_ws/devel/.private/ds_mx_msgs/share/gennodejs/ros/ds_mx_msgs/msg/MxMissionStatus.js

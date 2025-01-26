@@ -1,0 +1,6 @@
+devel_space: /home/constance/uuv_ws/devel
+install: true
+install_space: /home/constance/uuv_ws/install
+profile: default
+source_space: /home/constance/uuv_ws/src
+workspace: /home/constance/uuv_ws

@@ -1,0 +1,5 @@
+dave/urdf/manipulators/plug_and_socket_description
+/home/constance/uuv_ws/devel/.private/plug_and_socket_description/cmake.lock /home/constance/uuv_ws/devel/./cmake.lock
+/home/constance/uuv_ws/devel/.private/plug_and_socket_description/share/plug_and_socket_description/cmake/plug_and_socket_descriptionConfig.cmake /home/constance/uuv_ws/devel/share/plug_and_socket_description/cmake/plug_and_socket_descriptionConfig.cmake
+/home/constance/uuv_ws/devel/.private/plug_and_socket_description/share/plug_and_socket_description/cmake/plug_and_socket_descriptionConfig-version.cmake /home/constance/uuv_ws/devel/share/plug_and_socket_description/cmake/plug_and_socket_descriptionConfig-version.cmake
+/home/constance/uuv_ws/devel/.private/plug_and_socket_description/lib/pkgconfig/plug_and_socket_description.pc /home/constance/uuv_ws/devel/lib/pkgconfig/plug_and_socket_description.pc

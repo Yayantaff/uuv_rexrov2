@@ -1,0 +1,219 @@
+[  0%] Built target _uuv_gazebo_ros_plugins_msgs_generate_messages_check_deps_GetThrusterState
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target _uuv_gazebo_ros_plugins_msgs_generate_messages_check_deps_GetListParam
+[  0%] Built target _uuv_gazebo_ros_plugins_msgs_generate_messages_check_deps_GetThrusterConversionFcn
+[  0%] Built target _uuv_gazebo_ros_plugins_msgs_generate_messages_check_deps_SetFloat
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _uuv_gazebo_ros_plugins_msgs_generate_messages_check_deps_SetUseGlobalCurrentVel
+[  0%] Built target _uuv_gazebo_ros_plugins_msgs_generate_messages_check_deps_FloatStamped
+[  0%] Built target _uuv_gazebo_ros_plugins_msgs_generate_messages_check_deps_GetModelProperties
+[  0%] Built target _uuv_gazebo_ros_plugins_msgs_generate_messages_check_deps_UnderwaterObjectModel
+[  0%] Built target _uuv_gazebo_ros_plugins_msgs_generate_messages_check_deps_SetThrusterEfficiency
+[  0%] Built target _uuv_gazebo_ros_plugins_msgs_generate_messages_check_deps_ThrusterConversionFcn
+[  0%] Built target _uuv_gazebo_ros_plugins_msgs_generate_messages_check_deps_GetFloat
+[  0%] Built target _uuv_gazebo_ros_plugins_msgs_generate_messages_check_deps_SetThrusterState
+[  0%] Built target _uuv_gazebo_ros_plugins_msgs_generate_messages_check_deps_GetThrusterEfficiency
+[ 19%] Built target uuv_gazebo_ros_plugins_msgs_generate_messages_nodejs
+[ 19%] Built target std_msgs_generate_messages_py
+[ 19%] Built target geometry_msgs_generate_messages_py
+[ 41%] Built target uuv_gazebo_ros_plugins_msgs_generate_messages_py
+[ 41%] Built target std_msgs_generate_messages_lisp
+[ 41%] Built target geometry_msgs_generate_messages_lisp
+[ 60%] Built target uuv_gazebo_ros_plugins_msgs_generate_messages_lisp
+[ 60%] Built target std_msgs_generate_messages_eus
+[ 60%] Built target geometry_msgs_generate_messages_eus
+[ 80%] Built target uuv_gazebo_ros_plugins_msgs_generate_messages_eus
+[ 80%] Built target geometry_msgs_generate_messages_cpp
+[ 80%] Built target std_msgs_generate_messages_cpp
+[100%] Built target uuv_gazebo_ros_plugins_msgs_generate_messages_cpp
+[100%] Built target uuv_gazebo_ros_plugins_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/constance/uuv_ws/install/_setup_util.py
+-- Installing: /home/constance/uuv_ws/install/env.sh
+-- Installing: /home/constance/uuv_ws/install/setup.bash
+-- Installing: /home/constance/uuv_ws/install/local_setup.bash
+-- Installing: /home/constance/uuv_ws/install/setup.sh
+-- Installing: /home/constance/uuv_ws/install/local_setup.sh
+-- Installing: /home/constance/uuv_ws/install/setup.zsh
+-- Installing: /home/constance/uuv_ws/install/local_setup.zsh
+-- Installing: /home/constance/uuv_ws/install/.rosinstall
+-- Installing: /home/constance/uuv_ws/install/share/uuv_gazebo_ros_plugins_msgs/msg/FloatStamped.msg
+-- Installing: /home/constance/uuv_ws/install/share/uuv_gazebo_ros_plugins_msgs/msg/UnderwaterObjectModel.msg
+-- Installing: /home/constance/uuv_ws/install/share/uuv_gazebo_ros_plugins_msgs/msg/ThrusterConversionFcn.msg
+-- Installing: /home/constance/uuv_ws/install/share/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterEfficiency.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterState.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterEfficiency.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterState.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_gazebo_ros_plugins_msgs/srv/SetUseGlobalCurrentVel.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_gazebo_ros_plugins_msgs/srv/GetModelProperties.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_gazebo_ros_plugins_msgs/srv/SetFloat.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_gazebo_ros_plugins_msgs/srv/GetFloat.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_gazebo_ros_plugins_msgs/srv/GetListParam.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterConversionFcn.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgs-msg-paths.cmake
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/GetListParamRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/GetFloat.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/SetFloat.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/SetThrusterState.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/ThrusterConversionFcn.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/SetThrusterEfficiency.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/FloatStamped.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/GetFloatResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/GetFloatRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/SetUseGlobalCurrentVelRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/GetThrusterConversionFcn.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/GetThrusterConversionFcnRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/SetFloatRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/SetThrusterStateResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/GetThrusterState.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/GetModelPropertiesRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/SetUseGlobalCurrentVel.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/GetModelPropertiesResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/GetThrusterEfficiencyResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/UnderwaterObjectModel.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/SetUseGlobalCurrentVelResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/SetThrusterStateRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/SetFloatResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/GetThrusterEfficiencyRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/GetModelProperties.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/GetThrusterEfficiency.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/SetThrusterEfficiencyResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/SetThrusterEfficiencyRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/GetListParam.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/GetThrusterStateResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/GetThrusterConversionFcnResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/GetThrusterStateRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_gazebo_ros_plugins_msgs/GetListParamResponse.h
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_gazebo_ros_plugins_msgs
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterState.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetFloat.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/SetUseGlobalCurrentVel.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterState.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetModelProperties.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetListParam.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterEfficiency.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterEfficiency.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/SetFloat.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterConversionFcn.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/manifest.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/msg/UnderwaterObjectModel.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/msg/ThrusterConversionFcn.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_gazebo_ros_plugins_msgs/msg/FloatStamped.l
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_SetThrusterState.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/SetUseGlobalCurrentVel.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetThrusterEfficiency.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterEfficiency.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetListParam.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterState.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetModelProperties.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetThrusterState.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_SetFloat.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetThrusterConversionFcn.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterEfficiency.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetFloat.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetModelProperties.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/SetFloat.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_SetUseGlobalCurrentVel.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/uuv_gazebo_ros_plugins_msgs-srv.asd
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetListParam.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterConversionFcn.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterState.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_GetFloat.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/srv/_package_SetThrusterEfficiency.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/_package_FloatStamped.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/_package.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/FloatStamped.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/ThrusterConversionFcn.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/_package_ThrusterConversionFcn.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/_package_UnderwaterObjectModel.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/uuv_gazebo_ros_plugins_msgs-msg.asd
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_gazebo_ros_plugins_msgs/msg/UnderwaterObjectModel.lisp
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/SetUseGlobalCurrentVel.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetListParam.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterState.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/SetThrusterEfficiency.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetModelProperties.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/SetFloat.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetFloat.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterConversionFcn.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterState.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/srv/GetThrusterEfficiency.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/msg/FloatStamped.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/msg/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/msg/ThrusterConversionFcn.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_gazebo_ros_plugins_msgs/msg/UnderwaterObjectModel.js
+Listing '/home/constance/uuv_ws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/__init__.py'...
+Listing '/home/constance/uuv_ws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/_FloatStamped.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/_ThrusterConversionFcn.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/_UnderwaterObjectModel.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/__init__.py'...
+Listing '/home/constance/uuv_ws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetFloat.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetListParam.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetModelProperties.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetThrusterConversionFcn.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetThrusterEfficiency.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetThrusterState.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_SetFloat.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_SetThrusterEfficiency.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_SetThrusterState.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_SetUseGlobalCurrentVel.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_gazebo_ros_plugins_msgs/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/__init__.py'...
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetThrusterEfficiency.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetListParam.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetModelProperties.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_SetThrusterEfficiency.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/__pycache__/_GetThrusterEfficiency.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/__pycache__/_GetModelProperties.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/__pycache__/_GetFloat.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/__pycache__/_SetThrusterEfficiency.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/__pycache__/_GetThrusterConversionFcn.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/__pycache__/_GetThrusterState.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/__pycache__/_SetUseGlobalCurrentVel.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/__pycache__/_GetListParam.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/__pycache__/_SetThrusterState.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/__pycache__/_SetFloat.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_SetThrusterState.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_SetUseGlobalCurrentVel.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetThrusterState.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetThrusterConversionFcn.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_GetFloat.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/srv/_SetFloat.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/__pycache__/_UnderwaterObjectModel.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/__pycache__/_FloatStamped.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/__pycache__/_ThrusterConversionFcn.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/_UnderwaterObjectModel.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/_ThrusterConversionFcn.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/_FloatStamped.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/msg/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_gazebo_ros_plugins_msgs/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/pkgconfig/uuv_gazebo_ros_plugins_msgs.pc
+-- Installing: /home/constance/uuv_ws/install/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgs-msg-extras.cmake
+-- Installing: /home/constance/uuv_ws/install/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgsConfig.cmake
+-- Installing: /home/constance/uuv_ws/install/share/uuv_gazebo_ros_plugins_msgs/cmake/uuv_gazebo_ros_plugins_msgsConfig-version.cmake
+-- Installing: /home/constance/uuv_ws/install/share/uuv_gazebo_ros_plugins_msgs/package.xml

@@ -1,0 +1,21 @@
+Built target teledyne_explorer4000_dsl_description_xacro_generated_to_devel_space_
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Up-to-date: /home/constance/uuv_ws/install/_setup_util.py
+-- Up-to-date: /home/constance/uuv_ws/install/env.sh
+-- Up-to-date: /home/constance/uuv_ws/install/setup.bash
+-- Up-to-date: /home/constance/uuv_ws/install/local_setup.bash
+-- Up-to-date: /home/constance/uuv_ws/install/setup.sh
+-- Up-to-date: /home/constance/uuv_ws/install/local_setup.sh
+-- Up-to-date: /home/constance/uuv_ws/install/setup.zsh
+-- Up-to-date: /home/constance/uuv_ws/install/local_setup.zsh
+-- Up-to-date: /home/constance/uuv_ws/install/.rosinstall
+-- Installing: /home/constance/uuv_ws/install/lib/pkgconfig/teledyne_explorer4000_dsl_description.pc
+-- Installing: /home/constance/uuv_ws/install/share/teledyne_explorer4000_dsl_description/cmake/teledyne_explorer4000_dsl_descriptionConfig.cmake
+-- Installing: /home/constance/uuv_ws/install/share/teledyne_explorer4000_dsl_description/cmake/teledyne_explorer4000_dsl_descriptionConfig-version.cmake
+-- Installing: /home/constance/uuv_ws/install/share/teledyne_explorer4000_dsl_description/package.xml
+-- Installing: /home/constance/uuv_ws/install/share/teledyne_explorer4000_dsl_description/urdf
+-- Installing: /home/constance/uuv_ws/install/share/teledyne_explorer4000_dsl_description/urdf/teledyne_explorer4000.xacro
+-- Installing: /home/constance/uuv_ws/install/share/teledyne_explorer4000_dsl_description/urdf/teledyne_explorer4000_standalone.xacro
+-- Installing: /home/constance/uuv_ws/install/share/teledyne_explorer4000_dsl_description/launch
+-- Installing: /home/constance/uuv_ws/install/share/teledyne_explorer4000_dsl_description/launch/upload_teledyne_explorer4000.launch

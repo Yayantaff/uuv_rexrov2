@@ -1,0 +1,1 @@
+/home/constance/uuv_ws/devel/.private/uuv_manipulators_msgs/share/uuv_manipulators_msgs/cmake/uuv_manipulators_msgs-msg-extras.cmake

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/constance/uuv_ws/devel/.private/ds_hotel_msgs/setup.sh

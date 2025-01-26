@@ -1,0 +1,4 @@
+Symlinking /home/constance/uuv_ws/devel/share/ds_sensor_parsers/cmake/ds_sensor_parsersConfig-version.cmake
+Symlinking /home/constance/uuv_ws/devel/share/ds_sensor_parsers/cmake/ds_sensor_parsersConfig.cmake
+Symlinking /home/constance/uuv_ws/devel/lib/libds_sensor_parsers.so
+Symlinking /home/constance/uuv_ws/devel/lib/pkgconfig/ds_sensor_parsers.pc

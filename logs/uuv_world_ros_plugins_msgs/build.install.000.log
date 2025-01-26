@@ -1,0 +1,153 @@
+[  0%] Built target _uuv_world_ros_plugins_msgs_generate_messages_check_deps_TransformToSphericalCoord
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _uuv_world_ros_plugins_msgs_generate_messages_check_deps_SetOriginSphericalCoord
+[  0%] Built target _uuv_world_ros_plugins_msgs_generate_messages_check_deps_GetOriginSphericalCoord
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target _uuv_world_ros_plugins_msgs_generate_messages_check_deps_SetCurrentDirection
+[  0%] Built target _uuv_world_ros_plugins_msgs_generate_messages_check_deps_TransformFromSphericalCoord
+[  0%] Built target _uuv_world_ros_plugins_msgs_generate_messages_check_deps_SetCurrentModel
+[  0%] Built target _uuv_world_ros_plugins_msgs_generate_messages_check_deps_GetCurrentModel
+[  0%] Built target _uuv_world_ros_plugins_msgs_generate_messages_check_deps_SetCurrentVelocity
+[ 21%] Built target uuv_world_ros_plugins_msgs_generate_messages_eus
+[ 21%] Built target std_msgs_generate_messages_py
+[ 21%] Built target geometry_msgs_generate_messages_py
+[ 42%] Built target uuv_world_ros_plugins_msgs_generate_messages_py
+[ 42%] Built target geometry_msgs_generate_messages_nodejs
+[ 42%] Built target std_msgs_generate_messages_nodejs
+[ 61%] Built target uuv_world_ros_plugins_msgs_generate_messages_nodejs
+[ 61%] Built target std_msgs_generate_messages_lisp
+[ 61%] Built target geometry_msgs_generate_messages_lisp
+[ 80%] Built target uuv_world_ros_plugins_msgs_generate_messages_lisp
+[ 80%] Built target geometry_msgs_generate_messages_cpp
+[ 80%] Built target std_msgs_generate_messages_cpp
+[100%] Built target uuv_world_ros_plugins_msgs_generate_messages_cpp
+[100%] Built target uuv_world_ros_plugins_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/constance/uuv_ws/install/_setup_util.py
+-- Installing: /home/constance/uuv_ws/install/env.sh
+-- Installing: /home/constance/uuv_ws/install/setup.bash
+-- Installing: /home/constance/uuv_ws/install/local_setup.bash
+-- Installing: /home/constance/uuv_ws/install/setup.sh
+-- Installing: /home/constance/uuv_ws/install/local_setup.sh
+-- Installing: /home/constance/uuv_ws/install/setup.zsh
+-- Installing: /home/constance/uuv_ws/install/local_setup.zsh
+-- Installing: /home/constance/uuv_ws/install/.rosinstall
+-- Installing: /home/constance/uuv_ws/install/share/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgs-msg-paths.cmake
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/TransformToSphericalCoord.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/SetCurrentModelResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/SetCurrentVelocityResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/TransformToSphericalCoordRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/SetCurrentDirectionResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/SetCurrentVelocity.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/TransformToSphericalCoordResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/SetCurrentModel.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/GetCurrentModelRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/TransformFromSphericalCoordResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/GetCurrentModel.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/GetCurrentModelResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/SetOriginSphericalCoordResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/GetOriginSphericalCoord.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/GetOriginSphericalCoordRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/SetOriginSphericalCoord.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/TransformFromSphericalCoordRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/TransformFromSphericalCoord.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/SetOriginSphericalCoordRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/GetOriginSphericalCoordResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/SetCurrentVelocityRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/SetCurrentDirection.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/SetCurrentModelRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_world_ros_plugins_msgs/SetCurrentDirectionRequest.h
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_world_ros_plugins_msgs
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_world_ros_plugins_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_world_ros_plugins_msgs/manifest.l
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_world_ros_plugins_msgs
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetOriginSphericalCoord.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetCurrentModel.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetCurrentVelocity.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_TransformToSphericalCoord.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_GetOriginSphericalCoord.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_SetCurrentDirection.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_GetCurrentModel.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/uuv_world_ros_plugins_msgs-srv.asd
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/_package_TransformFromSphericalCoord.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.lisp
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_world_ros_plugins_msgs
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentDirection.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/GetCurrentModel.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/TransformToSphericalCoord.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentVelocity.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetCurrentModel.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/SetOriginSphericalCoord.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/TransformFromSphericalCoord.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_world_ros_plugins_msgs/srv/GetOriginSphericalCoord.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_world_ros_plugins_msgs/_index.js
+Listing '/home/constance/uuv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/__init__.py'...
+Listing '/home/constance/uuv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_GetCurrentModel.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_GetOriginSphericalCoord.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentDirection.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentModel.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentVelocity.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetOriginSphericalCoord.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_TransformFromSphericalCoord.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_TransformToSphericalCoord.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_world_ros_plugins_msgs/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/__init__.py'...
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentModel.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_GetOriginSphericalCoord.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_TransformFromSphericalCoord.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentDirection.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetOriginSphericalCoord.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_GetCurrentModel.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/__pycache__/_GetCurrentModel.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/__pycache__/_GetOriginSphericalCoord.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/__pycache__/_TransformFromSphericalCoord.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/__pycache__/_SetCurrentVelocity.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/__pycache__/_SetCurrentModel.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/__pycache__/_SetOriginSphericalCoord.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/__pycache__/_TransformToSphericalCoord.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/__pycache__/_SetCurrentDirection.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_SetCurrentVelocity.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/_TransformToSphericalCoord.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/srv/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_world_ros_plugins_msgs/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/pkgconfig/uuv_world_ros_plugins_msgs.pc
+-- Installing: /home/constance/uuv_ws/install/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgs-msg-extras.cmake
+-- Installing: /home/constance/uuv_ws/install/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgsConfig.cmake
+-- Installing: /home/constance/uuv_ws/install/share/uuv_world_ros_plugins_msgs/cmake/uuv_world_ros_plugins_msgsConfig-version.cmake
+-- Installing: /home/constance/uuv_ws/install/share/uuv_world_ros_plugins_msgs/package.xml

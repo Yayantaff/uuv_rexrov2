@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target dave_sensors[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/dave_sensors.dir/src/dave_sensors.cc.o[0m
+[100%] [32m[1mLinking CXX shared library libdave_sensors.so[0m
+[100%] Built target dave_sensors

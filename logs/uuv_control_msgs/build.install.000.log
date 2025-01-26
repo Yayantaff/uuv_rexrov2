@@ -1,0 +1,373 @@
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_GoTo
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_SwitchToManual
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_StartTrajectory
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_Trajectory
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_Waypoint
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_ResetController
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_GetMBSMControllerParams
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_SetMBSMControllerParams
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_GetSMControllerParams
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_GetPIDParams
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_SetPIDParams
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_InitWaypointsFromFile
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_Hold
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_IsRunningTrajectory
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_TrajectoryPoint
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_SetSMControllerParams
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_GetWaypoints
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_InitRectTrajectory
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_InitWaypointSet
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_GoToIncremental
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_WaypointSet
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_AddWaypoint
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_SwitchToAutomatic
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_ClearWaypoints
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_InitCircularTrajectory
+[  0%] Built target _uuv_control_msgs_generate_messages_check_deps_InitHelicalTrajectory
+[ 20%] Built target uuv_control_msgs_generate_messages_nodejs
+[ 20%] Built target std_msgs_generate_messages_eus
+[ 20%] Built target geometry_msgs_generate_messages_eus
+[ 40%] Built target uuv_control_msgs_generate_messages_eus
+[ 40%] Built target std_msgs_generate_messages_py
+[ 40%] Built target geometry_msgs_generate_messages_py
+[ 61%] Built target uuv_control_msgs_generate_messages_py
+[ 61%] Built target std_msgs_generate_messages_lisp
+[ 61%] Built target geometry_msgs_generate_messages_lisp
+[ 80%] Built target uuv_control_msgs_generate_messages_lisp
+[ 80%] Built target geometry_msgs_generate_messages_cpp
+[ 80%] Built target std_msgs_generate_messages_cpp
+[100%] Built target uuv_control_msgs_generate_messages_cpp
+[100%] Built target uuv_control_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/constance/uuv_ws/install/_setup_util.py
+-- Installing: /home/constance/uuv_ws/install/env.sh
+-- Installing: /home/constance/uuv_ws/install/setup.bash
+-- Installing: /home/constance/uuv_ws/install/local_setup.bash
+-- Installing: /home/constance/uuv_ws/install/setup.sh
+-- Installing: /home/constance/uuv_ws/install/local_setup.sh
+-- Installing: /home/constance/uuv_ws/install/setup.zsh
+-- Installing: /home/constance/uuv_ws/install/local_setup.zsh
+-- Installing: /home/constance/uuv_ws/install/.rosinstall
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/msg/Trajectory.msg
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/msg/TrajectoryPoint.msg
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/msg/Waypoint.msg
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/msg/WaypointSet.msg
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/AddWaypoint.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/ClearWaypoints.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/InitCircularTrajectory.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/InitHelicalTrajectory.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/InitWaypointsFromFile.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/GetWaypoints.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/GoTo.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/GoToIncremental.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/Hold.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/IsRunningTrajectory.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/InitWaypointSet.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/InitRectTrajectory.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/StartTrajectory.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/SwitchToAutomatic.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/SwitchToManual.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/SetPIDParams.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/GetPIDParams.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/SetSMControllerParams.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/GetSMControllerParams.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/SetMBSMControllerParams.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/GetMBSMControllerParams.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/srv/ResetController.srv
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/cmake/uuv_control_msgs-msg-paths.cmake
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/SetMBSMControllerParamsRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/GoTo.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/ClearWaypointsResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/GetSMControllerParamsRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/InitWaypointsFromFileResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/GetPIDParamsRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/Trajectory.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/SetSMControllerParams.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/SwitchToManualRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/HoldResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/SetSMControllerParamsResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/ResetControllerRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/InitWaypointsFromFile.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/InitHelicalTrajectoryResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/GoToIncrementalRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/ClearWaypointsRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/InitHelicalTrajectory.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/GoToIncrementalResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/SetPIDParamsResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/Hold.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/SetSMControllerParamsRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/SwitchToAutomatic.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/AddWaypointResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/InitRectTrajectoryRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/InitRectTrajectoryResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/ClearWaypoints.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/TrajectoryPoint.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/GetWaypointsResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/InitHelicalTrajectoryRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/StartTrajectoryResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/InitWaypointSetRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/GetMBSMControllerParams.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/Waypoint.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/SwitchToAutomaticResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/IsRunningTrajectoryResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/InitRectTrajectory.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/IsRunningTrajectoryRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/SetMBSMControllerParamsResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/WaypointSet.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/GetMBSMControllerParamsRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/AddWaypointRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/AddWaypoint.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/StartTrajectory.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/GetWaypoints.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/SetMBSMControllerParams.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/SwitchToManualResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/GoToRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/SetPIDParams.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/ResetControllerResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/InitWaypointSetResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/ResetController.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/InitWaypointsFromFileRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/InitCircularTrajectoryRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/GetSMControllerParamsResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/StartTrajectoryRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/SwitchToAutomaticRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/GetMBSMControllerParamsResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/HoldRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/GoToIncremental.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/InitCircularTrajectory.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/GetPIDParams.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/GoToResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/SetPIDParamsRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/SwitchToManual.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/GetPIDParamsResponse.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/GetWaypointsRequest.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/InitWaypointSet.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/IsRunningTrajectory.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/GetSMControllerParams.h
+-- Installing: /home/constance/uuv_ws/install/include/uuv_control_msgs/InitCircularTrajectoryResponse.h
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/GetWaypoints.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/ResetController.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/StartTrajectory.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/GoTo.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/InitCircularTrajectory.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/SetMBSMControllerParams.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/Hold.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/SwitchToAutomatic.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/SwitchToManual.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/InitRectTrajectory.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/GetPIDParams.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/SetPIDParams.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/GetSMControllerParams.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/ClearWaypoints.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/IsRunningTrajectory.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/InitWaypointSet.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/AddWaypoint.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/GoToIncremental.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/InitWaypointsFromFile.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/GetMBSMControllerParams.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/SetSMControllerParams.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/srv/InitHelicalTrajectory.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/manifest.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/msg/Trajectory.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/msg/WaypointSet.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/msg/Waypoint.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/uuv_control_msgs/msg/TrajectoryPoint.l
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/AddWaypoint.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_SetSMControllerParams.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/GetWaypoints.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_GoToIncremental.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/SetPIDParams.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/IsRunningTrajectory.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/GetMBSMControllerParams.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_InitRectTrajectory.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_GetPIDParams.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/GoToIncremental.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/InitRectTrajectory.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/SetSMControllerParams.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/GoTo.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_GetSMControllerParams.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/GetPIDParams.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_GetMBSMControllerParams.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_ClearWaypoints.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/InitCircularTrajectory.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/InitHelicalTrajectory.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/SwitchToManual.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_InitWaypointsFromFile.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_Hold.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/Hold.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_SetMBSMControllerParams.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/SetMBSMControllerParams.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/ResetController.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/InitWaypointsFromFile.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/InitWaypointSet.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_SetPIDParams.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_InitWaypointSet.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_ResetController.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/uuv_control_msgs-srv.asd
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_InitHelicalTrajectory.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_IsRunningTrajectory.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/StartTrajectory.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/ClearWaypoints.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_SwitchToManual.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/GetSMControllerParams.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_InitCircularTrajectory.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_SwitchToAutomatic.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_GoTo.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_GetWaypoints.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_StartTrajectory.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/_package_AddWaypoint.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/srv/SwitchToAutomatic.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/msg/Trajectory.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/msg/_package.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/msg/WaypointSet.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/msg/_package_Trajectory.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/msg/uuv_control_msgs-msg.asd
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/msg/_package_TrajectoryPoint.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/msg/_package_Waypoint.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/msg/Waypoint.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/msg/TrajectoryPoint.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/uuv_control_msgs/msg/_package_WaypointSet.lisp
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/InitWaypointsFromFile.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/GetMBSMControllerParams.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/AddWaypoint.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/GetSMControllerParams.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/InitWaypointSet.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/GoToIncremental.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/SwitchToAutomatic.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/GetWaypoints.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/SetPIDParams.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/InitRectTrajectory.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/ClearWaypoints.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/IsRunningTrajectory.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/GetPIDParams.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/InitCircularTrajectory.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/GoTo.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/ResetController.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/InitHelicalTrajectory.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/SetSMControllerParams.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/StartTrajectory.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/Hold.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/SetMBSMControllerParams.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/srv/SwitchToManual.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/msg/Trajectory.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/msg/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/msg/Waypoint.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/msg/TrajectoryPoint.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/uuv_control_msgs/msg/WaypointSet.js
+Listing '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/__init__.py'...
+Listing '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/msg'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/msg/_Trajectory.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/msg/_TrajectoryPoint.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/msg/_Waypoint.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/msg/_WaypointSet.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/msg/__init__.py'...
+Listing '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_AddWaypoint.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_ClearWaypoints.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_GetMBSMControllerParams.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_GetPIDParams.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_GetSMControllerParams.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_GetWaypoints.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_GoTo.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_GoToIncremental.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_Hold.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_InitCircularTrajectory.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_InitHelicalTrajectory.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_InitRectTrajectory.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_InitWaypointSet.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_InitWaypointsFromFile.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_IsRunningTrajectory.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_ResetController.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_SetMBSMControllerParams.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_SetPIDParams.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_SetSMControllerParams.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_StartTrajectory.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_SwitchToAutomatic.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/_SwitchToManual.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/uuv_control_msgs/lib/python3/dist-packages/uuv_control_msgs/srv/__init__.py'...
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_IsRunningTrajectory.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_InitCircularTrajectory.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_SetMBSMControllerParams.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_ResetController.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_GetWaypoints.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_ClearWaypoints.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_SwitchToManual.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_IsRunningTrajectory.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_InitWaypointsFromFile.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_GoToIncremental.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_GetMBSMControllerParams.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_ResetController.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_InitCircularTrajectory.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_SetMBSMControllerParams.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_GetSMControllerParams.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_AddWaypoint.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_StartTrajectory.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_InitWaypointSet.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_SwitchToAutomatic.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_InitHelicalTrajectory.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_SetPIDParams.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_GetWaypoints.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_Hold.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_GoTo.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_GetPIDParams.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_ClearWaypoints.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_SetSMControllerParams.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__pycache__/_InitRectTrajectory.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_GetPIDParams.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_GoToIncremental.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_StartTrajectory.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_InitWaypointsFromFile.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_InitRectTrajectory.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_SwitchToManual.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_SwitchToAutomatic.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_Hold.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_SetPIDParams.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_GetSMControllerParams.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_SetSMControllerParams.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_GoTo.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_GetMBSMControllerParams.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_AddWaypoint.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_InitWaypointSet.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/srv/_InitHelicalTrajectory.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/msg/_Trajectory.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/msg/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/msg/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/msg/__pycache__/_Waypoint.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/msg/__pycache__/_WaypointSet.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/msg/__pycache__/_Trajectory.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/msg/__pycache__/_TrajectoryPoint.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/msg/_Waypoint.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/msg/_WaypointSet.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/msg/_TrajectoryPoint.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/msg/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_control_msgs/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/pkgconfig/uuv_control_msgs.pc
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/cmake/uuv_control_msgs-msg-extras.cmake
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/cmake/uuv_control_msgsConfig.cmake
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/cmake/uuv_control_msgsConfig-version.cmake
+-- Installing: /home/constance/uuv_ws/install/share/uuv_control_msgs/package.xml

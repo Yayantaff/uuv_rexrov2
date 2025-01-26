@@ -1,0 +1,1 @@
+/home/constance/uuv_ws/devel/.private/plug_and_socket_description/lib/pkgconfig/plug_and_socket_description.pc

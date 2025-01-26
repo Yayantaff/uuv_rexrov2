@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: uuv_simulation_wrapper
+Version: 0.5.0
+Summary: A wrapper function to run a Gazebo simulation scenario from Python applications
+Home-page: UNKNOWN
+Author: Musa Morena Marcusso Manhaes
+Author-email: musa.marcusso@de.bosch.com
+License: Apache-2.0
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: rospy

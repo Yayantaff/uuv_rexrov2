@@ -1,0 +1,4 @@
+Symlinking /home/constance/uuv_ws/devel/share/ds_nmea_parsers/cmake/ds_nmea_parsersConfig-version.cmake
+Symlinking /home/constance/uuv_ws/devel/share/ds_nmea_parsers/cmake/ds_nmea_parsersConfig.cmake
+Symlinking /home/constance/uuv_ws/devel/lib/libds_nmea_parsers.so
+Symlinking /home/constance/uuv_ws/devel/lib/pkgconfig/ds_nmea_parsers.pc

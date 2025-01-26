@@ -1,0 +1,6 @@
+ds_msgs/ds_nmea_parsers
+/home/constance/uuv_ws/devel/.private/ds_nmea_parsers/cmake.lock /home/constance/uuv_ws/devel/./cmake.lock
+/home/constance/uuv_ws/devel/.private/ds_nmea_parsers/share/ds_nmea_parsers/cmake/ds_nmea_parsersConfig-version.cmake /home/constance/uuv_ws/devel/share/ds_nmea_parsers/cmake/ds_nmea_parsersConfig-version.cmake
+/home/constance/uuv_ws/devel/.private/ds_nmea_parsers/share/ds_nmea_parsers/cmake/ds_nmea_parsersConfig.cmake /home/constance/uuv_ws/devel/share/ds_nmea_parsers/cmake/ds_nmea_parsersConfig.cmake
+/home/constance/uuv_ws/devel/.private/ds_nmea_parsers/lib/libds_nmea_parsers.so /home/constance/uuv_ws/devel/lib/libds_nmea_parsers.so
+/home/constance/uuv_ws/devel/.private/ds_nmea_parsers/lib/pkgconfig/ds_nmea_parsers.pc /home/constance/uuv_ws/devel/lib/pkgconfig/ds_nmea_parsers.pc

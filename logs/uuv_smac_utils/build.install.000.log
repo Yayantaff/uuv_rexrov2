@@ -1,0 +1,47 @@
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Up-to-date: /home/constance/uuv_ws/install/_setup_util.py
+-- Up-to-date: /home/constance/uuv_ws/install/env.sh
+-- Up-to-date: /home/constance/uuv_ws/install/setup.bash
+-- Up-to-date: /home/constance/uuv_ws/install/local_setup.bash
+-- Up-to-date: /home/constance/uuv_ws/install/setup.sh
+-- Up-to-date: /home/constance/uuv_ws/install/local_setup.sh
+-- Up-to-date: /home/constance/uuv_ws/install/setup.zsh
+-- Up-to-date: /home/constance/uuv_ws/install/local_setup.zsh
+-- Up-to-date: /home/constance/uuv_ws/install/.rosinstall
++ cd /home/constance/uuv_ws/src/uuv_simulation_evaluation/uuv_smac_utils
++ mkdir -p /home/constance/uuv_ws/install/lib/python3/dist-packages
++ /usr/bin/env PYTHONPATH=/home/constance/uuv_ws/install/lib/python3/dist-packages:/home/constance/uuv_ws/build/uuv_smac_utils/lib/python3/dist-packages:/home/constance/uuv_ws/install/lib/python3/dist-packages:/opt/ros/noetic/lib/python3/dist-packages CATKIN_BINARY_DIR=/home/constance/uuv_ws/build/uuv_smac_utils /usr/bin/python3 /home/constance/uuv_ws/src/uuv_simulation_evaluation/uuv_smac_utils/setup.py build --build-base /home/constance/uuv_ws/build/uuv_smac_utils install --root=/ --install-layout=deb --prefix=/home/constance/uuv_ws/install --install-scripts=/home/constance/uuv_ws/install/bin
+running build
+running build_py
+creating /home/constance/uuv_ws/build/uuv_smac_utils/lib
+creating /home/constance/uuv_ws/build/uuv_smac_utils/lib/uuv_smac_utils
+copying src/uuv_smac_utils/simulation_pool.py -> /home/constance/uuv_ws/build/uuv_smac_utils/lib/uuv_smac_utils
+copying src/uuv_smac_utils/opt_configuration.py -> /home/constance/uuv_ws/build/uuv_smac_utils/lib/uuv_smac_utils
+copying src/uuv_smac_utils/utils.py -> /home/constance/uuv_ws/build/uuv_smac_utils/lib/uuv_smac_utils
+copying src/uuv_smac_utils/__init__.py -> /home/constance/uuv_ws/build/uuv_smac_utils/lib/uuv_smac_utils
+running install
+running install_lib
+creating /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_smac_utils
+copying /home/constance/uuv_ws/build/uuv_smac_utils/lib/uuv_smac_utils/simulation_pool.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_smac_utils
+copying /home/constance/uuv_ws/build/uuv_smac_utils/lib/uuv_smac_utils/opt_configuration.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_smac_utils
+copying /home/constance/uuv_ws/build/uuv_smac_utils/lib/uuv_smac_utils/utils.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_smac_utils
+copying /home/constance/uuv_ws/build/uuv_smac_utils/lib/uuv_smac_utils/__init__.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_smac_utils
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_smac_utils/simulation_pool.py to simulation_pool.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_smac_utils/opt_configuration.py to opt_configuration.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_smac_utils/utils.py to utils.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_smac_utils/__init__.py to __init__.cpython-38.pyc
+running install_egg_info
+Writing /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_smac_utils-0.5.0.egg-info
+-- Installing: /home/constance/uuv_ws/install/lib/pkgconfig/uuv_smac_utils.pc
+-- Installing: /home/constance/uuv_ws/install/share/uuv_smac_utils/cmake/uuv_smac_utilsConfig.cmake
+-- Installing: /home/constance/uuv_ws/install/share/uuv_smac_utils/cmake/uuv_smac_utilsConfig-version.cmake
+-- Installing: /home/constance/uuv_ws/install/share/uuv_smac_utils/package.xml
+-- Installing: /home/constance/uuv_ws/install/lib/uuv_smac_utils/smac_wrapper
+-- Installing: /home/constance/uuv_ws/install/lib/uuv_smac_utils/run_smac
+-- Installing: /home/constance/uuv_ws/install/lib/uuv_smac_utils/create_smac_config_files
+-- Installing: /home/constance/uuv_ws/install/lib/uuv_smac_utils/evaluate_smac_best_results
+-- Installing: /home/constance/uuv_ws/install/lib/uuv_smac_utils/smac
+-- Installing: /home/constance/uuv_ws/install/lib/uuv_smac_utils/create_results_folder
+-- Installing: /home/constance/uuv_ws/install/lib/uuv_smac_utils/generate_motion_primitives
+-- Installing: /home/constance/uuv_ws/install/lib/uuv_smac_utils/sync_smac_files

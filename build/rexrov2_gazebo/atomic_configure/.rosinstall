@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/constance/uuv_ws/devel/.private/rexrov2_gazebo/setup.sh

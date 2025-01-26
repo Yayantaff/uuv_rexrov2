@@ -1,0 +1,6 @@
+ds_msgs/ds_sensor_parsers
+/home/constance/uuv_ws/devel/.private/ds_sensor_parsers/cmake.lock /home/constance/uuv_ws/devel/./cmake.lock
+/home/constance/uuv_ws/devel/.private/ds_sensor_parsers/share/ds_sensor_parsers/cmake/ds_sensor_parsersConfig-version.cmake /home/constance/uuv_ws/devel/share/ds_sensor_parsers/cmake/ds_sensor_parsersConfig-version.cmake
+/home/constance/uuv_ws/devel/.private/ds_sensor_parsers/share/ds_sensor_parsers/cmake/ds_sensor_parsersConfig.cmake /home/constance/uuv_ws/devel/share/ds_sensor_parsers/cmake/ds_sensor_parsersConfig.cmake
+/home/constance/uuv_ws/devel/.private/ds_sensor_parsers/lib/libds_sensor_parsers.so /home/constance/uuv_ws/devel/lib/libds_sensor_parsers.so
+/home/constance/uuv_ws/devel/.private/ds_sensor_parsers/lib/pkgconfig/ds_sensor_parsers.pc /home/constance/uuv_ws/devel/lib/pkgconfig/ds_sensor_parsers.pc

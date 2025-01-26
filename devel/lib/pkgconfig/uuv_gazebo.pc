@@ -1,0 +1,1 @@
+/home/constance/uuv_ws/devel/.private/uuv_gazebo/lib/pkgconfig/uuv_gazebo.pc

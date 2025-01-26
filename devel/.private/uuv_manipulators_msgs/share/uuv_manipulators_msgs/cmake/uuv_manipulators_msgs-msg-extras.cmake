@@ -1,0 +1,2 @@
+set(uuv_manipulators_msgs_MESSAGE_FILES "/home/constance/uuv_ws/src/uuv_manipulators/uuv_manipulators_msgs/msg/EndPointState.msg;/home/constance/uuv_ws/src/uuv_manipulators/uuv_manipulators_msgs/msg/EndeffectorCommand.msg;/home/constance/uuv_ws/src/uuv_manipulators/uuv_manipulators_msgs/msg/EndeffectorState.msg;/home/constance/uuv_ws/src/uuv_manipulators/uuv_manipulators_msgs/msg/ArmConfigCommand.msg")
+set(uuv_manipulators_msgs_SERVICE_FILES "/home/constance/uuv_ws/src/uuv_manipulators/uuv_manipulators_msgs/srv/SolveIK.srv")

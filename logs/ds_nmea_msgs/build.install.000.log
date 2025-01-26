@@ -1,0 +1,277 @@
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_PixseConfig1Int
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_PixseConfig2Int
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_PixsePositi
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_Gga
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_Gll
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_PixseStdhrp
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_PixseSpeed
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_Inf
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_PixseFogest
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_PixseHtsts
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_Hdt
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_PixseStdspd
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_PixseAtitud
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_Tro
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_PixseUtmwgs
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_PixseHeave
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_PixseStatus
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_PixseStdpos
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_PixseAlgsts
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_PixseHspos
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_Vtg
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_Zda
+[  0%] Built target _ds_nmea_msgs_generate_messages_check_deps_PixseAccest
+[ 20%] Built target ds_nmea_msgs_generate_messages_eus
+[ 40%] Built target ds_nmea_msgs_generate_messages_py
+[ 61%] Built target ds_nmea_msgs_generate_messages_lisp
+[ 80%] Built target ds_nmea_msgs_generate_messages_cpp
+[100%] Built target ds_nmea_msgs_generate_messages_nodejs
+[100%] Built target ds_nmea_msgs_generate_messages
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/constance/uuv_ws/install/_setup_util.py
+-- Installing: /home/constance/uuv_ws/install/env.sh
+-- Installing: /home/constance/uuv_ws/install/setup.bash
+-- Installing: /home/constance/uuv_ws/install/local_setup.bash
+-- Installing: /home/constance/uuv_ws/install/setup.sh
+-- Installing: /home/constance/uuv_ws/install/local_setup.sh
+-- Installing: /home/constance/uuv_ws/install/setup.zsh
+-- Installing: /home/constance/uuv_ws/install/local_setup.zsh
+-- Installing: /home/constance/uuv_ws/install/.rosinstall
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/Hdt.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/Gga.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/Gll.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/PixseAtitud.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/PixsePositi.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/PixseSpeed.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/PixseUtmwgs.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/PixseHeave.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/PixseStdhrp.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/PixseStdspd.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/PixseStdpos.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/PixseAlgsts.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/PixseStatus.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/PixseHtsts.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/PixseHspos.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/Vtg.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/Zda.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/Tro.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/Inf.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/PixseAccest.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/PixseFogest.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/PixseConfig1Int.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/msg/PixseConfig2Int.msg
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/cmake/ds_nmea_msgs-msg-paths.cmake
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/PixseAtitud.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/PixseConfig2Int.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/PixseHspos.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/PixseHeave.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/PixseHtsts.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/Zda.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/PixseAccest.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/Gll.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/PixseStatus.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/Inf.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/PixsePositi.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/PixseStdhrp.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/Vtg.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/PixseAlgsts.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/PixseStdspd.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/Gga.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/PixseFogest.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/PixseConfig1Int.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/PixseSpeed.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/Hdt.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/PixseUtmwgs.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/Tro.h
+-- Installing: /home/constance/uuv_ws/install/include/ds_nmea_msgs/PixseStdpos.h
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/manifest.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/Zda.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/PixseFogest.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/PixseStdspd.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/PixseSpeed.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/Inf.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/Gga.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/PixseUtmwgs.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/PixseStatus.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/PixseStdhrp.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/Hdt.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/PixseStdpos.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/PixseConfig2Int.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/PixseHeave.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/Vtg.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/Tro.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/PixseAccest.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/PixseHspos.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/PixseAtitud.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/PixseHtsts.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/PixsePositi.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/PixseConfig1Int.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/Gll.l
+-- Installing: /home/constance/uuv_ws/install/share/roseus/ros/ds_nmea_msgs/msg/PixseAlgsts.l
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/PixseAtitud.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/PixseStdhrp.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_PixseUtmwgs.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_PixseHspos.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/PixseStatus.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_PixseHtsts.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_PixseConfig2Int.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_PixseConfig1Int.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/PixseStdspd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_Gga.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_Vtg.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_PixseStdspd.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_PixsePositi.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/PixseHeave.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/PixseConfig1Int.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_PixseStdhrp.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_PixseAccest.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_PixseSpeed.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/PixseAlgsts.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/PixseAccest.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_PixseStatus.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/Tro.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/Inf.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/PixseSpeed.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/PixseUtmwgs.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/Gll.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/Gga.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/Hdt.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_Gll.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/PixseHspos.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_Inf.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_PixseHeave.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_Hdt.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_PixseAtitud.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/PixseConfig2Int.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/Vtg.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/PixseHtsts.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/ds_nmea_msgs-msg.asd
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_PixseAlgsts.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/PixseFogest.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/Zda.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_PixseFogest.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_Tro.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_Zda.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/PixsePositi.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/PixseStdpos.lisp
+-- Installing: /home/constance/uuv_ws/install/share/common-lisp/ros/ds_nmea_msgs/msg/_package_PixseStdpos.lisp
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/PixsePositi.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/PixseAlgsts.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/PixseHtsts.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/PixseHspos.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/PixseStdhrp.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/PixseSpeed.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/_index.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/PixseStdpos.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/PixseConfig1Int.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/PixseHeave.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/Vtg.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/PixseAtitud.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/PixseAccest.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/PixseStdspd.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/Tro.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/Zda.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/PixseUtmwgs.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/PixseFogest.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/Gga.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/Gll.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/Inf.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/Hdt.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/PixseConfig2Int.js
+-- Installing: /home/constance/uuv_ws/install/share/gennodejs/ros/ds_nmea_msgs/msg/PixseStatus.js
+Listing '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/__init__.py'...
+Listing '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_Gga.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_Gll.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_Hdt.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_Inf.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseAccest.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseAlgsts.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseAtitud.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseConfig1Int.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseConfig2Int.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseFogest.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseHeave.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseHspos.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseHtsts.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixsePositi.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseSpeed.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseStatus.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseStdhrp.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseStdpos.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseStdspd.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseUtmwgs.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_Tro.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_Vtg.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/_Zda.py'...
+Compiling '/home/constance/uuv_ws/devel/.private/ds_nmea_msgs/lib/python3/dist-packages/ds_nmea_msgs/msg/__init__.py'...
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_Gga.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseStdpos.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseAtitud.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixsePositi.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseUtmwgs.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_Vtg.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseStdhrp.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_Zda.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_PixseUtmwgs.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_PixseHeave.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_PixseSpeed.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_PixseHspos.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_Hdt.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_PixsePositi.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_Vtg.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_Inf.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_Tro.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_PixseStdspd.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_PixseConfig2Int.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_PixseConfig1Int.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_PixseFogest.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_PixseAlgsts.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_PixseStdhrp.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_PixseStdpos.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_PixseAtitud.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_PixseHtsts.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_Gll.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_PixseAccest.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_Gga.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__pycache__/_PixseStatus.cpython-38.pyc
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseAlgsts.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseHeave.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseSpeed.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseFogest.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_Zda.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_Tro.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseConfig1Int.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseHtsts.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseStdspd.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_Inf.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseConfig2Int.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseHspos.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_Hdt.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseStatus.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_PixseAccest.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/msg/_Gll.py
+-- Installing: /home/constance/uuv_ws/install/lib/python3/dist-packages/ds_nmea_msgs/__init__.py
+-- Installing: /home/constance/uuv_ws/install/lib/pkgconfig/ds_nmea_msgs.pc
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/cmake/ds_nmea_msgs-msg-extras.cmake
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/cmake/ds_nmea_msgsConfig.cmake
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/cmake/ds_nmea_msgsConfig-version.cmake
+-- Installing: /home/constance/uuv_ws/install/share/ds_nmea_msgs/package.xml

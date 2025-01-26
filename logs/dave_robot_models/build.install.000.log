@@ -1,0 +1,58 @@
+Built target dave_robot_models_xacro_generated_to_devel_space_
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/constance/uuv_ws/install/_setup_util.py
+-- Installing: /home/constance/uuv_ws/install/env.sh
+-- Installing: /home/constance/uuv_ws/install/setup.bash
+-- Installing: /home/constance/uuv_ws/install/local_setup.bash
+-- Installing: /home/constance/uuv_ws/install/setup.sh
+-- Installing: /home/constance/uuv_ws/install/local_setup.sh
+-- Installing: /home/constance/uuv_ws/install/setup.zsh
+-- Installing: /home/constance/uuv_ws/install/local_setup.zsh
+-- Installing: /home/constance/uuv_ws/install/.rosinstall
+-- Installing: /home/constance/uuv_ws/install/lib/pkgconfig/dave_robot_models.pc
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/cmake/dave_robot_modelsConfig.cmake
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/cmake/dave_robot_modelsConfig-version.cmake
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/package.xml
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_hybrid_whoi
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_hybrid_whoi/model.config
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_hybrid_whoi/Screenshot.png
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_hybrid_whoi/mesh
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_hybrid_whoi/mesh/glider_hybrid_whoi_left_propeller.dae
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_hybrid_whoi/mesh/glider_hybrid_whoi_right_propeller.dae
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_hybrid_whoi/mesh/glider_hybrid_whoi_body.dae
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_hybrid_whoi/mesh/WHOI-Hybrid-Glider.png
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_hybrid_whoi/mesh/glider_hybrid_whoi_collision.dae
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_hybrid_whoi/model.sdf
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_wave
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_wave/model.config
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_wave/Screenshot.png
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_wave/mesh
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_wave/mesh/Wave Glider.dae
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_wave/mesh/COLLISION-Wave Glider-sub.dae
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_wave/mesh/Wave-Glider-sub.png
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_wave/mesh/Wave Glider-Umbilical-Joint.dae
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_wave/mesh/Wave Glider-Umbilical.dae
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_wave/mesh/Wave Glider-Float.dae
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_wave/mesh/Wave-Glider-umbilical-joint.png
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_wave/mesh/Wave Glider-Sub.dae
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_wave/mesh/WaveGlider.png
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_wave/mesh/COLLISION-Wave Glider-float.dae
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_wave/mesh/Wave-Glider-float.png
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_wave/mesh/COLLISION-Wave Glider.dae
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_wave/mesh/COLLISION-Wave Glider-umbilical.dae
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_wave/mesh/Wave-Glider-umbilical.png
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_wave/model.sdf
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_slocum
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_slocum/model.config
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_slocum/Screenshot.png
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_slocum/mesh
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_slocum/mesh/Slocum-Glider.dae
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_slocum/mesh/COLLISION-Slocum-Glider.dae
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_slocum/mesh/Slocum-Glider-TopRudder.dae
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_slocum/mesh/Slocum-Glider-RightFin.dae
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_slocum/mesh/Slocum-Glider-LeftFin.dae
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_slocum/mesh/Slocum-Glider-Propeller.dae
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_slocum/mesh/Slocum-Glider.png
+-- Installing: /home/constance/uuv_ws/install/share/dave_robot_models/models/glider_slocum/model.sdf

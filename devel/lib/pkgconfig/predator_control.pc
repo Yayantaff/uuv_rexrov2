@@ -1,0 +1,1 @@
+/home/constance/uuv_ws/devel/.private/predator_control/lib/pkgconfig/predator_control.pc

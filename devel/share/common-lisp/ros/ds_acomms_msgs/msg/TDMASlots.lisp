@@ -1,0 +1,1 @@
+/home/constance/uuv_ws/devel/.private/ds_acomms_msgs/share/common-lisp/ros/ds_acomms_msgs/msg/TDMASlots.lisp

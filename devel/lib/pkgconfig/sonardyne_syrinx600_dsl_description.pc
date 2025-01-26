@@ -1,0 +1,1 @@
+/home/constance/uuv_ws/devel/.private/sonardyne_syrinx600_dsl_description/lib/pkgconfig/sonardyne_syrinx600_dsl_description.pc

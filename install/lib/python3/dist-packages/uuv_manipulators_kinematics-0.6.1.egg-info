@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: uuv_manipulators_kinematics
+Version: 0.6.1
+Summary: Implementation of interfaces to operate manipulators and grippers along with kinematics solver services.
+Home-page: UNKNOWN
+Author: Luiz Ricardo Douat <LuizRicardo.Douat@de.bosch.com>, Musa Morena Marcusso Manhaes <Musa.Marcusso@de.bosch.com>, Sebastian Scherer <Sebastian.Scherer2@de.bosch.com>
+Author-email: UNKNOWN
+License: Apache-2.0
+Description: UNKNOWN
+Platform: UNKNOWN

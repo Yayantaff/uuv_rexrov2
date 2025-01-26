@@ -1,0 +1,25 @@
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Up-to-date: /home/constance/uuv_ws/install/_setup_util.py
+-- Up-to-date: /home/constance/uuv_ws/install/env.sh
+-- Up-to-date: /home/constance/uuv_ws/install/setup.bash
+-- Up-to-date: /home/constance/uuv_ws/install/local_setup.bash
+-- Up-to-date: /home/constance/uuv_ws/install/setup.sh
+-- Up-to-date: /home/constance/uuv_ws/install/local_setup.sh
+-- Up-to-date: /home/constance/uuv_ws/install/setup.zsh
+-- Up-to-date: /home/constance/uuv_ws/install/local_setup.zsh
+-- Up-to-date: /home/constance/uuv_ws/install/.rosinstall
+-- Installing: /home/constance/uuv_ws/install/lib/pkgconfig/uuv_dave.pc
+-- Installing: /home/constance/uuv_ws/install/share/uuv_dave/cmake/uuv_daveConfig.cmake
+-- Installing: /home/constance/uuv_ws/install/share/uuv_dave/cmake/uuv_daveConfig-version.cmake
+-- Installing: /home/constance/uuv_ws/install/share/uuv_dave/package.xml
+-- Installing: /home/constance/uuv_ws/install/share/uuv_dave/launch
+-- Installing: /home/constance/uuv_ws/install/share/uuv_dave/launch/joy_thrusterop.launch
+-- Installing: /home/constance/uuv_ws/install/share/uuv_dave/launch/smilodon_standalone.launch
+-- Installing: /home/constance/uuv_ws/install/share/uuv_dave/launch/record_demo.launch
+-- Installing: /home/constance/uuv_ws/install/share/uuv_dave/urdf
+-- Installing: /home/constance/uuv_ws/install/share/uuv_dave/urdf/smilodon_gazebo_transient_current.xacro
+-- Installing: /home/constance/uuv_ws/install/share/uuv_dave/worlds
+-- Installing: /home/constance/uuv_ws/install/share/uuv_dave/worlds/uuv_dave_ocean_waves.world
+-- Installing: /home/constance/uuv_ws/install/share/uuv_dave/worlds/uuv_dave_ocean_waves_simple.world
+-- Installing: /home/constance/uuv_ws/install/lib/uuv_dave/joy_thrusterop.py

@@ -1,0 +1,14 @@
+Symlinking /home/constance/uuv_ws/devel/share/ds_sim/cmake/ds_simConfig-version.cmake
+Symlinking /home/constance/uuv_ws/devel/share/ds_sim/cmake/ds_simConfig.cmake
+Symlinking /home/constance/uuv_ws/devel/lib/libdsros_hydro.so
+Symlinking /home/constance/uuv_ws/devel/lib/libdsros_ros_thruster.so
+Symlinking /home/constance/uuv_ws/devel/lib/libds_sim_gazebo_msgs.so
+Symlinking /home/constance/uuv_ws/devel/lib/libdsros_jointstate_publisher.so
+Symlinking /home/constance/uuv_ws/devel/lib/libdsros_sensors.so
+Symlinking /home/constance/uuv_ws/devel/lib/libdsros_navstate_publisher.so
+Symlinking /home/constance/uuv_ws/devel/lib/libdsros_ros_gps.so
+Symlinking /home/constance/uuv_ws/devel/lib/libdsros_ros_ins.so
+Symlinking /home/constance/uuv_ws/devel/lib/libdsros_ros_dvl.so
+Symlinking /home/constance/uuv_ws/devel/lib/libdsros_ros_reson.so
+Symlinking /home/constance/uuv_ws/devel/lib/libdsros_ros_depth.so
+Symlinking /home/constance/uuv_ws/devel/lib/pkgconfig/ds_sim.pc

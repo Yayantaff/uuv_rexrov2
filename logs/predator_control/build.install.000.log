@@ -1,0 +1,19 @@
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/constance/uuv_ws/install/_setup_util.py
+-- Installing: /home/constance/uuv_ws/install/env.sh
+-- Installing: /home/constance/uuv_ws/install/setup.bash
+-- Installing: /home/constance/uuv_ws/install/local_setup.bash
+-- Installing: /home/constance/uuv_ws/install/setup.sh
+-- Installing: /home/constance/uuv_ws/install/local_setup.sh
+-- Installing: /home/constance/uuv_ws/install/setup.zsh
+-- Installing: /home/constance/uuv_ws/install/local_setup.zsh
+-- Installing: /home/constance/uuv_ws/install/.rosinstall
+-- Installing: /home/constance/uuv_ws/install/lib/pkgconfig/predator_control.pc
+-- Installing: /home/constance/uuv_ws/install/share/predator_control/cmake/predator_controlConfig.cmake
+-- Installing: /home/constance/uuv_ws/install/share/predator_control/cmake/predator_controlConfig-version.cmake
+-- Installing: /home/constance/uuv_ws/install/share/predator_control/package.xml
+-- Installing: /home/constance/uuv_ws/install/share/predator_control/launch
+-- Installing: /home/constance/uuv_ws/install/share/predator_control/launch/joint_control.launch
+-- Installing: /home/constance/uuv_ws/install/share/predator_control/launch/gripper_controllers.launch
+-- Installing: /home/constance/uuv_ws/install/share/predator_control/launch/joint_effort_controllers.launch

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/constance/uuv_ws/devel/.private/sonardyne_syrinx600_uuvsim_description/setup.sh

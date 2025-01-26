@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_AcousticCurrentProfile.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_Adcp.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_Compass.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_Ctd.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_DepthPressure.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_Dvl.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_ForwardLookingStatus.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_Frequency.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_Gyro.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_Ins.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_MemsImu.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_NortekDF21.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_NortekVectorSystem.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_OxygenConcentration.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_PhinsStandard.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_PhinsStatus.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_PhinsStdbin3.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_Range3D.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_Ranges3D.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_RdiPD0.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_RdiPD5.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_SoundSpeed.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_UbloxNav.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_UbloxSatellite.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_UbloxSatellites.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_UbloxSignal.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_UbloxSignals.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_UbloxSurveyIn.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_VectorMagneticField.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_Velocity3D.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/_WaterCurrentProfile.py"
+  "/home/constance/uuv_ws/devel/.private/ds_sensor_msgs/lib/python3/dist-packages/ds_sensor_msgs/msg/__init__.py"
+  "CMakeFiles/ds_sensor_msgs_generate_messages_py"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/ds_sensor_msgs_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

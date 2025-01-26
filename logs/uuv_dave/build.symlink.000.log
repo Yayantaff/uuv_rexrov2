@@ -1,0 +1,5 @@
+Symlinking /home/constance/uuv_ws/devel/share/uuv_dave/cmake/uuv_daveConfig-version.cmake
+Symlinking /home/constance/uuv_ws/devel/share/uuv_dave/cmake/uuv_daveConfig.cmake
+Symlinking /home/constance/uuv_ws/devel/lib/uuv_dave/joy_thrusterop.py
+Symlinking /home/constance/uuv_ws/devel/lib/uuv_dave/cmake.lock
+Symlinking /home/constance/uuv_ws/devel/lib/pkgconfig/uuv_dave.pc

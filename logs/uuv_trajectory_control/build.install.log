@@ -1,0 +1,67 @@
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/constance/uuv_ws/install/_setup_util.py
+-- Installing: /home/constance/uuv_ws/install/env.sh
+-- Installing: /home/constance/uuv_ws/install/setup.bash
+-- Installing: /home/constance/uuv_ws/install/local_setup.bash
+-- Installing: /home/constance/uuv_ws/install/setup.sh
+-- Installing: /home/constance/uuv_ws/install/local_setup.sh
+-- Installing: /home/constance/uuv_ws/install/setup.zsh
+-- Installing: /home/constance/uuv_ws/install/local_setup.zsh
+-- Installing: /home/constance/uuv_ws/install/.rosinstall
++ cd /home/constance/uuv_ws/src/uuv_simulator/uuv_control/uuv_trajectory_control
++ mkdir -p /home/constance/uuv_ws/install/lib/python3/dist-packages
++ /usr/bin/env PYTHONPATH=/home/constance/uuv_ws/install/lib/python3/dist-packages:/home/constance/uuv_ws/build/uuv_trajectory_control/lib/python3/dist-packages:/home/constance/uuv_ws/install/lib/python3/dist-packages:/opt/ros/noetic/lib/python3/dist-packages CATKIN_BINARY_DIR=/home/constance/uuv_ws/build/uuv_trajectory_control /usr/bin/python3 /home/constance/uuv_ws/src/uuv_simulator/uuv_control/uuv_trajectory_control/setup.py build --build-base /home/constance/uuv_ws/build/uuv_trajectory_control install --root=/ --install-layout=deb --prefix=/home/constance/uuv_ws/install --install-scripts=/home/constance/uuv_ws/install/bin
+running build
+running build_py
+copying src/uuv_trajectory_generator/path_generator/bezier_curve.py -> /home/constance/uuv_ws/build/uuv_trajectory_control/lib/uuv_trajectory_generator/path_generator
+running install
+running install_lib
+copying /home/constance/uuv_ws/build/uuv_trajectory_control/lib/uuv_trajectory_generator/path_generator/bezier_curve.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_trajectory_generator/path_generator
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_trajectory_generator/path_generator/bezier_curve.py to bezier_curve.cpython-38.pyc
+running install_egg_info
+Removing /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_trajectory_control-0.6.13.egg-info
+Writing /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_trajectory_control-0.6.13.egg-info
+-- Up-to-date: /home/constance/uuv_ws/install/lib/pkgconfig/uuv_trajectory_control.pc
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/cmake/uuv_trajectory_controlConfig.cmake
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/cmake/uuv_trajectory_controlConfig-version.cmake
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/package.xml
+-- Up-to-date: /home/constance/uuv_ws/install/lib/uuv_trajectory_control/rov_nl_pid_controller.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/uuv_trajectory_control/rov_mb_sm_controller.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/uuv_trajectory_control/rov_nmb_sm_controller.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/uuv_trajectory_control/rov_pid_controller.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/uuv_trajectory_control/rov_ua_pid_controller.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/uuv_trajectory_control/rov_mb_fl_controller.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/uuv_trajectory_control/auv_geometric_tracking_controller.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/uuv_trajectory_control/demo_wp_trajectory_generator.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/uuv_trajectory_control/rov_pd_grav_compensation_controller.py
+-- Up-to-date: /home/constance/uuv_ws/install/lib/uuv_trajectory_control/rov_sf_controller.py
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/launch
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/launch/rov_mb_sm_controller.launch
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/launch/rov_mb_fl_controller.launch
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/launch/rov_pd_grav_compensation_controller.launch
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/launch/rov_ua_pid_controller.launch
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/launch/rov_nmb_sm_controller.launch
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/launch/auv_geometric_tracking_controller.launch
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/launch/rov_nl_pid_controller.launch
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/launch/rov_sf_controller.launch
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/launch/rov_pid_controller.launch
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/config
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/config/models
+-- Installing: /home/constance/uuv_ws/install/share/uuv_trajectory_control/config/models/rexrov2
+-- Installing: /home/constance/uuv_ws/install/share/uuv_trajectory_control/config/models/rexrov2/params.yaml
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/config/models/rexrov
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/config/models/rexrov/params.yaml
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/config/controllers
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/config/controllers/mb_sm
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/config/controllers/mb_sm/rexrov
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/config/controllers/mb_sm/rexrov/params.yaml
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/config/controllers/nl_pid
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/config/controllers/nl_pid/rexrov
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/config/controllers/nl_pid/rexrov/params.yaml
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/config/controllers/pid
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/config/controllers/pid/rexrov
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/config/controllers/pid/rexrov/params.yaml
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/config/controllers/nmb_sm
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/config/controllers/nmb_sm/rexrov
+-- Up-to-date: /home/constance/uuv_ws/install/share/uuv_trajectory_control/config/controllers/nmb_sm/rexrov/params.yaml

@@ -1,0 +1,1 @@
+/home/constance/uuv_ws/devel/.private/uuv_manipulators_description/share/uuv_manipulators_description/cmake/uuv_manipulators_descriptionConfig.cmake

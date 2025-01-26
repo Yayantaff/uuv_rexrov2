@@ -1,0 +1,38 @@
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Up-to-date: /home/constance/uuv_ws/install/_setup_util.py
+-- Up-to-date: /home/constance/uuv_ws/install/env.sh
+-- Up-to-date: /home/constance/uuv_ws/install/setup.bash
+-- Up-to-date: /home/constance/uuv_ws/install/local_setup.bash
+-- Up-to-date: /home/constance/uuv_ws/install/setup.sh
+-- Up-to-date: /home/constance/uuv_ws/install/local_setup.sh
+-- Up-to-date: /home/constance/uuv_ws/install/setup.zsh
+-- Up-to-date: /home/constance/uuv_ws/install/local_setup.zsh
+-- Up-to-date: /home/constance/uuv_ws/install/.rosinstall
++ cd /home/constance/uuv_ws/src/uuv_simulation_evaluation/uuv_simulation_wrapper
++ mkdir -p /home/constance/uuv_ws/install/lib/python3/dist-packages
++ /usr/bin/env PYTHONPATH=/home/constance/uuv_ws/install/lib/python3/dist-packages:/home/constance/uuv_ws/build/uuv_simulation_wrapper/lib/python3/dist-packages:/home/constance/uuv_ws/install/lib/python3/dist-packages:/opt/ros/noetic/lib/python3/dist-packages CATKIN_BINARY_DIR=/home/constance/uuv_ws/build/uuv_simulation_wrapper /usr/bin/python3 /home/constance/uuv_ws/src/uuv_simulation_evaluation/uuv_simulation_wrapper/setup.py build --build-base /home/constance/uuv_ws/build/uuv_simulation_wrapper install --root=/ --install-layout=deb --prefix=/home/constance/uuv_ws/install --install-scripts=/home/constance/uuv_ws/install/bin
+running build
+running build_py
+creating /home/constance/uuv_ws/build/uuv_simulation_wrapper/lib
+creating /home/constance/uuv_ws/build/uuv_simulation_wrapper/lib/uuv_simulation_runner
+copying src/uuv_simulation_runner/simulation_runner.py -> /home/constance/uuv_ws/build/uuv_simulation_wrapper/lib/uuv_simulation_runner
+copying src/uuv_simulation_runner/__init__.py -> /home/constance/uuv_ws/build/uuv_simulation_wrapper/lib/uuv_simulation_runner
+running install
+running install_lib
+creating /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_simulation_runner
+copying /home/constance/uuv_ws/build/uuv_simulation_wrapper/lib/uuv_simulation_runner/simulation_runner.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_simulation_runner
+copying /home/constance/uuv_ws/build/uuv_simulation_wrapper/lib/uuv_simulation_runner/__init__.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_simulation_runner
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_simulation_runner/simulation_runner.py to simulation_runner.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_simulation_runner/__init__.py to __init__.cpython-38.pyc
+running install_egg_info
+Writing /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_simulation_wrapper-0.5.0.egg-info
+-- Installing: /home/constance/uuv_ws/install/lib/pkgconfig/uuv_simulation_wrapper.pc
+-- Installing: /home/constance/uuv_ws/install/share/uuv_simulation_wrapper/cmake/uuv_simulation_wrapperConfig.cmake
+-- Installing: /home/constance/uuv_ws/install/share/uuv_simulation_wrapper/cmake/uuv_simulation_wrapperConfig-version.cmake
+-- Installing: /home/constance/uuv_ws/install/share/uuv_simulation_wrapper/package.xml
+-- Installing: /home/constance/uuv_ws/install/lib/uuv_simulation_wrapper/set_simulation_timer
+-- Installing: /home/constance/uuv_ws/install/lib/uuv_simulation_wrapper/unpause_simulation
+-- Installing: /home/constance/uuv_ws/install/share/uuv_simulation_wrapper/launch
+-- Installing: /home/constance/uuv_ws/install/share/uuv_simulation_wrapper/launch/set_simulation_timer.launch
+-- Installing: /home/constance/uuv_ws/install/share/uuv_simulation_wrapper/launch/unpause_simulation.launch

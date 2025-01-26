@@ -1,0 +1,1 @@
+/home/constance/uuv_ws/devel/.private/uuv_manipulators_msgs/share/gennodejs/ros/uuv_manipulators_msgs/srv/SolveIK.js

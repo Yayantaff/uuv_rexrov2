@@ -1,0 +1,132 @@
+[  0%] Built target gazebo_ros_gencfg
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[  0%] Built target gazebo_msgs_generate_messages_py
+[  0%] Built target gazebo_msgs_generate_messages_nodejs
+[  0%] Built target gazebo_msgs_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_gencfg
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[  0%] Built target gazebo_msgs_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target ds_sensor_msgs_generate_messages_py
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target ds_sensor_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target ds_nav_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target ds_actuator_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target ds_actuator_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target ds_actuator_msgs_generate_messages_py
+[  0%] Built target ds_core_msgs_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target ds_nav_msgs_generate_messages_py
+[  0%] Built target _catkin_empty_exported_target
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target ds_actuator_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target ds_core_msgs_generate_messages_py
+[  0%] Built target ds_core_msgs_generate_messages_lisp
+[  0%] Built target ds_core_msgs_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target ds_core_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target ds_sensor_msgs_generate_messages_eus
+[  0%] Built target ds_sensor_msgs_gencfg
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target ds_actuator_msgs_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target gazebo_msgs_generate_messages_eus
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target ds_nav_msgs_generate_messages_cpp
+[  0%] Built target ds_nav_msgs_generate_messages_eus
+[  0%] Built target ds_sensor_msgs_generate_messages_lisp
+[  0%] Built target ds_nav_msgs_generate_messages_nodejs
+[  0%] Built target ds_sensor_msgs_generate_messages_cpp
+[  0%] Built target ds_multibeam_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target ds_multibeam_msgs_generate_messages_eus
+[  0%] Built target ds_multibeam_msgs_generate_messages_lisp
+[  0%] Built target ds_multibeam_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target trajectory_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target ds_multibeam_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 38%] Built target ds_sim_gazebo_msgs
+[ 38%] Built target geometry_msgs_generate_messages_py
+[ 43%] Built target dsros_ros_thruster
+[ 58%] Built target dsros_sensors
+[ 64%] Built target dsros_ros_dvl
+[ 69%] Built target dsros_ros_gps
+[ 74%] Built target dsros_navstate_publisher
+[ 79%] Built target dsros_ros_depth
+[ 84%] Built target dsros_ros_reson
+[ 89%] Built target dsros_jointstate_publisher
+[ 94%] Built target dsros_ros_ins
+[100%] Built target dsros_hydro
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/constance/uuv_ws/install/_setup_util.py
+-- Installing: /home/constance/uuv_ws/install/env.sh
+-- Installing: /home/constance/uuv_ws/install/setup.bash
+-- Installing: /home/constance/uuv_ws/install/local_setup.bash
+-- Installing: /home/constance/uuv_ws/install/setup.sh
+-- Installing: /home/constance/uuv_ws/install/local_setup.sh
+-- Installing: /home/constance/uuv_ws/install/setup.zsh
+-- Installing: /home/constance/uuv_ws/install/local_setup.zsh
+-- Installing: /home/constance/uuv_ws/install/.rosinstall
+-- Up-to-date: /home/constance/uuv_ws/install/lib/pkgconfig/ds_sim.pc
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_sim/cmake/ds_simConfig.cmake
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_sim/cmake/ds_simConfig-version.cmake
+-- Up-to-date: /home/constance/uuv_ws/install/share/ds_sim/package.xml
+-- Up-to-date: /home/constance/uuv_ws/install/lib/libds_sim_gazebo_msgs.so
+-- Up-to-date: /home/constance/uuv_ws/install/lib/libdsros_jointstate_publisher.so
+-- Up-to-date: /home/constance/uuv_ws/install/lib/libdsros_navstate_publisher.so
+-- Up-to-date: /home/constance/uuv_ws/install/lib/libdsros_sensors.so
+-- Up-to-date: /home/constance/uuv_ws/install/lib/libdsros_ros_depth.so
+-- Up-to-date: /home/constance/uuv_ws/install/lib/libdsros_ros_ins.so
+-- Up-to-date: /home/constance/uuv_ws/install/lib/libdsros_ros_dvl.so
+-- Up-to-date: /home/constance/uuv_ws/install/lib/libdsros_ros_gps.so
+-- Up-to-date: /home/constance/uuv_ws/install/lib/libdsros_ros_reson.so
+-- Up-to-date: /home/constance/uuv_ws/install/lib/libdsros_hydro.so
+-- Up-to-date: /home/constance/uuv_ws/install/lib/libdsros_ros_thruster.so
+-- Up-to-date: /home/constance/uuv_ws/install/include/ds_sim

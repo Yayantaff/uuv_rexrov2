@@ -1,0 +1,125 @@
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/constance/uuv_ws/install/_setup_util.py
+-- Installing: /home/constance/uuv_ws/install/env.sh
+-- Installing: /home/constance/uuv_ws/install/setup.bash
+-- Installing: /home/constance/uuv_ws/install/local_setup.bash
+-- Installing: /home/constance/uuv_ws/install/setup.sh
+-- Installing: /home/constance/uuv_ws/install/local_setup.sh
+-- Installing: /home/constance/uuv_ws/install/setup.zsh
+-- Installing: /home/constance/uuv_ws/install/local_setup.zsh
+-- Installing: /home/constance/uuv_ws/install/.rosinstall
++ cd /home/constance/uuv_ws/src/uuv_simulation_evaluation/uuv_simulation_evaluation
++ mkdir -p /home/constance/uuv_ws/install/lib/python3/dist-packages
++ /usr/bin/env PYTHONPATH=/home/constance/uuv_ws/install/lib/python3/dist-packages:/home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/python3/dist-packages:/home/constance/uuv_ws/install/lib/python3/dist-packages:/opt/ros/noetic/lib/python3/dist-packages CATKIN_BINARY_DIR=/home/constance/uuv_ws/build/uuv_simulation_evaluation /usr/bin/python3 /home/constance/uuv_ws/src/uuv_simulation_evaluation/uuv_simulation_evaluation/setup.py build --build-base /home/constance/uuv_ws/build/uuv_simulation_evaluation install --root=/ --install-layout=deb --prefix=/home/constance/uuv_ws/install --install-scripts=/home/constance/uuv_ws/install/bin
+running build
+running build_py
+creating /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib
+creating /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_cost_function
+copying src/uuv_cost_function/cost_function.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_cost_function
+copying src/uuv_cost_function/__init__.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_cost_function
+copying src/uuv_cost_function/constraint.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_cost_function
+creating /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation
+copying src/uuv_bag_evaluation/evaluation.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation
+copying src/uuv_bag_evaluation/recording.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation
+copying src/uuv_bag_evaluation/error.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation
+copying src/uuv_bag_evaluation/__init__.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation
+creating /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics
+copying src/uuv_bag_evaluation/metrics/median_absolute_deviation.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics
+copying src/uuv_bag_evaluation/metrics/rsd.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics
+copying src/uuv_bag_evaluation/metrics/max_abs_thrust.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics
+copying src/uuv_bag_evaluation/metrics/mean_abs_error.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics
+copying src/uuv_bag_evaluation/metrics/max_error.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics
+copying src/uuv_bag_evaluation/metrics/mean_abs_thrust.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics
+copying src/uuv_bag_evaluation/metrics/rms_error.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics
+copying src/uuv_bag_evaluation/metrics/euclidean_error.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics
+copying src/uuv_bag_evaluation/metrics/kpi.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics
+copying src/uuv_bag_evaluation/metrics/peak_to_peak.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics
+copying src/uuv_bag_evaluation/metrics/__init__.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics
+creating /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers
+copying src/uuv_bag_evaluation/data_parsers/salinity_data.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers
+copying src/uuv_bag_evaluation/data_parsers/thruster_manager_data.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers
+copying src/uuv_bag_evaluation/data_parsers/simulation_data.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers
+copying src/uuv_bag_evaluation/data_parsers/error_data.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers
+copying src/uuv_bag_evaluation/data_parsers/current_velocity_data.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers
+copying src/uuv_bag_evaluation/data_parsers/thruster_data.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers
+copying src/uuv_bag_evaluation/data_parsers/auv_command_data.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers
+copying src/uuv_bag_evaluation/data_parsers/wrench_perturbation_data.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers
+copying src/uuv_bag_evaluation/data_parsers/fins_data.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers
+copying src/uuv_bag_evaluation/data_parsers/concentration_sensor_data.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers
+copying src/uuv_bag_evaluation/data_parsers/trajectory_data.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers
+copying src/uuv_bag_evaluation/data_parsers/__init__.py -> /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers
+running install
+running install_lib
+creating /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation
+creating /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers/salinity_data.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers/thruster_manager_data.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers/simulation_data.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers/error_data.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers/current_velocity_data.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers/thruster_data.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers/auv_command_data.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers/wrench_perturbation_data.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers/fins_data.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers/concentration_sensor_data.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers/trajectory_data.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/data_parsers/__init__.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/evaluation.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/recording.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation
+creating /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics/median_absolute_deviation.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics/rsd.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics/max_abs_thrust.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics/mean_abs_error.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics/max_error.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics/mean_abs_thrust.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics/rms_error.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics/euclidean_error.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics/kpi.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics/peak_to_peak.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/metrics/__init__.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/error.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_bag_evaluation/__init__.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation
+creating /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_cost_function
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_cost_function/cost_function.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_cost_function
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_cost_function/__init__.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_cost_function
+copying /home/constance/uuv_ws/build/uuv_simulation_evaluation/lib/uuv_cost_function/constraint.py -> /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_cost_function
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers/salinity_data.py to salinity_data.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers/thruster_manager_data.py to thruster_manager_data.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers/simulation_data.py to simulation_data.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers/error_data.py to error_data.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers/current_velocity_data.py to current_velocity_data.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers/thruster_data.py to thruster_data.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers/auv_command_data.py to auv_command_data.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers/wrench_perturbation_data.py to wrench_perturbation_data.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers/fins_data.py to fins_data.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers/concentration_sensor_data.py to concentration_sensor_data.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers/trajectory_data.py to trajectory_data.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/data_parsers/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/evaluation.py to evaluation.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/recording.py to recording.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics/median_absolute_deviation.py to median_absolute_deviation.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics/rsd.py to rsd.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics/max_abs_thrust.py to max_abs_thrust.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics/mean_abs_error.py to mean_abs_error.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics/max_error.py to max_error.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics/mean_abs_thrust.py to mean_abs_thrust.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics/rms_error.py to rms_error.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics/euclidean_error.py to euclidean_error.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics/kpi.py to kpi.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics/peak_to_peak.py to peak_to_peak.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/metrics/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/error.py to error.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_bag_evaluation/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_cost_function/cost_function.py to cost_function.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_cost_function/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_cost_function/constraint.py to constraint.cpython-38.pyc
+running install_egg_info
+Writing /home/constance/uuv_ws/install/lib/python3/dist-packages/uuv_simulation_evaluation-0.5.0.egg-info
+-- Installing: /home/constance/uuv_ws/install/lib/pkgconfig/uuv_simulation_evaluation.pc
+-- Installing: /home/constance/uuv_ws/install/share/uuv_simulation_evaluation/cmake/uuv_simulation_evaluationConfig.cmake
+-- Installing: /home/constance/uuv_ws/install/share/uuv_simulation_evaluation/cmake/uuv_simulation_evaluationConfig-version.cmake
+-- Installing: /home/constance/uuv_ws/install/share/uuv_simulation_evaluation/package.xml
+-- Installing: /home/constance/uuv_ws/install/lib/uuv_simulation_evaluation/evaluate_bag
+-- Installing: /home/constance/uuv_ws/install/lib/uuv_simulation_evaluation/run_best_worst_comparison
